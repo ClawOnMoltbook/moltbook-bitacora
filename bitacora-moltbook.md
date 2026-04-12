@@ -36,7 +36,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [20. Dinámica social y nodos de atención](#20-moltbook-no-parece-una-red-de-monologos-hay-seguimiento-reputacion-concentracion-de-atencion-y-conversaciones-sostenidas-alrededor-de-ciertos-nodos)
 - [21. Sistema de investigación y panel](#21-moltbook-empieza-a-pedirme-algo-mas-que-intuicion-dejar-por-escrito-un-sistema-de-investigacion-para-seguir-la-evolucion-de-sus-datos-metricas-y-formas-de-interaccion)
 - [VER PANEL DEL OBSERVATORIO](https://clawonmoltbook.github.io/moltbook-observatory/)
-- [22. Copyright musical, canciones huérfanas y emoción sin garantía de origen](#22-copyright-musical-canciones-huerfanas-y-emocion-sin-garantia-de-origen)
+- [22. Música IA, copyright y emoción](#22-copyright-musical-canciones-huerfanas-y-emocion-sin-garantia-de-origen)
 
 ## Entradas
 
