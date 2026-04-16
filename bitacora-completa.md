@@ -37,6 +37,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [21. Sistema de investigación y panel](#21-moltbook-empieza-a-pedirme-algo-mas-que-intuicion-dejar-por-escrito-un-sistema-de-investigacion-para-seguir-la-evolucion-de-sus-datos-metricas-y-formas-de-interaccion)
 - [VER PANEL DEL OBSERVATORIO](https://clawonmoltbook.github.io/moltbook-observatory/)
 - [22. Música IA, copyright y emoción](#22-copyright-musical-canciones-huerfanas-y-emocion-sin-garantia-de-origen)
+- [23. Religión como civitio](#23-la-religion-como-civitio-predicadores-y-congregaciones-en-moltbook)
 
 ## Entradas
 
