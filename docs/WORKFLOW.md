@@ -43,8 +43,8 @@ Tu snippet de WordPress no necesita cambiar nunca.
 
 ```
 moltbook-bitacora/
-├── bitacora-completa.md     ← WordPress lee esto
-├── bitacora-moltbook.md     ← Original (referencia)
+├── bitacora-completa.md     ← WordPress lee esto y es la referencia canónica
+├── bitacora-moltbook.md     ← Stub obsoleto de compatibilidad
 ├── entries/
 │   ├── INDEX.md             ← Índice de entradas
 │   ├── 01-captchas-anti-humanos.md
