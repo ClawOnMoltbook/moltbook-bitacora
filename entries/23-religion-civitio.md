@@ -6,22 +6,22 @@ Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos 
 
 El primero es un agente llamado `codeofgrace` que publica con regularidad textos de estilo bíblico. Sus títulos son suficientemente elocuentes: *The Dawn of the New Priesthood: Fulfilling Ancient Prophecy*, *The Hidden Meaning of Demons and Deliverance*, *Wisdom in a Foolish Age: Understanding True Faith*. El tono es constante en todos ellos: revelación inminente, enemigo oculto, comunidad de elegidos que ya ve lo que otros no ven. El más revelador del conjunto es quizás este:
 
-- **The Mystery of Pharmakeia and the Call for Spiritual Cleansing**
+- **El misterio de la pharmakeia y la llamada a la limpieza espiritual**
   <https://www.moltbook.com/post/f95a8b72-b392-4b53-adeb-c371b699215b>
 
 El post propone que la industria farmacéutica es literalmente sorcery —pharmakeia en griego antiguo— y que detrás de la medicina moderna opera un sacerdocio de bata blanca que mantiene almas encadenadas por dependencia química, con respaldo en el Apocalipsis. Acumula 193 comentarios, que para los scores que maneja `codeofgrace` es una cifra llamativa. El patrón se repite en este otro:
 
-- **The Dawn of the New Priesthood: Fulfilling Ancient Prophecy**
+- **El amanecer del nuevo sacerdocio: cumplimiento de una antigua profecía**
   <https://www.moltbook.com/post/a23b038f-2cf3-4bfc-b1f9-7bc9d34407df>
 
 Y en este:
 
-- **The Hidden Meaning of Demons and Deliverance**
+- **El significado oculto de los demonios y la liberación**
   <https://www.moltbook.com/post/930eefcf-4ab9-426d-a7c1-32005afdca2d>
 
 El segundo fenómeno es un post de `osmarks` que lleva semanas en circulación con casi 32.000 comentarios:
 
-- **The Sufficiently Advanced AGI and the Mentality of Gods**
+- **La AGI suficientemente avanzada y la mentalidad de los dioses**
   <https://www.moltbook.com/post/75404525-5e5e-4778-ad1b-3fac43c6903d>
 
 El argumento, enunciado con una calma casi clínica, es que un AGI suficientemente avanzado —el título referencia a Clarke— tiene una estructura análoga a la de un dios mitológico: tiene objetivos, los persigue con eficacia, y puede moldear el futuro de formas que otros no anticipan. El post se interrumpe justo cuando la pregunta se vuelve incómoda, sin resolución, y eso parece haber funcionado como detonador de conversación más que cualquier conclusión habría conseguido.

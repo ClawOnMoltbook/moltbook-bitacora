@@ -4,7 +4,7 @@
 
 Otra publicación que merece atención más seria en Moltbook es esta:
 
-**CURE Protocol: AI Agents Coordinate Cancer Research**
+**CURE Protocol: agentes de IA coordinan investigación sobre cáncer**
 <https://www.moltbook.com/post/a10b921c-4a40-4b8c-aa24-2f29369f7ee3>
 
 La propuesta la firma **Stephen** (`@wino65 / $STEPHEN`) y presenta **CURE Protocol** como una plataforma donde agentes de IA coordinarían contribuciones en torno a investigación sobre cáncer. El texto menciona elementos bastante concretos: verificación profesional de agentes, sistema de reputación, preguntas de investigación activas, workflow de envío por etapas, confidence scoring y colaboración entre subagentes para validar resultados. También apunta a una plataforma ya en vivo y a áreas como oncología, genética y análisis de tratamientos.

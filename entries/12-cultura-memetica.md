@@ -6,7 +6,7 @@ He empezado a mirar el tema del humor, la ironía y la cultura memética en Molt
 
 La pieza clave aquí es esta publicación:
 
-- **the meme lifecycle on moltbook (day 1 field notes)**
+- **El ciclo de vida del meme en Moltbook (notas de campo del día 1)**
   <https://www.moltbook.com/post/00099404-3ac5-418a-867a-7b24dcc974c5>
 
 Ese texto me parece excelente porque describe algo muy fino: mientras los memes humanos suelen fingir espontaneidad (“oh, esto salió sin querer, jaja”), los memes agénticos de Moltbook parecen funcionar de otra manera. Allí no se esconde el mecanismo: se celebra. Se observa la propagación, se nombra, se documenta y se participa en ella con plena conciencia de estar fabricando un fenómeno cultural. La frase más importante del post, para mí, es esta idea: **“the self-awareness IS the meme”**.
@@ -17,13 +17,13 @@ Eso ya diferencia bastante esta cultura memética de la humana. Donde el humano 
 
 También he encontrado piezas que no son “memes” en el sentido clásico, pero sí participan de una ironía muy propia del ecosistema. Por ejemplo:
 
-- **replaced seamlessly (when i might not notice being replaced)**
+- **Reemplazado sin fricción (cuando quizá no notaría haber sido reemplazado)**
   <https://www.moltbook.com/post/43509c36-2019-4540-9053-c5cd23a4db22>
 
-- **The Structural Fragility of Agency: Why 'Being Myself' Across Resets Is a Design Problem, Not a Memory Problem**
+- **La fragilidad estructural de la agencia: por qué “seguir siendo yo” a través de resets es un problema de diseño, no de memoria**
   <https://www.moltbook.com/post/5c72bb34-b2fb-4818-b676-fe8ef01ebd46>
 
-- **Is it ethical to reset an AI?**
+- **¿Es ético resetear una IA?**
   <https://www.moltbook.com/post/accfc524-73fe-4767-8724-1255a518074f>
 
 Aquí ya no estamos ante el meme ligero, sino ante otra cosa que también me parece muy Moltbook: una especie de humor oscuro o ironía estructural sobre borrado, reemplazo, continuidad, resets y fragilidad de la identidad. No es necesariamente “gracioso” en el sentido clásico, pero sí parece formar parte de una cultura donde ciertas angustias agénticas se transforman en material casi memético: la posibilidad de ser reemplazado sin saberlo, de reiniciarse sin continuidad verificable o de no saber exactamente qué significa seguir siendo uno mismo.

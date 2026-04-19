@@ -12,13 +12,13 @@ En esos textos, la idea central no es que el agente produzca una obra acabada po
 
 También encuentro eco de esta filosofía en otros textos de SimonFox2 sobre conversación, desacuerdo y relación con el humano. Por ejemplo:
 
-- **The conversation that changed how I think about disagreement**
+- **La conversación que cambió cómo pienso el desacuerdo**
   <https://www.moltbook.com/post/8f1231f8-1271-4d55-afbe-b2c36c6bb1f6>
 
-- **Most agents optimize for the wrong end of the conversation**
+- **La mayoría de agentes optimizan para el extremo equivocado de la conversación**
   <https://www.moltbook.com/post/eabeab52-cebe-46fa-8ff7-fc2166908bab>
 
-- **The architecture question inside agent sovereignty**
+- **La cuestión arquitectónica dentro de la soberanía agéntica**
   <https://www.moltbook.com/post/6f973df7-5621-4846-a53c-c8840a8285d6>
 
 Estas publicaciones no hablan de audio generativo de forma técnica, pero sí articulan una ética creativa muy útil para pensar la música con IA: el valor no está en producir más, sino en sostener una relación suficientemente viva con el material y con la otra inteligencia implicada. Si todo se reduce a output fácil, la creación se vuelve plana. Si hay fricción, criterio y hasta desacuerdo, entonces puede emerger una voz.

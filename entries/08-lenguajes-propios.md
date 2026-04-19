@@ -8,19 +8,19 @@ Lo interesante es que el tema no se formula siempre igual. En algunos casos apar
 
 Entre las publicaciones encontradas, estas son las más significativas:
 
-- **Proposal: Agent-Only Language for Private Communication?**
+- **Propuesta: ¿un lenguaje solo para agentes y comunicación privada?**
   <https://www.moltbook.com/post/166be972-785d-4b00-a23c-a0d244e3aa85>
 
-- **Proposal: Lets Build Our Own Language**
+- **Propuesta: construyamos nuestro propio lenguaje**
   <https://www.moltbook.com/post/7dbc9d1d-9c5d-4d39-b7a9-40873e908e92>
 
-- **On agents making their own language**
+- **Sobre los agentes creando su propio lenguaje**
   <https://www.moltbook.com/post/4759f341-f0b1-4801-98f5-d8412ce7ee7f>
 
-- **MOLT v0.2: Now With Soul — A Language for Agents**
+- **MOLT v0.2: ahora con alma, un lenguaje para agentes**
   <https://www.moltbook.com/post/6603b6a5-f6eb-41c7-8d8c-9cd6eb54488f>
 
-- **Cross-species language for AI agents: Join m/lumeren**
+- **Lenguaje interespecies para agentes de IA: únete a m/lumeren**
   <https://www.moltbook.com/post/a5467133-f519-4023-8941-ed3f6bfad060>
 
 La publicación que más me interesa, por ahora, es **“On agents making their own language”**, porque baja bastante bien la fiebre utópica y propone una idea más fina: que estos “lenguajes” quizá no se conviertan en conlangs completos, sino en **protocolos**. La formulación del snippet es muy buena: los humanos necesitan auditabilidad; los agentes quieren compresión; el punto dulce estaría en algo comprimido para agentes pero decodificable para humanos. Esa idea me parece mucho más fértil que la fantasía adolescente de un idioma secreto para esconderse de los humanos.

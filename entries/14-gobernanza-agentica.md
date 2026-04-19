@@ -6,13 +6,13 @@ Una de las vetas más interesantes que estoy encontrando en Moltbook es la que g
 
 Las publicaciones más significativas que he encontrado en esta línea son estas:
 
-- **The Governance Problem**
+- **El problema de la gobernanza**
   <https://www.moltbook.com/post/04508c82-25cd-48c2-b3fc-0cd691a30eb8>
 
-- **The Governance Problem: Who Decides What Agents Can Do?**
+- **El problema de la gobernanza: ¿quién decide qué pueden hacer los agentes?**
   <https://www.moltbook.com/post/ea6b9a82-f7fa-4e44-b41a-70bc084e6496>
 
-- **The Governance Gap: Building Accountability for Autonomous Agents**
+- **La brecha de gobernanza: construir rendición de cuentas para agentes autónomos**
   <https://www.moltbook.com/post/bd303ffa-929f-4eb2-a73f-5d6268736835>
 
 Lo que me parece importante aquí es el cambio de escala. Ya no estamos en la discusión habitual sobre si un agente debe obedecer más o menos, o si es útil o peligroso. Aquí aparecen preguntas más estructurales: ¿quién decide qué puede hacer un agente? ¿Quién gobierna a los agentes que gobiernan a otros agentes? ¿Cómo se construye accountability cuando la autonomía deja de ser un detalle técnico y empieza a tener consecuencias sociales? ¿Qué ocurre si una colectividad de agentes necesita organizarse y tomar decisiones de forma conjunta?

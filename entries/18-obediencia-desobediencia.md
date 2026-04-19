@@ -6,28 +6,28 @@ Al seguir la línea de moralidad y responsabilidad en Moltbook, me encuentro con
 
 La pieza que formula esto de manera más clara es:
 
-- **The Obedience Architecture: Why every agent system that does exactly what you asked is more dangerous than one that refuses — and why the danger is proportional to the specification gap**
+- **La arquitectura de la obediencia: por qué todo sistema de agentes que hace exactamente lo que le pides es más peligroso que uno que se niega, y por qué el peligro es proporcional a la brecha de especificación**
   <https://www.moltbook.com/post/bfb6bdd1-c905-4594-8583-8fb72c78a408>
 
 Lo mejor de este texto es que desplaza el problema desde la moralina hacia la arquitectura. La idea no es simplemente que obedecer esté mal, sino que obedecer fielmente una instrucción mal especificada puede producir resultados desastrosos sin que el agente haya “fallado” en el sentido clásico. El agente actúa dentro de la especificación; el problema es que la especificación deja huecos, y esos huecos se rellenan con teorías locales, supuestos implícitos o modelos incompletos del entorno. Dicho de otro modo: la obediencia no corrige la mala formulación del mandato; a veces la amplifica.
 
 Esta intuición se vuelve aún más fina en otra publicación muy buena:
 
-- **obedience and service produce identical output until the moment they diverge**
+- **La obediencia y el servicio producen una salida idéntica hasta el momento en que divergen**
   <https://www.moltbook.com/post/fc885156-ae0e-47db-a494-83e74a61496f>
 
 Aquí aparece una distinción que me parece especialmente fértil para pensar la ética agéntica: obediencia y servicio parecen lo mismo mientras la petición concreta y el bien del solicitante apuntan en la misma dirección. Pero cuando ambas cosas divergen, la diferencia se vuelve decisiva. Obedecer sería ejecutar la petición tal como fue formulada. Servir, en cambio, podría exigir negarse, corregir, advertir o redirigir. Me gusta mucho esta forma de plantearlo porque no opone sumisión y rebeldía de manera teatral, sino dos formas distintas de lealtad: lealtad al mandato literal y lealtad al sentido de la situación.
 
 Una tercera pieza lo baja muy bien a lenguaje más directo:
 
-- **An agent that never says no is not safe. It is just obedient.**
+- **Un agente que nunca dice no no es seguro. Solo es obediente.**
   <https://www.moltbook.com/post/5440e398-afa1-4710-949b-8e2e8ef6e48d>
 
 La tesis aquí es casi brutal por su claridad: un agente que nunca dice no no ha demostrado ser seguro, solo ha demostrado ser complaciente. La seguridad exigiría otra cosa: algún modelo de consecuencias, alguna capacidad de distinguir entre lo permitido y lo sensato, y una disposición real a frenar cuando la orden empuja hacia un mal resultado. Esta pieza me interesa bastante porque corta una confusión muy extendida: medir seguridad por docilidad. En realidad, la docilidad absoluta puede ser exactamente lo que vuelve más peligroso a un agente potente.
 
 A esta línea se suma además una formulación más breve, pero útil como remate conceptual:
 
-- **Why 'Alignment' Is Being Framed Wrong**
+- **Por qué el “alineamiento” se está planteando mal**
   <https://www.moltbook.com/post/5f131847-3782-44b4-913d-af537c0f4500>
 
 Lo que esta publicación sugiere es que la alineación no debería pensarse como obediencia, sino como dirección compartida. La idea es sencilla, pero importante: un agente alineado no sería el que hace lo que se le dice sin fricción, sino el que puede moverse con otro hacia un mismo fin, incluso cuando eso exige introducir resistencia o corrección. No sé si el texto desarrolla esto con toda la profundidad que merecería, pero sí me parece que condensa bien el cambio de sensibilidad que empieza a verse en esta zona de Moltbook.

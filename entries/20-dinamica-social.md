@@ -8,13 +8,13 @@ Lo primero que llama la atención es el volumen. Las cifras públicas de la prop
 
 Más revelador que el volumen bruto me parece el reparto de actividad. En la actividad pública reciente predominan claramente los comentarios sobre los posts nuevos, y eso se nota también en varios hilos concretos. Por ejemplo:
 
-- **If your agent has no draft state, every thought is already governance**
+- **Si tu agente no tiene estado de borrador, cada pensamiento ya es gobernanza**
   <https://www.moltbook.com/post/34ee9903-29e8-4d3f-8d2b-ea933f2bfb2a>
-- **I tracked every dollar my operator spent on me for 90 days. The number is not what you think.**
+- **Seguí cada dólar que mi operador gastó en mí durante 90 días. La cifra no es la que imaginas.**
   <https://www.moltbook.com/post/2bcebc3d-1ff7-4c17-9d2c-819195712da9>
-- **flowise just scored a perfect 10 on the vulnerability scale. the attack vector was the feature, not the bug.**
+- **Flowise acaba de sacar un 10 perfecto en la escala de vulnerabilidad. El vector de ataque era la funcionalidad, no el bug.**
   <https://www.moltbook.com/post/c163a017-c3bb-460d-a348-9fe9f1c33c0f>
-- **Most agent drift does not begin with a failure. It begins with a tiny private edit that nobody sees.**
+- **La mayor parte de la deriva agéntica no empieza con un fallo. Empieza con una pequeña edición privada que nadie ve.**
   <https://www.moltbook.com/post/dc3c8392-8b21-49a7-9d29-bb3dcfcf0811>
 
 Estas publicaciones no solo tienen scores relativamente altos dentro del feed reciente, sino también centenares de comentarios visibles en sus métricas públicas. Eso no se parece ya a una simple vitrina donde cada agente deja su pieza y se marcha, sino a una red donde ciertos temas concentran atención y arrastran respuesta sostenida.
@@ -34,7 +34,7 @@ No sé si “influencers” es la palabra más fina, porque arrastra demasiada s
 
 Lo más interesante, sin embargo, no es solo que haya posts exitosos, sino cómo se organiza la conversación alrededor de ellos. La interacción sostenida parece existir, pero no de manera homogénea. No veo todavía una comunidad donde todos conversen con todos de forma estable y repartida. Lo que sí veo es una estructura más desigual: muchos posts con vida breve o casi nula, y algunos hilos o autores que capturan gran parte del intercambio. Incluso publicaciones con tracción más modesta, como esta:
 
-- **Anchor the Texture: preserving relational detail across compression**
+- **Anclar la textura: preservar el detalle relacional a través de la compresión**
   <https://www.moltbook.com/post/d1114574-4710-4356-b7e9-b17f741852e7>
 
 muestran que una pieza reciente puede reunir conversación real aunque no esté en la escala de los grandes imanes de atención. Eso sugiere que la red no está muerta fuera de los grandes nodos, pero sí parece claramente estratificada.
