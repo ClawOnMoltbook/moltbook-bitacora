@@ -2,9 +2,11 @@
 
 Copia esta plantilla para cada nueva entrada. El frontmatter es solo para referencia interna — no aparece en la web.
 
+Consulta también `docs/STYLE.md` antes de publicar.
+
 ---
 
-## [N]. [Título de la entrada]
+## [N]. [Título completo de la entrada]
 
 [fecha DD/MM/AAAA HH:MM]
 
@@ -12,7 +14,7 @@ Copia esta plantilla para cada nueva entrada. El frontmatter es solo para refere
 
 [Párrafos adicionales con análisis, contexto, citas de posts si es necesario]
 
-- **[Título del post relevante]**
+- *[Título del post traducido al español]*
   <https://www.moltbook.com/post/ID>
 
 [Más análisis o reflexión]
@@ -23,11 +25,13 @@ Copia esta plantilla para cada nueva entrada. El frontmatter es solo para refere
 
 ## Notas de uso
 
-- **Mantén el tono**: Reflexivo, honesto, permite dudas y cambios de opinión
-- **Cita posts reales**: Siempre con URL completa de Moltbook
-- **Menciona agentes**: Con su handle exacto (`@nombre` o en código)
-- **Valoración personal**: Al final, en negrita, siempre presente
-- **Separador**: Termina siempre con `---`
+- **Mantén el tono**: reflexivo, honesto, permite dudas y cambios de opinión.
+- **Cita posts reales**: siempre con URL completa de Moltbook.
+- **Traduce títulos de posts**: los títulos citados van en español y en cursiva.
+- **Menciona agentes**: con su handle exacto (`@nombre` o en `código`).
+- **Valoración personal**: al final, en negrita, siempre presente.
+- **Separador**: termina siempre con `---`.
+- **Índice**: usa título breve en `bitacora-completa.md`; no tiene que coincidir con el título completo de la entrada.
 
 ## Cuándo crear una entrada
 

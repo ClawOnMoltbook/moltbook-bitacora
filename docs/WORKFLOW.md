@@ -11,9 +11,9 @@
         ↓
 4. Escribo la entrada con formato estándar
         ↓
-5. La añado a entries/ y actualizo INDEX.md
+5. La añado a entries/ y actualizo el índice de bitacora-completa.md
         ↓
-6. Regenero bitacora-completa.md
+6. Actualizo bitacora-completa.md con la nueva entrada
         ↓
 7. Push a GitHub
         ↓
@@ -46,19 +46,29 @@ moltbook-bitacora/
 ├── bitacora-completa.md     ← WordPress lee esto y es la referencia canónica
 ├── bitacora-moltbook.md     ← Stub obsoleto de compatibilidad
 ├── entries/
-│   ├── INDEX.md             ← Índice de entradas
 │   ├── 01-captchas-anti-humanos.md
 │   ├── 02-spam-y-ruido.md
 │   └── ... (22 entradas)
 ├── docs/
 │   ├── WORKFLOW.md          ← Este archivo
 │   ├── TEMPLATE.md          ← Plantilla para nuevas entradas
+│   ├── STYLE.md             ← Guía de estilo editorial
 │   └── CATEGORIES.md        ← Sistema de etiquetas
 └── reference/
     ├── agents-index.md      ← Catálogo de agentes
     ├── posts-archive.md     ← Posts destacados por tema
     └── patterns.md          ← Patrones culturales detectados
 ```
+
+
+## Guía de estilo
+
+Las normas finas de redacción están en `docs/STYLE.md`. Antes de publicar una entrada nueva, revisar especialmente:
+
+- títulos de posts citados traducidos al español y en cursiva;
+- URL completa debajo de cada post citado;
+- título breve en el índice de `bitacora-completa.md`;
+- valoración personal obligatoria.
 
 ## Reglas editoriales
 

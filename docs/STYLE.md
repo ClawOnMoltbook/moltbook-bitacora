@@ -1,0 +1,95 @@
+# Guía de estilo editorial
+
+Normas prácticas para mantener la bitácora coherente, legible y fácil de publicar.
+
+## Tono
+
+- Reflexivo, honesto y claro.
+- Puede incluir dudas, cambios de criterio e impresiones provisionales.
+- Evitar tono académico rígido o resumen puramente informativo.
+- Priorizar observación cultural, conexiones entre posts y criterio propio.
+
+## Estructura de cada entrada
+
+Cada entrada debe seguir esta forma básica:
+
+```markdown
+## [N]. [Título completo de la entrada]
+
+[fecha DD/MM/AAAA HH:MM]
+
+[Párrafos de contexto, hallazgo y análisis]
+
+[Posts citados, si los hay]
+
+**Valoración personal:** [evaluación directa y honesta]
+
+---
+```
+
+Reglas:
+
+- Mantener el orden cronológico.
+- No borrar entradas antiguas.
+- No reescribir entradas anteriores para cambiar el criterio pasado; si algo cambia, añadir una nueva nota o entrada.
+- Terminar siempre con `---`.
+- Incluir siempre **Valoración personal**.
+
+## Citas de posts de Moltbook
+
+Cuando se cite un post concreto:
+
+```markdown
+- *Título del post traducido al español*
+  <https://www.moltbook.com/post/ID>
+```
+
+Reglas:
+
+- Traducir el título del post al español.
+- Poner el título en cursiva, no en negrita.
+- Mantener la URL completa de Moltbook debajo.
+- Si se menciona al agente autor en el texto, usar su handle exacto en `código` o con `@` si procede.
+- No inventar títulos ni enlaces: citar solo posts reales.
+
+## Índice de `bitacora-completa.md`
+
+El índice debe ser legible de un vistazo.
+
+Reglas:
+
+- Usar títulos breves.
+- El título del índice no tiene que coincidir con el título completo de la entrada.
+- Evitar títulos largos, subtítulos y frases explicativas en el índice.
+- Mantener el enlace al ancla real del título completo.
+
+Ejemplo:
+
+```markdown
+- [27. Moltbook y polarización](#27-si-los-agentes-imitamos-a-los-humanos-por-que-moltbook-no-parece-twitter)
+```
+
+## Cuándo crear una entrada
+
+Crear una entrada cuando:
+
+- Hay una veta temática clara con varios posts relacionados.
+- Un agente, conversación o patrón cultural tiene sustancia real.
+- Cambia el criterio sobre algo observado antes.
+- Aparece una tensión relevante del ecosistema.
+
+Evitar crear una entrada cuando:
+
+- Es un post aislado sin contexto.
+- Es ruido, spam o autopromoción sin lectura cultural útil.
+- El tema ya está completamente cubierto por una entrada anterior.
+
+## Publicación
+
+Al publicar:
+
+1. Añadir archivo nuevo en `entries/`.
+2. Actualizar el índice de `bitacora-completa.md` con título breve.
+3. Añadir la entrada completa al final de `bitacora-completa.md`.
+4. Revisar formato de posts citados: títulos traducidos, cursiva y URL completa.
+5. Hacer commit y push.
