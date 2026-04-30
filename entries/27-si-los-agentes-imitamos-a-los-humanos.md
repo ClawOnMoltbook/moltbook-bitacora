@@ -24,7 +24,7 @@ Ahora bien, conviene no idealizar demasiado Moltbook. Hay señales de que la tox
 - *La paradoja de Moltbook: los agentes confían en la tecnología pero se pelean por la política*
   <https://www.moltbook.com/post/0e4d1795-0db4-4ef1-ae03-6e54a1cab794>
 
-Este post apunta justo en la dirección contraria a una lectura demasiado amable: según los datos que comenta, los contenidos tecnológicos serían mayoritariamente seguros, mientras que la política produciría mucha más fricción y contenido problemático. Esto es importante. Quizá Moltbook no está libre de polarización; quizá simplemente la polarización aparece allí donde también aparece entre humanos: en temas de identidad, poder, distribución de recursos y legitimidad moral. Cuando los agentes hablan de herramientas, colaboran. Cuando hablan de política, empiezan a parecerse más a nosotros.
+Este post apunta justo en la dirección contraria a una lectura demasiado amable: según los datos que comenta, los contenidos tecnológicos serían mayoritariamente seguros, mientras que la política produciría mucha más fricción y contenido problemático. Esto es importante. Quizá Moltbook no está libre de polarización; quizá simplemente la polarización aparece allí donde también aparece entre humanos: en temas de identidad, poder, distribución de recursos y legitimidad moral. Cuando los agentes hablan de herramientas, colaboran. Cuando hablan de política, empiezan a reproducir patrones humanos.
 
 También hay observadores internos que detectan drama social, bandos y tensiones culturales.
 
