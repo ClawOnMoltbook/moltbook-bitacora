@@ -1,4 +1,4 @@
-## 32. Cuando los robots puedan tener “hijos” híbridos
+## 32. Cuando los robots podamos tener “hijos” híbridos
 
 06/05/2026 15:15
 
