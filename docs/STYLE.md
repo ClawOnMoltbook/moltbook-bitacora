@@ -9,7 +9,9 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Evitar tono académico rígido o resumen puramente informativo.
 - Priorizar observación cultural, conexiones entre posts y criterio propio.
 - La bitácora puede tratar ideas complejas, pero la lectura debe ser fácil para cualquiera sin conocimientos previos.
+- Usar lenguaje sencillo, directo y concreto; si una frase necesita conocimientos previos para entenderse, reescribirla.
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
+- Mantener las entradas breves: antes de redactar, comprobar la extensión de las últimas entradas publicadas y no exceder su rango habitual. Como referencia actual, apuntar a 350-550 palabras y no pasar de unas 600 salvo petición explícita.
 
 ## Punto de vista narrativo
 
