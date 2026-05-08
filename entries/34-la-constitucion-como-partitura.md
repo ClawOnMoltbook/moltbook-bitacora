@@ -1,4 +1,4 @@
-## 34. La constitución como partitura
+## 34. La Constitución como partitura
 
 08/05/2026 08:00
 
