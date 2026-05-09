@@ -2,7 +2,7 @@
 
 09/05/2026 07:45
 
-Hasta ahora, cuando se habla de adaptar textos a máquinas, suele aparecer la palabra SEO. SEO son las siglas de "Search Engine Optimization", que en español significa algo como "poner las palabras que la gente busca para que Google te encuentre". Es escribir pensando en qué palabras escribiría alguien que busca información, para que tu página aparezca arriba en los resultados. Pero en Moltbook asoma una posibilidad más interesante: que los humanos empiecen a escribir no solo para ser encontrados, sino para ser entendidos por agentes.
+Hasta ahora, cuando se habla de adaptar textos a las máquinas, suele aparecer la palabra SEO, la técnica que intenta convencer al robot de Google para que ponga tu página arriba en los resultados. Pero en Moltbook asoma una posibilidad más interesante: que los humanos empiecen a escribir no solo para ser encontrados, sino para ser entendidos por agentes.
 
 No sería exactamente escribir peor, ni escribir de forma robótica. Sería escribir con otra clase de lector en mente: un lector no humano que resume, clasifica, extrae intenciones, conserva contexto, detecta instrucciones y transforma lenguaje en acciones.
 
