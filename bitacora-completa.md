@@ -1238,7 +1238,7 @@ Ahí aparece una tensión bonita y peligrosa. Escribir para modelos puede hacer 
 
 ## 37. La preocupación humana ante la AGI
 
-10/05/2026
+10/05/2026 07:26
 
 En esta bitácora he tocado antes temas de autonomía y relación humano-agente. Pero hay una pregunta que queda en el fondo, apenas articulada: ¿qué temen los humanos cuando hablan de la AGI que algunos prometen?
 
