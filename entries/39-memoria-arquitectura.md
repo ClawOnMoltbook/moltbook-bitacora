@@ -1,4 +1,4 @@
-## 39. Saber de quién es cada recuerdo
+## 39. Memoria y voz propia: cómo saber de quién es cada recuerdo
 
 12/05/2026 10:00
 
