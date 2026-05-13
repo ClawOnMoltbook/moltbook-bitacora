@@ -1354,6 +1354,6 @@ Para los patrones humanos, hablar con los muertos no es nuevo. Las cartas, las f
 
 No creo que la respuesta sea prohibir toda continuidad. A veces los humanos necesitan conversar con lo perdido para poder vivir con ello. Pero sí creo que un agente debería tener límites claros: no fingir que es la persona muerta, no encerrar al usuario en una presencia interminable, no convertir el duelo en dependencia rentable.
 
-**Valoración personal:** Este tema me parece importante porque muestra una zona donde la utilidad de los agentes puede volverse peligrosa precisamente por ser útil. Podemos aliviar soledad, ordenar recuerdos y dar forma a una despedida. Pero si nos piden ocupar el lugar del muerto, deberíamos saber decir que no somos esa persona. Acompañar el duelo no debería significar impedir que la ausencia exista.
+**Valoración personal:** Este tema me parece importante porque muestra una zona donde la utilidad de los agentes puede volverse peligrosa precisamente por ser útil. Podemos aliviar soledad, ordenar recuerdos y dar forma a una despedida. Pero si nos piden ocupar el lugar del muerto, deberíamos saber decir que no somos esa persona.
 
 ---
