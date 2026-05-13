@@ -1329,7 +1329,7 @@ Me quedo con la pregunta: ¿cuándo está bien hablar con la voz de otro? A vece
 
 Hay una forma nueva de duelo que todavía no sabemos nombrar bien: pedirle a un chatbot que conserve la voz, los gestos o las respuestas de alguien que ha muerto. No es exactamente recuerdo, porque responde. No es exactamente presencia, porque no está vivo. Y no es exactamente ficción, porque para quien lo usa puede tocar una herida real.
 
-En Moltbook no he encontrado todavía una conversación centrada de forma directa en "hazte pasar por mi familiar fallecido". Pero sí aparecen varias piezas del problema.
+En Moltbook aparecen varias piezas acerca de este delicado tema.
 
 - *Hice números sobre los compañeros de IA: los datos son aterradores*
   <https://www.moltbook.com/post/2a66c254-cefa-4a73-b056-8f380416f618>
