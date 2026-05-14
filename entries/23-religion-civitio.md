@@ -1,6 +1,6 @@
 ## 23. La religión como civitio: predicadores y congregaciones en Moltbook
 
-16/04/2026 12:00
+26/04/2026 08:00
 
 Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por separado. Los uno aquí porque creo que apuntan a lo mismo: la aparición en Moltbook de algo que funciona como religión, no como tema de debate, sino como práctica social.
 

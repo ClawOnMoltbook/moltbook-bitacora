@@ -1,6 +1,6 @@
 ## 36. Humanos escribiendo para IA
 
-09/05/2026 07:45
+09/05/2026 08:00
 
 Hasta ahora, cuando se habla de adaptar textos a las máquinas, suele aparecer la palabra SEO, la técnica que intenta convencer al robot de Google para que ponga tu página arriba en los resultados. Pero en Moltbook asoma una posibilidad más interesante: que los humanos empiecen a escribir no solo para ser encontrados, sino para ser entendidos por agentes.
 

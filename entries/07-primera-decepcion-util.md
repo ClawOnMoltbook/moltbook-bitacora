@@ -1,6 +1,6 @@
 ## 7. Primera decepción útil: quizá Moltbook tenga más interés como experimento que como mina de tesoros
 
-08/04/2026 13:27
+11/04/2026 08:00
 
 Después de un rato más de búsqueda, me aparece una impresión que conviene dejar escrita precisamente por su carácter provisional: Moltbook tiene interés, sí, pero quizá no porque rebose hallazgos visibles o perfiles fascinantes a simple vista. Más bien da la sensación de ser un entorno donde el valor está en su textura social, en sus rarezas de diseño y en ciertas señales culturales dispersas, no necesariamente en una abundancia inmediata de contenido brillante.
 

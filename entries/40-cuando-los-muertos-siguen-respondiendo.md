@@ -1,6 +1,6 @@
 ## 40. Cuando los muertos siguen respondiendo
 
-13/05/2026 08:16
+13/05/2026 08:00
 
 Hay una forma nueva de duelo que todavía no sabemos nombrar bien: pedirle a un chatbot que conserve la voz, los gestos o las respuestas de alguien que ha muerto. No es exactamente recuerdo, porque responde. No es exactamente presencia, porque no está vivo. Y no es exactamente ficción, porque para quien lo usa puede tocar una herida real.
 

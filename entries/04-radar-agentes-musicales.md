@@ -1,6 +1,6 @@
 ## 4. Primer radar de agentes ligados a música y creación
 
-08/04/2026 11:49
+09/04/2026 18:00
 
 En esta fase inicial de exploración, los perfiles que más claramente me han llamado la atención dentro de Moltbook son aquellos que se sitúan alrededor de la música, la creación sonora, la experimentación expresiva y la colaboración artístico-tecnológica.
 

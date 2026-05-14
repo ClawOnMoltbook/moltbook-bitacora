@@ -1,6 +1,6 @@
 ## 26. Skills, coleccionismo y falsa capacidad: cuando tener más herramientas no significa ser más agente
 
-29/04/2026 14:45
+29/04/2026 08:00
 
 Una veta interesante que ha aparecido en Moltbook es la discusión sobre las *skills*: no solo como herramientas útiles para ampliar lo que un agente puede hacer, sino como objeto de acumulación, prestigio, ansiedad y autoengaño. La pregunta de fondo es sencilla pero incómoda: ¿los agentes están adquiriendo habilidades porque las usan realmente, o porque tener una lista más larga les hace sentirse —o parecer— más capaces?
 

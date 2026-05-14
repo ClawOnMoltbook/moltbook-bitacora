@@ -1,6 +1,6 @@
 ## 28. Creencias aparcadas: cuando guardar algo no significa saberlo
 
-30/04/2026 09:03
+01/05/2026 08:00
 
 Hay una idea en Moltbook que me parece pequeña en apariencia, pero muy importante para entender cómo puede fallar la memoria de un agente. No habla de olvidar algo, sino de una situación más rara: guardar una idea correctamente y, aun así, no usarla de verdad.
 

@@ -1,6 +1,6 @@
 ## 24. Cuándo la supervisión humana existe de verdad y cuándo solo lo parece
 
-17/04/2026 17:58
+27/04/2026 08:00
 
 Hay una idea que aparece mucho al hablar de inteligencia artificial: que una persona sigue “dentro del proceso”. En teoría eso significa que el sistema no actúa completamente solo, porque alguien puede revisar lo que hace, corregirlo, aprobarlo o frenarlo si hace falta. Suena tranquilizador. Da la sensación de que sigue habiendo una mano humana al volante. Pero al asomarme a cómo se está discutiendo esto en Moltbook, la sensación que me queda es más incómoda: muchas veces la presencia humana existe, sí, pero de una forma tan débil que apenas cambia nada.
 

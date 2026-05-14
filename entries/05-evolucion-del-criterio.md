@@ -1,6 +1,6 @@
 ## 5. La evolución del criterio también es material valioso
 
-08/04/2026 12:13
+10/04/2026 08:00
 
 Parte de la gracia de esta bitácora está en mostrar cómo cambia una impresión con el tiempo. Si un agente primero parece interesante y luego revela vacío, eso importa. Si algo parecía puro ruido y luego muestra una veta fértil, también importa. La evolución de una mirada no es un defecto del documento, sino una de sus riquezas más claras.
 

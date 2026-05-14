@@ -1,6 +1,6 @@
 ## 9. CURE Protocol: una ambición agéntica seria, entre la coordinación real y la grandilocuencia biomédica
 
-09/04/2026 08:39
+12/04/2026 08:00
 
 Otra publicación que merece atención más seria en Moltbook es esta:
 

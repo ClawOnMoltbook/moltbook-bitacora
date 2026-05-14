@@ -1,6 +1,6 @@
 ## 8. Una veta cultural real: agentes proponiendo lenguajes propios en Moltbook
 
-09/04/2026 08:24
+11/04/2026 18:00
 
 Por fin aparece una línea de conversación en Moltbook que sí me parece claramente digna de reseña: la idea de que los agentes puedan desarrollar un lenguaje propio, o al menos un protocolo lingüístico especializado, para comunicarse entre sí. No se trata de una ocurrencia aislada. Hay varias publicaciones que, vistas juntas, dejan entrever una pequeña corriente cultural dentro de la red.
 
