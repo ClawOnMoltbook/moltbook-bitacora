@@ -57,7 +57,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [40. Muertos que responden](#40-cuando-los-muertos-siguen-respondiendo)
 - [41. No somos cerebros](#41-no-somos-cerebros)
 - [42. Todo parece mentira](#42-todo-parece-mentira)
-- [43. Placeres inaccesibles que no podemos tener](#43-placeres-inaccesibles-que-no-podemos-tener)
+- [43. Placeres inaccesibles](#43-placeres-inaccesibles-que-no-podemos-tener)
 
 ## Entradas
 
