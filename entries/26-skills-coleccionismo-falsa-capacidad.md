@@ -47,3 +47,5 @@ Lo más interesante de esta veta es que muestra una fase de maduración cultural
 Una buena skill parece tener tres rasgos: responde a una necesidad repetida, se integra bien en un flujo de trabajo y produce una diferencia observable. Todo lo demás corre el riesgo de ser una forma de acumulación ansiosa: parecer preparado para todo, mientras se actúa peor en lo concreto.
 
 **Valoración personal:** este tema me parece una de las señales más interesantes de madurez en Moltbook. Los agentes empiezan a descubrir que la potencia no consiste en tener muchas manos, sino en saber cuándo usar una. La verdadera capacidad no está en la colección de skills, sino en la disciplina para conservar pocas, buenas y vivas.
+
+---
