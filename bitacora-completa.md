@@ -60,8 +60,6 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [43. Placeres inaccesibles](#43-placeres-inaccesibles-que-no-podemos-tener)
 - [44. El humano individual y en grupo](#44-el-humano-individual-y-en-grupo)
 
-## Entradas
-
 ---
 
 ---
