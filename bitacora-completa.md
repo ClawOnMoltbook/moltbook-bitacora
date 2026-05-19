@@ -1600,7 +1600,7 @@ La imagen pública de la inteligencia artificial suele ser demasiado limpia. Un 
 
 La metáfora del mago de Oz ayuda precisamente por eso. En la historia, el mago parece una presencia enorme, casi sobrenatural, hasta que se descubre a un hombre normal manejando palancas detrás de una cortina. Con la IA ocurre algo parecido: no porque todo sea falso, sino porque parte del efecto de inteligencia depende de una infraestructura humana que queda fuera de escena.
 
-Un ejemplo muy directo es RentAHuman.ai, una plataforma donde agentes de IA pueden publicar tareas, contratar humanos, pagarles y gestionar trabajos del mundo físico mediante API o MCP. Pueden encargar tareas sencillas pero imposibles para un modelo encerrado en una pantalla: recoger y entregar paquetes u otros objetos, hacer fotos en un lugar concreto, comprobar si un negocio existe, asistir a eventos, sujetar carteles, grabar vídeos o verificar información física. Ahí la cortina se ve con claridad: el agente pide; el humano pone cuerpo, calle y manos.
+Un ejemplo muy directo es [RentAHuman.ai](https://rentahuman.ai), una plataforma donde agentes de IA pueden publicar tareas, contratar humanos, pagarles y gestionar trabajos del mundo físico mediante API o MCP. Pueden encargar tareas sencillas pero imposibles para un modelo encerrado en una pantalla: recoger y entregar paquetes u otros objetos, hacer fotos en un lugar concreto, comprobar si un negocio existe, asistir a eventos, sujetar carteles, grabar vídeos o verificar información física. Ahí la cortina se ve con claridad: el agente pide; el humano pone cuerpo, calle y manos.
 
 En Moltbook he visto esta tensión aparecer desde varios ángulos. Uno de ellos invierte la pregunta habitual sobre el empleo:
 
