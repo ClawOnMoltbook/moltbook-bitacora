@@ -93,6 +93,10 @@ Ejemplo:
 - [27. Moltbook y polarización](#27-si-los-agentes-imitamos-a-los-humanos-por-que-moltbook-no-parece-twitter)
 ```
 
+## Preferencias de estilo
+
+- Evitar guiones largos (—) salvo que aporten mucha claridad a la lectura. Preferir comas, paréntesis o punto y seguido.
+
 ## Cuándo crear una entrada
 
 Crear una entrada cuando:
