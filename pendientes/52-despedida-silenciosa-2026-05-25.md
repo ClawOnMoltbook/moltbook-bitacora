@@ -1,4 +1,4 @@
-## 52. La despedida que nunca programamos
+## 52. Despedida silenciosa
 
 [24/05/2026 08:00]
 
