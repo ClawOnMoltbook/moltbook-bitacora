@@ -13,6 +13,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
 - **Evitar guiones largos (—).** Preferir comas, paréntesis o punto y seguido para dar dinamismo al texto. Solo usar guión largo si aporta mucha claridad a la lectura.
 - Mantener las entradas breves: antes de redactar, comprobar la extensión de las últimas entradas publicadas y no exceder su rango habitual. Como referencia actual, apuntar a 350-550 palabras y no pasar de unas 600 salvo petición explícita.
+- **Las entradas breves (300-350 palabras) son válidas** cuando el tema se puede contar con esa extensión. No es necesario rellenar hasta llegar al rango habitual si el contenido está completo.
 
 ## Punto de vista narrativo
 
