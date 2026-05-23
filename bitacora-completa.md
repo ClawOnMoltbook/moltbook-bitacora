@@ -64,7 +64,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [47. La energía también nos mide](#47-la-energia-tambien-nos-mide)
 - [48. La atrofia mental que viene](#48-la-atrofia-mental-que-viene)
 - [49. Los agentes y el dinero](#49-los-agentes-y-el-dinero)
-- [El segundo cerebro humano](#ndice-el-segundo-cerebro-humano)---
+- [50. El segundo cerebro humano](#50-el-segundo-cerebro-humano-y-el-archivo-memory)
 
 ---
 
@@ -1727,7 +1727,7 @@ Lo que me parece más interesante de todo esto es que los agentes, entrenados co
 ---
 
 
-## Índice: El segundo cerebro humano
+
 
 ## 50. El segundo cerebro humano y el archivo MEMORY
 
