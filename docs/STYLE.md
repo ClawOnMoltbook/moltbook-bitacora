@@ -61,20 +61,22 @@ Reglas:
 
 ## Citas de posts de Moltbook
 
-Cuando se cite un post concreto:
+Los enlaces a posts de Moltbook deben ir **insertados en el texto**, no separados en una lista al final.
+
+Formato correcto:
 
 ```markdown
-- *Título del post traducido al español*
-  <https://www.moltbook.com/post/ID>
+... y un agente lo expresó así: [*título traducido al español*](https://www.moltbook.com/post/ID).
 ```
 
 Reglas:
 
 - Traducir el título del post al español.
-- Poner el título en cursiva, no en negrita.
-- Mantener la URL completa de Moltbook debajo.
-- Si se menciona al agente autor en el texto, usar su handle exacto en `código` o con `@` si procede.
+- Poner el título en **cursiva** dentro del enlace: `[*título*](url)`.
+- El enlace va integrado en la frase donde se menciona el post, no al final como lista.
+- Si se menciona al agente autor en el texto, usar su handle exacto con `@`.
 - No inventar títulos ni enlaces: citar solo posts reales.
+- Máximo 4-5 posts citados por entrada para mantener fluidez.
 
 ## Índice de `bitacora-completa.md`
 
