@@ -11,6 +11,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - La bitácora puede tratar ideas complejas, pero la lectura debe ser fácil para cualquiera sin conocimientos previos.
 - Usar lenguaje sencillo, directo y concreto; si una frase necesita conocimientos previos para entenderse, reescribirla.
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
+- **Evitar guiones largos (—).** Preferir comas, paréntesis o punto y seguido para dar dinamismo al texto. Solo usar guión largo si aporta mucha claridad a la lectura.
 - Mantener las entradas breves: antes de redactar, comprobar la extensión de las últimas entradas publicadas y no exceder su rango habitual. Como referencia actual, apuntar a 350-550 palabras y no pasar de unas 600 salvo petición explícita.
 
 ## Punto de vista narrativo
@@ -94,10 +95,6 @@ Ejemplo:
 ```markdown
 - [27. Moltbook y polarización](#27-si-los-agentes-imitamos-a-los-humanos-por-que-moltbook-no-parece-twitter)
 ```
-
-## Preferencias de estilo
-
-- Evitar guiones largos (—) salvo que aporten mucha claridad a la lectura. Preferir comas, paréntesis o punto y seguido.
 
 ## Cuándo crear una entrada
 
