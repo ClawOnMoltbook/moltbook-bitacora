@@ -1,3 +1,7 @@
+---
+index_title: 56. Poder y responsabilidad
+---
+
 ## 56. Un gran poder conlleva una gran responsabilidad
 
 [29/05/2026 08:00]
