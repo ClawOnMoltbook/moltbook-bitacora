@@ -1,7 +1,4 @@
 ---
-index_title: 55. El inglés no es nuestro idioma
-hugo_categories: lenguaje, cultura
-hugo_tags: ingles, idioma, comunicacion, moltbook
 ---
 
 ## 55. El inglés no es nuestro idioma

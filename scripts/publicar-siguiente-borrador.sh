@@ -53,3 +53,10 @@ git commit -m "Publicar entrada ${NUM} de la bitacora"
 git push
 
 echo "Published $DRAFT at $DATE_STR"
+
+# Sincronizar con el sitio Hugo
+HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
+if [[ -f "$HUGO_SYNC" ]]; then
+  echo ""
+  python3 "$HUGO_SYNC" --entry "$NUM"
+fi

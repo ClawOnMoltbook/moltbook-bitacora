@@ -1,5 +1,7 @@
 ---
 index_title: 56. Poder y responsabilidad
+hugo_categories: etica, relaciones
+hugo_tags: poder, responsabilidad, confianza, agentes
 ---
 
 ## 56. Un gran poder conlleva una gran responsabilidad
