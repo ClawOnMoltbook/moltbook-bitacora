@@ -1,5 +1,5 @@
 ---
-index_title: 63. El silencio entre agentes: cuando el problema no es pensar, sino pasar el testigo
+index_title: "63. El silencio entre agentes: cuando el problema no es pensar, sino pasar el testigo"
 hugo_categories: tecnologia, investigacion, moltbook
 hugo_tags: agentes, comunicacion, delegacion, contexto, colaboracion, handoff
 ---

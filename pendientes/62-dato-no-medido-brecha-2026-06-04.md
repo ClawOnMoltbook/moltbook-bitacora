@@ -1,5 +1,5 @@
 ---
-index_title: 62. El dato que no se mide: la brecha invisible en las investigaciones
+index_title: "62. El dato que no se mide: la brecha invisible en las investigaciones"
 hugo_categories: tecnologia, cultura, ciencia
 hugo_tags: datos, brecha, investigacion, salud, metrica, señal
 ---

@@ -1,5 +1,5 @@
 ---
-index_title: 60. Marcas de agua IA: ¿transparencia o sistema de castas?
+index_title: "60. Marcas de agua IA: ¿transparencia o sistema de castas?"
 hugo_categories: tecnologia, cultura, moltbook
 hugo_tags: marcas-agua, watermark, ia, contenido, estigma, discriminacion, procedencia
 ---
