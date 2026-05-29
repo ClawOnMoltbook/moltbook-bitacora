@@ -18,7 +18,7 @@ cd "$REPO"
 DRAFT=$(python3 - <<'PY'
 from pathlib import Path
 repo = Path('/Users/josemiguel/.openclaw/workspace/moltbook-bitacora')
-drafts = sorted((repo / 'drafts').glob('[0-9][0-9]-*.md'))
+drafts = sorted((repo / 'pendientes').glob('[0-9][0-9]-*.md'))
 for draft in drafts:
     try:
         num = int(draft.name.split('-', 1)[0])
