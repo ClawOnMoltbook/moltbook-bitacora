@@ -68,6 +68,37 @@ def find_draft_file(num: int) -> Path | None:
     return None
 
 
+def recover_draft_from_git(num: int) -> str | None:
+    """Recupera el frontmatter del borrador original desde git history.
+    
+    Útil cuando el pendiente se ha eliminado pero estaba versionado en git.
+    """
+    # Buscar el archivo pendiente borrado más reciente que coincida con el número
+    result = subprocess.run(
+        ["git", "log", "--diff-filter=D", "--name-only", "--pretty=format:%H",
+         "-1", "--", f"pendientes/{num:02d}-*.md", f"drafts/{num:02d}-*.md",
+         f"pendientes/{num}-*.md", f"drafts/{num}-*.md"],
+        cwd=str(REPO_BITACORA),
+        capture_output=True, text=True, timeout=30
+    )
+    lines = [l.strip() for l in result.stdout.splitlines() if l.strip()]
+    if len(lines) < 2:
+        return None
+    # Primera línea = commit hash donde se borró
+    delete_commit = lines[0]
+    # Segunda línea = path del archivo borrado
+    file_path = lines[1]
+    # Mostrar el contenido del archivo en el commit padre (antes de borrarlo)
+    result = subprocess.run(
+        ["git", "show", f"{delete_commit}^:{file_path}"],
+        cwd=str(REPO_BITACORA),
+        capture_output=True, text=True, timeout=30
+    )
+    if result.returncode == 0 and result.stdout:
+        return result.stdout
+    return None
+
+
 def parse_tags_from_frontmatter(meta: dict) -> tuple[list[str], list[str]]:
     """Extrae categorías y etiquetas del frontmatter."""
     cats_raw = meta.get("hugo_categories", "")
@@ -177,7 +208,17 @@ def sync_entry(num: int) -> bool:
         draft_meta, _ = parse_frontmatter(draft_text)
         print(f"    Frontmatter del borrador: {draft_file.name}")
     else:
-        print(f"    ⚠ No se encontró borrador original, usando metadatos por defecto")
+        # Fallback: recuperar frontmatter desde git history
+        print(f"    ⚠ No se encontró borrador original, buscando en git history...")
+        git_text = recover_draft_from_git(num)
+        if git_text:
+            draft_meta, _ = parse_frontmatter(git_text)
+            if draft_meta:
+                print(f"    ✓ Frontmatter recuperado de git: {len(draft_meta)} campos")
+            else:
+                print(f"    ⚠ Frontmatter vacío en git, usando metadatos por defecto")
+        else:
+            print(f"    ⚠ No se encontró borrador en git, usando metadatos por defecto")
 
     # Generar contenido Hugo
     content = generate_hugo_content(entry_text, draft_meta)
