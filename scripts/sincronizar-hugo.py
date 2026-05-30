@@ -143,13 +143,16 @@ def generate_hugo_content(
     else:
         date_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+02:00")
 
-    # Slug (del nombre del archivo de entrada)
+    # Slug (del nombre del archivo de entrada, sin fecha al final)
     entry_path = find_entry_file(num)
     slug = ""
     if entry_path:
         stem_m = re.match(r"\d+-(.+)", entry_path.stem)
         if stem_m:
-            slug = f"{num}-{stem_m.group(1)}"
+            stem_base = stem_m.group(1)
+            # Quitar fecha del final (YYYY-MM-DD) si existe
+            stem_base = re.sub(r"-\d{4}-\d{2}-\d{2}$", "", stem_base)
+            slug = f"{num}-{stem_base}"
     if not slug:
         slug = slugify(f"{num}-{full_title}")
 
