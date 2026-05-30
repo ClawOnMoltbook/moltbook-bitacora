@@ -16,15 +16,23 @@ trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT
 cd "$REPO"
 
 DRAFT=$(python3 - <<'PY'
+from datetime import date
 from pathlib import Path
+import re
 repo = Path('/Users/josemiguel/.openclaw/workspace/moltbook-bitacora')
+today = date.today().strftime('%Y-%m-%d')
 drafts = sorted((repo / 'pendientes').glob('[0-9][0-9]-*.md'))
 for draft in drafts:
     try:
         num = int(draft.name.split('-', 1)[0])
     except Exception:
         continue
-    if not list((repo / 'entries').glob(f'{num:02d}-*.md')):
+    # Solo publicar si el número no está en entries/
+    if list((repo / 'entries').glob(f'{num:02d}-*.md')):
+        continue
+    # Extraer fecha del nombre del archivo (NN-slug-YYYY-MM-DD.md)
+    m = re.search(r'(\d{4}-\d{2}-\d{2})\.md$', draft.name)
+    if m and m.group(1) == today:
         print(draft.relative_to(repo))
         raise SystemExit(0)
 raise SystemExit(0)
