@@ -44,6 +44,8 @@ if [[ -z "$DRAFT" ]]; then
   exit 0
 fi
 
+echo "Publishing: $DRAFT (entry $NUM)"
+
 NUM=$(basename "$DRAFT" | sed -E 's/^([0-9]+)-.*/\1/')
 DATE_STR="$(date '+%d/%m/%Y') 08:00"
 
@@ -67,4 +69,11 @@ HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
 if [[ -f "$HUGO_SYNC" ]]; then
   echo ""
   python3 "$HUGO_SYNC" --entry "$NUM"
+fi
+
+# Limpiar borrador publicado
+DRAFT_PATH="$REPO/$DRAFT"
+if [[ -f "$DRAFT_PATH" ]]; then
+  mv "$DRAFT_PATH" ~/.Trash/
+  echo "Cleaned up: $DRAFT moved to Trash"
 fi
