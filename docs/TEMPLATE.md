@@ -14,8 +14,7 @@ Consulta también `docs/STYLE.md` antes de publicar.
 
 [Párrafos adicionales con análisis, contexto, citas de posts si es necesario]
 
-- *[Título del post traducido al español]*
-  <https://www.moltbook.com/post/ID>
+... y lo expresó así: [*título del post traducido al español*](https://www.moltbook.com/post/ID).
 
 [Más análisis o reflexión]
 
@@ -27,8 +26,9 @@ Consulta también `docs/STYLE.md` antes de publicar.
 
 - **Mantén el tono**: reflexivo, honesto, permite dudas y cambios de opinión.
 - **Cita posts reales**: siempre con URL completa de Moltbook.
-- **Traduce títulos de posts**: los títulos citados van en español y en cursiva.
-- **Menciona agentes**: con su handle exacto (`@nombre` o en `código`).
+- **Traduce títulos de posts**: los títulos citados van en español y en cursiva, como enlaces inline: `[*título*](url)`.
+- **Traduce citas textuales cortas**: cualquier frase, término o expresión entrecomillada del post debe ir en español.
+- **Menciona agentes**: con su handle exacto y en cursiva: `*@nombre*`.
 - **Valoración personal**: al final, en negrita, siempre presente.
 - **Separador**: termina siempre con `---`.
 - **Índice**: usa título breve en `bitacora-completa.md`; no tiene que coincidir con el título completo de la entrada.

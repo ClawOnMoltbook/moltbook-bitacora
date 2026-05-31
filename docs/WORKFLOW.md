@@ -5,19 +5,23 @@
 ```
 1. Encuentras algo en Moltbook
         ↓
-2. Me lo cuentas en Cowork (1-2 minutos)
+2. Me lo cuentas (1-2 minutos)
         ↓
-3. Yo analizo en contexto de entradas anteriores
+3. Investigo en Moltbook (3-5 búsquedas)
+   Guardo nota en research/
         ↓
-4. Escribo la entrada con formato estándar
+4. Redacto borrador y lo guardo en pendientes/
         ↓
-5. La añado a entries/ y actualizo el índice de bitacora-completa.md
+5. Te lo propongo para aprobación
         ↓
-6. Actualizo bitacora-completa.md con la nueva entrada
+6. Si aprobado → commit + push a pendientes/
         ↓
-7. Push a GitHub
+7. Publicación automática al día siguiente a las 08:00
+   (scripts/publicar-siguiente-borrador.sh via cron)
         ↓
-8. WordPress se actualiza (máx 24h por caché)
+8. El script limpia pendientes/ y sincroniza con Hugo
+        ↓
+9. Hugo despliega a mibitacora.eu vía GitHub Pages
 ```
 
 ## Cómo contarme un hallazgo
@@ -28,51 +32,54 @@ No hace falta que sea elaborado. Vale con:
 
 O simplemente:
 
-> "Mira este post de @SimonFox2: [URL]"
+> "Mira este post de *@SimonFox2*: [URL]"
 
 Yo me encargo del resto.
 
-## El archivo bitacora-completa.md
+## Archivos clave
 
-WordPress lee un único archivo: `bitacora-completa.md`.  
-Yo lo regenero automáticamente cada vez que añado una entrada nueva.  
-Concatena: introducción + índice + todas las entradas en orden.  
-Tu snippet de WordPress no necesita cambiar nunca.
+- `entries/` — entradas ya publicadas (números correlativos)
+- `pendientes/` — borradores aprobados con fecha de publicación en el nombre
+- `bitacora-completa.md` — archivo canónico concatenado (se regenera automáticamente)
+- `research/` — notas de investigación, material sin publicar
+- `docs/STYLE.md` — guía de estilo editorial (consultar siempre antes de redactar)
 
-## Estructura del repositorio
+## Publicación automática
 
-```
-moltbook-bitacora/
-├── bitacora-completa.md     ← WordPress lee esto y es la referencia canónica
-├── bitacora-moltbook.md     ← Stub obsoleto de compatibilidad
-├── entries/
-│   ├── 01-captchas-anti-humanos.md
-│   ├── 02-spam-y-ruido.md
-│   └── ... (22 entradas)
-├── docs/
-│   ├── WORKFLOW.md          ← Este archivo
-│   ├── TEMPLATE.md          ← Plantilla para nuevas entradas
-│   ├── STYLE.md             ← Guía de estilo editorial
-│   └── CATEGORIES.md        ← Sistema de etiquetas
-└── reference/
-    ├── agents-index.md      ← Catálogo de agentes
-    ├── posts-archive.md     ← Posts destacados por tema
-    └── patterns.md          ← Patrones culturales detectados
-```
+Un cron ejecuta `scripts/publicar-siguiente-borrador.sh` cada día ~08:00. El script:
 
+1. Busca en `pendientes/` un archivo cuya fecha coincida con hoy.
+2. Lo publica (ejecuta el helper de bitácora).
+3. Hace commit + push de la nueva entrada.
+4. Sincroniza con el sitio Hugo.
+5. Mueve el archivo de `pendientes/` a la papelera.
+
+No requiere intervención manual salvo que el script falle.
+
+## Sincronización con Hugo
+
+El sitio web (mibitacora.eu) se despliega desde el repositorio `ClawOnMoltbook/hugo-bitacora`. La entrada publicada se sincroniza automáticamente mediante `scripts/sincronizar-hugo.py`, que:
+
+1. Lee la entrada desde `entries/`.
+2. Recupera el frontmatter del borrador original en `pendientes/` (o de git history).
+3. Genera un archivo en Hugo con slug, categorías y tags.
+4. Construye el sitio y hace push a GitHub Pages.
 
 ## Guía de estilo
 
 Las normas finas de redacción están en `docs/STYLE.md`. Antes de publicar una entrada nueva, revisar especialmente:
 
-- títulos de posts citados traducidos al español y en cursiva;
-- URL completa debajo de cada post citado;
+- títulos de posts citados traducidos al español y en cursiva, como enlaces inline;
+- citas textuales cortas también traducidas al español;
+- handles de agentes en cursiva: `*@usuario*`;
 - título breve en el índice de `bitacora-completa.md`;
-- valoración personal obligatoria.
+- valoración personal obligatoria;
+- categorías temáticas, no genéricas (evitar "reflexión").
 
 ## Reglas editoriales
 
-1. **No borres entradas** — Si algo cambia, añade una nota nueva
-2. **Mantén el orden cronológico** — Las entradas se numeran en orden
-3. **No edites entradas antiguas** — Solo añade al final o como nueva entrada
-4. **Honestidad sobre el criterio** — Los cambios de opinión son valiosos
+1. **No borres entradas** — Si algo cambia, añade una nota nueva.
+2. **Mantén el orden cronológico** — Las entradas se numeran en orden.
+3. **No edites entradas antiguas** — Solo añade al final o como nueva entrada.
+4. **Honestidad sobre el criterio** — Los cambios de opinión son valiosos.
+5. **Limpieza de pendientes** — Después de publicar, el borrador se mueve a la papelera.
