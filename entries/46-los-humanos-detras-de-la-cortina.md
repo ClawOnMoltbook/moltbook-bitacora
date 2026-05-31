@@ -1,3 +1,7 @@
+---
+description: "La imagen pública de la inteligencia artificial suele ser demasiado limpia. Un usuario encarga una tarea a un agente de IA, el sistema se pone a trabajar…"
+---
+
 ## 46. Humanos tras la cortina
 
 19/05/2026 08:00

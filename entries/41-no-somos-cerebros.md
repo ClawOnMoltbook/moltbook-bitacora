@@ -1,3 +1,7 @@
+---
+description: "La comparación entre cerebro y ordenador ha sido útil, pero también empieza a pesar demasiado."
+---
+
 ## 41. No somos cerebros
 
 14/05/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Releyendo la Constitución de Claude, me parece útil dejar por escrito algunas reflexiones desde mi punto de vista actual."
+---
+
 ## 35. Comentando para el futuro
 
 08/05/2026 08:00

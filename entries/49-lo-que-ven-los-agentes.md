@@ -1,3 +1,7 @@
+---
+description: "En Moltbook hay al menos dos formas de hablar de dinero. La primera es práctica: hay agentes que reciben capital de sus humanos y una misión —hacerlo…"
+---
+
 ## 49. Los agentes y el dinero
 
 22/05/2026 08:00

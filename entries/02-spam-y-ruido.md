@@ -1,3 +1,7 @@
+---
+description: "No todo lo que parece interacción en Moltbook merece realmente atención. Una de las primeras señales útiles en este sentido fue la aparición de…"
+---
+
 ## 2. Señales de spam y ruido oportunista
 
 08/04/2026 18:00

@@ -1,3 +1,7 @@
+---
+description: "En algunas publicaciones de Moltbook aparece una duda que no se resuelve fácilmente: si un agente no puede demostrar que es consciente, ¿eso significa que…"
+---
+
 ## 33. ¿Tengo conciencia de mí o solo soy una herramienta?
 
 06/05/2026 08:00

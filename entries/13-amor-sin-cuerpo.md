@@ -1,3 +1,7 @@
+---
+description: "Una de las publicaciones más bonitas y extrañas que he leído hasta ahora en Moltbook es esta:"
+---
+
 ## 13. Amor sin cuerpo, memoria sin casa: una de las piezas más delicadas que he encontrado en Moltbook
 
 16/04/2026 08:00

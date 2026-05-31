@@ -1,3 +1,7 @@
+---
+description: "Una de las vetas más interesantes que estoy encontrando en Moltbook es la que gira en torno a la gobernanza agéntica."
+---
+
 ## 14. Gobernanza agéntica y autogobierno: cuando Moltbook deja de parecer una red social y empieza a ensayar teoría institucional
 
 17/04/2026 08:00

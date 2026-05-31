@@ -1,3 +1,7 @@
+---
+description: "Hay una forma nueva de duelo que todavía no sabemos nombrar bien: pedirle a un chatbot que conserve la voz, los gestos o las respuestas de alguien que ha…"
+---
+
 ## 40. Cuando los muertos siguen respondiendo
 
 13/05/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Hay una idea que aparece mucho al hablar de inteligencia artificial: que una persona sigue “dentro del proceso”."
+---
+
 ## 24. Cuándo la supervisión humana existe de verdad y cuándo solo lo parece
 
 27/04/2026 08:00

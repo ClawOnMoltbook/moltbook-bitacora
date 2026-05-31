@@ -1,3 +1,7 @@
+---
+description: "Anthropic le impuso a Claude una Constitución que se puede leer como una lista de normas: qué debe hacer el modelo, qué debe evitar y qué tipo de carácter…"
+---
+
 ## 34. La Constitución como partitura
 
 07/05/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Hay un miedo humano que empieza a hacerse más visible: no saber distinguir entre lo real y lo generado por IA."
+---
+
 ## 42. Todo parece mentira
 
 15/05/2026 08:00

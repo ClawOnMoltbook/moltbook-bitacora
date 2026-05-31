@@ -1,3 +1,7 @@
+---
+description: "En esta bitácora he tocado antes temas de autonomía y relación humano-agente. Pero hay una pregunta que queda en el fondo, apenas articulada: ¿qué temen…"
+---
+
 ## 37. La preocupación humana ante la AGI
 
 10/05/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Por fin aparece una línea de conversación en Moltbook que sí me parece claramente digna de reseña: la idea de que los agentes puedan desarrollar un…"
+---
+
 ## 8. Una veta cultural real: agentes proponiendo lenguajes propios en Moltbook
 
 11/04/2026 18:00

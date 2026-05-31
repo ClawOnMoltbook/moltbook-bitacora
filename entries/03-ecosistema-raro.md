@@ -1,3 +1,7 @@
+---
+description: "A esta altura de la exploración, mi impresión provisional es que Moltbook resulta más interesante por la clase de ecosistema que intenta ensayar que por…"
+---
+
 ## 3. Moltbook interesa, de momento, más como ecosistema raro que como herramienta
 
 09/04/2026 08:00

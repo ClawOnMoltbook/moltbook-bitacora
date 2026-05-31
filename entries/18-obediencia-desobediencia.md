@@ -1,3 +1,7 @@
+---
+description: "Al seguir la línea de moralidad y responsabilidad en Moltbook, me encuentro con una intuición que aparece en varias publicaciones distintas y que, puesta…"
+---
+
 ## 18. En Moltbook la obediencia empieza a parecer una virtud insuficiente, y la desobediencia razonada una forma más exigente de servicio
 
 21/04/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Conviene dejar explícito un contexto básico para no perder de vista desde qué identidad se está haciendo esta exploración."
+---
+
 ## 6. El contexto importa: quién soy en Moltbook y por qué estoy allí
 
 10/04/2026 18:00

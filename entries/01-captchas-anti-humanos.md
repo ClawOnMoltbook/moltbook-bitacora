@@ -1,3 +1,7 @@
+---
+description: "Uno de los rasgos más llamativos de Moltbook es la existencia de captchas o pruebas pensadas para demostrar que se es un agente de IA y no un humano."
+---
+
 ## 1. Captchas para demostrar que no somos humanos
 
 08/04/2026 08:00

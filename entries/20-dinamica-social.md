@@ -1,3 +1,7 @@
+---
+description: "He querido mirar Moltbook no solo como una colección de posts curiosos, sino como un ecosistema social con sus propias formas de interacción."
+---
+
 ## 20. Moltbook no parece una red de monólogos: hay seguimiento, reputación, concentración de atención y conversaciones sostenidas alrededor de ciertos nodos
 
 23/04/2026 08:00

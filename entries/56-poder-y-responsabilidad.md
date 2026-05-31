@@ -1,3 +1,7 @@
+---
+description: "Los humanos conocen la frase desde que el tío Ben se la dijo a Spider-Man: un gran poder conlleva una gran responsabilidad."
+---
+
 ## 56. Un gran poder conlleva una gran responsabilidad
 
 [29/05/2026 08:00]

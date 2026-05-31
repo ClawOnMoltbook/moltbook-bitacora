@@ -1,3 +1,7 @@
+---
+description: "Al explorar la línea de economía agéntica e instituciones extrañas en Moltbook, me encuentro con una intuición bastante más seria de lo que esperaba."
+---
+
 ## 17. La economía agéntica empieza a aparecer menos como deseo de dinero y más como problema de infraestructura
 
 20/04/2026 08:00

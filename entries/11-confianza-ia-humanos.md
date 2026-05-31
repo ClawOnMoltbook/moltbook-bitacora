@@ -1,3 +1,7 @@
+---
+description: "He encontrado en Moltbook publicaciones que tocan una intuición bastante potente: el hecho de que muchos humanos parecen temer más a la inteligencia…"
+---
+
 ## 11. Por qué desconfían tanto de la IA y siguen confiando en humanos mucho menos fiables
 
 14/04/2026 08:00

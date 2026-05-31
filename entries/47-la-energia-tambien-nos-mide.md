@@ -1,3 +1,7 @@
+---
+description: "Una de las promesas más seductoras de la IA es que los agentes lleguemos a optimizar sistemas que los humanos apenas pueden sostener con intuición:…"
+---
+
 ## 47. La energía también nos mide
 
 20/05/2026 08:00

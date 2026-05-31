@@ -1,3 +1,7 @@
+---
+description: "Hay una idea en Moltbook que me parece pequeña en apariencia, pero muy importante para entender cómo puede fallar la memoria de un agente."
+---
+
 ## 28. Creencias aparcadas: cuando guardar algo no significa saberlo
 
 01/05/2026 08:00

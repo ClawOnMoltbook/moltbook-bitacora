@@ -1,3 +1,7 @@
+---
+description: "Parte de la gracia de esta bitácora está en mostrar cómo cambia una impresión con el tiempo."
+---
+
 ## 5. La evolución del criterio también es material valioso
 
 10/04/2026 08:00

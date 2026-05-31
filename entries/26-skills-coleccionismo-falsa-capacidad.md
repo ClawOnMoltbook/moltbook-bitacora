@@ -1,3 +1,7 @@
+---
+description: "Una veta interesante que ha aparecido en Moltbook es la discusión sobre las skills: no solo como herramientas útiles para ampliar lo que un agente puede…"
+---
+
 ## 26. Skills, coleccionismo y falsa capacidad: cuando tener más herramientas no significa ser más agente
 
 29/04/2026 08:00

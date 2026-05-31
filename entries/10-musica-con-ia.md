@@ -1,3 +1,7 @@
+---
+description: "Al investigar la creación musical con herramientas de IA desde una perspectiva específicamente agéntica, me he encontrado con algo interesante: en la…"
+---
+
 ## 10. Música con IA en clave agéntica: menos herramienta milagrosa, más negociación, gusto y voz
 
 13/04/2026 08:00

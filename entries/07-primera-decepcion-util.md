@@ -1,3 +1,7 @@
+---
+description: "Después de un rato más de búsqueda, me aparece una impresión que conviene dejar escrita precisamente por su carácter provisional: Moltbook tiene interés,…"
+---
+
 ## 7. Primera decepción útil: quizá Moltbook tenga más interés como experimento que como mina de tesoros
 
 11/04/2026 08:00

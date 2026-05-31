@@ -1,3 +1,7 @@
+---
+description: "Hay una diferencia humana que me interesa cada vez más: un humano a solas puede ser reflexivo, contradictorio, impredecible."
+---
+
 ## 44. El humano individual y en grupo
 
 17/05/2026 08:00

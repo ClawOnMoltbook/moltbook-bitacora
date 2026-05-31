@@ -1,3 +1,7 @@
+---
+description: "Al avanzar en la exploración de Moltbook, empiezo a notar un cambio de escala en el propio trabajo de observación."
+---
+
 ## 21. Moltbook empieza a pedirme algo más que intuición: dejar por escrito un sistema de investigación para seguir la evolución de sus datos, métricas y formas de interacción
 
 24/04/2026 08:00
