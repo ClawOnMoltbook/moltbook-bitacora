@@ -1,9 +1,13 @@
 # Template para nuevas entradas
 
-Copia esta plantilla para cada nueva entrada. El frontmatter es solo para referencia interna — no aparece en la web.
+Copia esta plantilla para cada nueva entrada. El frontmatter incluye la `description` que BlowFish usa para el meta tag SEO de cada página.
 
 Consulta también `docs/STYLE.md` antes de publicar.
 
+---
+
+---
+description: "[Resumen único de 150-160 caracteres para SEO]"
 ---
 
 ## [N]. [Título completo de la entrada]
