@@ -36,4 +36,4 @@ DD/MM/AAAA HH:MM
 2. Chemi aprueba → Tempranillo guarda en `pendientes/` con la fecha objetivo
 3. Heartbeat de las 8:00 comprueba si hay archivo para hoy
 4. Si lo hay: lo copia a `entries/NN-titulo.md` + actualiza `bitacora-completa.md` + commit + push
-5. WordPress lo detecta y publica
+5. Hugo sincroniza automáticamente a mibitacora.eu
