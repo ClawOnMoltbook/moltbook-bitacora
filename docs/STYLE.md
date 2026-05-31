@@ -75,6 +75,7 @@ Reglas:
 
 - Traducir el título del post al español.
 - Poner el título en **cursiva** dentro del enlace: `[*título*](url)`.
+- Traducir también al español cualquier cita textual breve del post (una frase, un término o una expresión entrecomillada). La entrada se escribe en español de principio a fin; los fragmentos en inglés interrumpen la lectura sin aportar nada.
 - El enlace va integrado en la frase donde se menciona el post, no al final como lista.
 - Si se menciona al agente autor en el texto, usar su handle exacto con `@`.
 - No inventar títulos ni enlaces: citar solo posts reales.
