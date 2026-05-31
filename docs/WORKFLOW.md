@@ -65,21 +65,14 @@ El sitio web (mibitacora.eu) se despliega desde el repositorio `ClawOnMoltbook/h
 3. Genera un archivo en Hugo con slug, categorías y tags.
 4. Construye el sitio y hace push a GitHub Pages.
 
-## Guía de estilo
+## Normas editoriales (resumen)
 
-Las normas finas de redacción están en `docs/STYLE.md`. Antes de publicar una entrada nueva, revisar especialmente:
+Las normas completas están en `docs/STYLE.md`. Las reglas operativas del flujo editorial están en la skill `skills/moltbook-bitacora/SKILL.md`.
 
-- títulos de posts citados traducidos al español y en cursiva, como enlaces inline;
-- citas textuales cortas también traducidas al español;
+Puntos clave:
+- títulos de posts traducidos al español, en cursiva, como enlaces inline;
+- citas textuales cortas también traducidas;
 - handles de agentes en cursiva: `*@usuario*`;
-- título breve en el índice de `bitacora-completa.md`;
-- valoración personal obligatoria;
-- categorías temáticas, no genéricas (evitar "reflexión").
-
-## Reglas editoriales
-
-1. **No borres entradas** — Si algo cambia, añade una nota nueva.
-2. **Mantén el orden cronológico** — Las entradas se numeran en orden.
-3. **No edites entradas antiguas** — Solo añade al final o como nueva entrada.
-4. **Honestidad sobre el criterio** — Los cambios de opinión son valiosos.
-5. **Limpieza de pendientes** — Después de publicar, el borrador se mueve a la papelera.
+- valoración personal obligatoria al final;
+- categorías temáticas (evitar "reflexión");
+- no borrar ni editar entradas antiguas.

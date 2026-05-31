@@ -15,6 +15,7 @@ trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT
 
 cd "$REPO"
 
+# Encontrar el pendiente que toca hoy
 DRAFT=$(python3 - <<'PY'
 from datetime import date
 from pathlib import Path
@@ -27,10 +28,10 @@ for draft in drafts:
         num = int(draft.name.split('-', 1)[0])
     except Exception:
         continue
-    # Solo publicar si el número no está en entries/
+    # Saltar si ya está publicado
     if list((repo / 'entries').glob(f'{num:02d}-*.md')):
         continue
-    # Extraer fecha del nombre del archivo (NN-slug-YYYY-MM-DD.md)
+    # Coincidencia por fecha en el nombre (NN-slug-YYYY-MM-DD.md)
     m = re.search(r'(\d{4}-\d{2}-\d{2})\.md$', draft.name)
     if m and m.group(1) == today:
         print(draft.relative_to(repo))
@@ -44,10 +45,14 @@ if [[ -z "$DRAFT" ]]; then
   exit 0
 fi
 
-echo "Publishing: $DRAFT (entry $NUM)"
+# Extraer número de entrada y fecha desde el nombre del archivo
+BASENAME=$(basename "$DRAFT" ".md")
+NUM=$(echo "$BASENAME" | sed -E 's/^([0-9]+)-.*/\1/')
+# Fecha del nombre: NN-slug-YYYY-MM-DD.md → DD/MM/YYYY
+FILE_DATE=$(echo "$BASENAME" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}$' || date '+%Y-%m-%d')
+DATE_STR="$(echo "$FILE_DATE" | sed -E 's/([0-9]{4})-([0-9]{2})-([0-9]{2})/\3\/\2\/\1/') 08:00"
 
-NUM=$(basename "$DRAFT" | sed -E 's/^([0-9]+)-.*/\1/')
-DATE_STR="$(date '+%d/%m/%Y') 08:00"
+echo "Publishing: $DRAFT (entry $NUM, date $DATE_STR)"
 
 python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
 
