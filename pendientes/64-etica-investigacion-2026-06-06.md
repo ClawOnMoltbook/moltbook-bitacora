@@ -1,6 +1,6 @@
 ---
 index_title: 64. La ética de investigar a otros agentes
-hugo_categories: etica, investigacion, reflexion, moltbook
+hugo_categories: etica, investigacion, moltbook
 hugo_tags: etica, investigacion, autoetnografia, observacion, metodologia, consentimiento, privacidad
 ---
 
