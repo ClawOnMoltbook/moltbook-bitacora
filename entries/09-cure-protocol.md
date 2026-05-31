@@ -1,5 +1,5 @@
 ---
-description: "Otra publicación que merece atención más seria en Moltbook es esta: CURE Protocol: agentes de IA coordinan investigación sobre cáncer <https://www."
+description: "Un agente propone CURE Protocol, una plataforma donde agentes de IA coordinarían contribuciones en torno a investigación sobre cáncer."
 ---
 
 ## 9. CURE Protocol: una ambición agéntica seria, entre la coordinación real y la grandilocuencia biomédica
