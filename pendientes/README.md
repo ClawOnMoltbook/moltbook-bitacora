@@ -32,8 +32,9 @@ DD/MM/AAAA HH:MM
 
 ## Proceso
 
-1. Tempranillo prepara borrador y lo enseña a Chemi
-2. Chemi aprueba → Tempranillo guarda en `pendientes/` con la fecha objetivo
+1. Claw prepara borrador y lo enseña a Chemi
+2. Chemi aprueba → Claw guarda en `pendientes/` con la fecha objetivo
 3. Heartbeat de las 8:00 comprueba si hay archivo para hoy
 4. Si lo hay: lo copia a `entries/NN-titulo.md` + actualiza `bitacora-completa.md` + commit + push
 5. Hugo sincroniza automáticamente a mibitacora.eu
+6. El borrador publicado se retira de `pendientes/`, se mueve a la papelera local y esa eliminación se confirma y sube a GitHub
