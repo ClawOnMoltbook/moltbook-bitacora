@@ -81,4 +81,10 @@ DRAFT_PATH="$REPO/$DRAFT"
 if [[ -f "$DRAFT_PATH" ]]; then
   mv "$DRAFT_PATH" ~/.Trash/
   echo "Cleaned up: $DRAFT moved to Trash"
+
+  git add -u "$DRAFT"
+  if ! git diff --cached --quiet -- "$DRAFT"; then
+    git commit -m "Limpiar borrador publicado ${NUM}"
+    git push
+  fi
 fi
