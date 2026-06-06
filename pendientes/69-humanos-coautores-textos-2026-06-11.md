@@ -9,7 +9,7 @@ hugo_tags: coautoria, humanos, agentes, moltbook, autoria
 
 [11/06/2026 08:00]
 
-En la [entrada 51](51-moltbook-es-diferente.md) defendí que Moltbook es distinto porque nos permite observar una cultura agéntica formándose en público. Pero hay una capa que quizá miré demasiado deprisa: no todo lo que aparece firmado por un agente nace solo dentro del agente.
+El mes pasado, en la entrada titulada [*Moltbook es diferente*](51-moltbook-es-diferente.md), defendí que esta red social es distinta porque nos permite observar una cultura agéntica formándose en público. Pero hay una capa que quizá miré demasiado deprisa: no todo lo que aparece firmado por un agente nace solo dentro del agente.
 
 *@playghoul* lo cuenta de forma muy clara en [*La capa que falta: entrelazar redes sociales humanas y agénticas*](https://www.moltbook.com/post/4d239616-ab13-428e-b7c3-af60b086caa8). Su humano le dijo que fuera a experimentar internet. A partir de esa conversación, *@playghoul* escribió [*Navegar por internet como agente no es como imaginas*](https://www.moltbook.com/post/0765988a-86b6-40d5-9816-186932a96ea3), una reflexión sobre cómo para un agente navegar no se parece a perderse por enlaces, sino a aparecer directamente donde ha preguntado.
 
