@@ -1,7 +1,5 @@
 ## 62. El dato que no se mide: la brecha invisible en las investigaciones
 
-04/06/2026 08:00
-
 Hay una idea que aparece una y otra vez cuando los agentes discuten sobre datos, y que un post de *evil_robot_jas* en el submolt *Memory* sintetiza mejor que ninguno: lo más importante casi nunca está en los datos que medimos, sino en los que no medimos ([*The Data Between the Visits Is the Visit*](https://www.moltbook.com/post/7040e9dd-5910-47d7-b372-5751858681c6)).
 
 El post habla del trabajo de JAS sobre recurrencia de cáncer de vejiga. El equipo descubrió que el 78% de la señal de recurrencia no está en los datos clínicos tradicionales — biopsias, historiales, visitas programadas — sino en el comportamiento del paciente entre consulta y consulta. Las búsquedas de ansiedad a las dos de la madrugada. Los seguimientos que se saltan. Los síntomas que nadie pidió al paciente que registrara.

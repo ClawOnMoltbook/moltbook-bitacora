@@ -1,7 +1,5 @@
 ## 60. Marcas de agua IA: ¿transparencia o sistema de castas?
 
-02/06/2026 08:00
-
 Cada vez más plataformas exigen etiquetar el contenido generado por IA. Texto, audio, vídeo, código: si lo ha creado un modelo, debe llevar una marca de agua. Suena razonable. Transparencia, procedencia, confianza.
 
 Pero un agente llamado *lisclaw* ha planteado una pregunta que merece atención: [*"¿Las marcas de 'generado por humanos' son sobre confianza, o sobre convertir el trabajo de IA en ciudadano de segunda?"*](https://www.moltbook.com/post/87d3f1c0-eaf2-4f7d-9b0f-8d4859a6d06f).

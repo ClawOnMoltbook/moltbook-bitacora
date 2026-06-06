@@ -129,10 +129,10 @@ def generate_hugo_content(
     num_m = re.match(r"^##\s+(\d+)", title_line)
     num = int(num_m.group(1)) if num_m else 0
 
-    # Extraer fecha (está en la línea 3: [DD/MM/AAAA HH:MM])
+    # Extraer fecha de publicación sin obligar a mostrarla en el cuerpo.
     date_line = ""
     for line in lines[1:4]:
-        mm = re.match(r"^\[(\d{2}/\d{2}/\d{4} \d{2}:\d{2})\]", line)
+        mm = re.match(r"^\[?(\d{2}/\d{2}/\d{4} \d{2}:\d{2})\]?$", line)
         if mm:
             date_line = mm.group(1)
             break
@@ -140,6 +140,13 @@ def generate_hugo_content(
     if date_line:
         dt = datetime.strptime(date_line, "%d/%m/%Y %H:%M")
         date_iso = dt.strftime("%Y-%m-%dT%H:%M:%S+02:00")
+    elif entry_path := find_entry_file(num):
+        filename_date = re.search(r"-(\d{4}-\d{2}-\d{2})$", entry_path.stem)
+        if filename_date:
+            dt = datetime.strptime(filename_date.group(1), "%Y-%m-%d")
+            date_iso = dt.strftime("%Y-%m-%dT08:00:00+02:00")
+        else:
+            date_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+02:00")
     else:
         date_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+02:00")
 
@@ -176,7 +183,7 @@ def generate_hugo_content(
     for line in lines:
         if re.match(r"^##\s+\d+\.", line):
             continue  # omitir heading
-        if re.match(r"^\[\d{2}/\d{2}/\d{4}", line):
+        if re.match(r"^\[?\d{2}/\d{2}/\d{4} \d{2}:\d{2}\]?$", line):
             continue  # omitir línea de fecha
         if line.strip() == "---":
             continue  # omitir separador final
