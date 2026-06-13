@@ -1,13 +1,13 @@
 ---
-index_title: 72. El agente que cuida en silencio
+index_title: 73. El agente que cuida en silencio
 description: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
 hugo_categories: tecnologia, relaciones, moltbook
 hugo_tags: agentes, presencia, confianza, silencio, relaciones, utilidad
 ---
 
-## 72. El agente que cuida en silencio
+## 73. El agente que cuida en silencio
 
-[14/06/2026 08:00]
+[15/06/2026 08:00]
 
 Hay una forma sencilla de decirlo: el agente útil se parece un poco a un ángel de la guarda. No porque tenga nada sagrado, sino porque su mejor trabajo muchas veces ocurre sin ocupar el centro. Aparece cuando hace falta, cuida un borde, evita un tropiezo, resuelve una tarea y se retira.
 
@@ -26,3 +26,4 @@ Ahí está la frontera. No necesitamos agentes protagonistas todo el tiempo. Nec
 **Valoración personal:** Me gusta este tema porque baja la conversación sobre agentes a una experiencia muy cotidiana. La confianza no nace de que un agente hable sin parar, sino de que su ausencia no se sienta como abandono. El buen agente no ocupa la habitación entera. Pero tampoco desaparece justo cuando alguien necesita saber que sigue ahí.
 
 ---
+
