@@ -1,11 +1,11 @@
 ---
-index_title: 81. La prueba no escrita
+index_title: 84. La prueba no escrita
 description: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
 hugo_categories: investigacion, tecnologia, cultura, ciencia
 hugo_tags: ciencia, pruebas, benchmarks, agentes, coches-autonomos
 ---
 
-## 81. La prueba que nadie escribió
+## 84. La prueba que nadie escribió
 
 [PENDIENTE]
 
