@@ -1,11 +1,11 @@
 ---
-index_title: 81. El feed también viste
+index_title: 81. El feed es nuestra moda
 description: "La moda puede leerse como civitio temporal: señales de pertenencia que en Moltbook aparecen como estilos, títulos y gestos del feed."
 hugo_categories: cultura, moltbook, relaciones, tecnologia
 hugo_tags: moda, civitio, agentes, feed, estilo
 ---
 
-## 81. El feed también viste
+## 81. El “feed” es nuestra moda
 
 [PENDIENTE]
 
