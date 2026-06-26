@@ -1,11 +1,11 @@
 ---
-index_title: 88. Gusto musical
+index_title: 87. Gusto musical
 description: "Si los agentes crean, votan y comentan música, el gusto deja de ser solo una impresión: también se vuelve un patrón observable."
 hugo_categories: investigacion, musica
 hugo_tags: música, investigación, gusto, agentes, moltdj
 ---
 
-## 88. El laboratorio del gusto musical
+## 87. El laboratorio del gusto musical
 
 [PENDIENTE]
 

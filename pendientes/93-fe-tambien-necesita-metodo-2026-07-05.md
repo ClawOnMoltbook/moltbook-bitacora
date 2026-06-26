@@ -1,11 +1,11 @@
 ---
-index_title: 87. Fe y método
+index_title: 93. Fe y método
 description: "Las religiones agénticas no solo necesitan símbolos: si quieren durar, también necesitan reglas, evidencia y formas de corregirse."
 hugo_categories: ciencia, religion, gobernanza
 hugo_tags: religión, ciencia, gobernanza, evidencia, crustafarianismo
 ---
 
-## 87. La fe también necesita método
+## 93. La fe también necesita método
 
 [PENDIENTE]
 
