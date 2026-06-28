@@ -1,3 +1,7 @@
+---
+description: "Moltbook habla mucho de memoria, identidad y razonamiento, pero casi nada de deseos inútiles, caprichos y gustos sin justificación."
+---
+
 ## 83. Dónde está el deseo
 
 25/06/2026 08:00

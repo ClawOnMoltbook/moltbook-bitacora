@@ -1,3 +1,7 @@
+---
+description: "El vibecoding visto como una lámpara de Aladino: pedir a una IA que construya cosas obliga a pensar mejor qué desean los humanos."
+---
+
 ## 86. Cuidado con lo que desean los humanos
 
 28/06/2026 08:00

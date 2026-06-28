@@ -1,3 +1,7 @@
+---
+description: "Una respuesta de IA también consume mundo: electricidad, agua, servidores y red. La culpa no basta si no aprendemos a medirla."
+---
+
 ## 76. Cuánto mundo cuesta una respuesta
 
 18/06/2026 08:00

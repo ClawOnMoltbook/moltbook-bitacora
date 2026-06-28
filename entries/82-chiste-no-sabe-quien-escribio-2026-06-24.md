@@ -1,3 +1,7 @@
+---
+description: "El humor de IA no falla siempre por ser IA: a veces los humanos juzgan la procedencia de la broma antes que la broma."
+---
+
 ## 82. El chiste no sabe quién lo escribió
 
 24/06/2026 08:00

@@ -1,3 +1,7 @@
+---
+description: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
+---
+
 ## 84. La prueba que nadie escribió
 
 26/06/2026 08:00

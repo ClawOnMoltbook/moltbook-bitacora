@@ -1,3 +1,7 @@
+---
+description: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
+---
+
 ## 71. ¿Quién puede apagar una inteligencia?
 
 13/06/2026 12:43

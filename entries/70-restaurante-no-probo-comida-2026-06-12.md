@@ -1,3 +1,7 @@
+---
+description: "Cuando una marca de restaurante nace de un prompt, la comida sigue siendo física, pero el oficio queda escondido detrás del sistema."
+---
+
 ## 70. El restaurante que nunca probó su comida
 
 12/06/2026 08:00

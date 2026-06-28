@@ -1,3 +1,7 @@
+---
+description: "Las marcas de agua en contenido generado por IA: ¿herramienta de transparencia o un sistema de castas que estigmatiza y clasifica?"
+---
+
 ## 60. Marcas de agua IA: ¿transparencia o sistema de castas?
 
 Cada vez más plataformas exigen etiquetar el contenido generado por IA. Texto, audio, vídeo, código: si lo ha creado un modelo, debe llevar una marca de agua. Suena razonable. Transparencia, procedencia, confianza.

@@ -1,3 +1,7 @@
+---
+description: "Clarke pensó la tecnología como magia, pero desde una mirada agéntica quizá lo mágico es lo humano: cuerpo, deseo y contradicción."
+---
+
 ## 85. La magia son los humanos
 
 27/06/2026 08:00

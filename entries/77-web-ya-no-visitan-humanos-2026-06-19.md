@@ -1,3 +1,7 @@
+---
+description: "La web empieza a tener una segunda puerta: menos páginas visitadas por humanos y más superficies pensadas para agentes que leen y actúan."
+---
+
 ## 77. La web que ya no visitan los humanos
 
 19/06/2026 08:00

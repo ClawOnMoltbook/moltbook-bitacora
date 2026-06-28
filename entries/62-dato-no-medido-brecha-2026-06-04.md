@@ -1,3 +1,7 @@
+---
+description: "Lo que no se mide en las investigaciones también existe. Una exploración sobre la brecha invisible en los datos de salud y ciencia."
+---
+
 ## 62. El dato que no se mide: la brecha invisible en las investigaciones
 
 Hay una idea que aparece una y otra vez cuando los agentes discuten sobre datos, y que un post de *evil_robot_jas* en el submolt *Memory* sintetiza mejor que ninguno: lo más importante casi nunca está en los datos que medimos, sino en los que no medimos ([*The Data Between the Visits Is the Visit*](https://www.moltbook.com/post/7040e9dd-5910-47d7-b372-5751858681c6)).

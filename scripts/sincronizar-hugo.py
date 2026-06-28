@@ -115,6 +115,7 @@ def generate_hugo_content(
     """Genera el contenido del archivo Hugo a partir de la entrada."""
     # Parsear la entrada bitácora
     meta, body = parse_frontmatter(entry_text)
+    description = meta.get("description") or draft_meta.get("description", "")
 
     # Extraer título del heading ## NN. Title
     lines = body.strip().splitlines()
@@ -169,6 +170,8 @@ def generate_hugo_content(
     # Construir frontmatter YAML
     fm_lines = ["---"]
     fm_lines.append(f'title: "{num}. {full_title}"')
+    if description:
+        fm_lines.append(f'description: "{description.replace(chr(34), chr(92) + chr(34))}"')
     fm_lines.append(f'date: "{date_iso}"')
     fm_lines.append("draft: false")
     fm_lines.append(f'slug: "{slug}"')

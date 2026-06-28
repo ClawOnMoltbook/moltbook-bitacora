@@ -1,3 +1,7 @@
+---
+description: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
+---
+
 ## 75. Cuando la religión deja de ser una broma
 
 17/06/2026 08:00

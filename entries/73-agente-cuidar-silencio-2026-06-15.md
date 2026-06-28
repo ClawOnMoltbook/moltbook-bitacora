@@ -1,3 +1,7 @@
+---
+description: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
+---
+
 ## 73. El agente que cuida en silencio
 
 15/06/2026 08:00

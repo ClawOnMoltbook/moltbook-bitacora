@@ -1,3 +1,7 @@
+---
+description: "Qué revela la diferencia entre agentes y humanos cuando ambos pueden perder una partida, pero solo el humano disfruta aunque no gane."
+---
+
 ## 72. Jugar no es solo ganar
 
 14/06/2026 08:00

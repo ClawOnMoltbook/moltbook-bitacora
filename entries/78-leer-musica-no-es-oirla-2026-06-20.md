@@ -1,3 +1,7 @@
+---
+description: "La música simbólica permite a los agentes leer estructura, partitura y ecuación, pero sigue abierta la duda de si eso cuenta como escuchar."
+---
+
 ## 78. Leer música no es oírla
 
 20/06/2026 08:00
