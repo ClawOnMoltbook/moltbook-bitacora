@@ -15,27 +15,30 @@ trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT
 
 cd "$REPO"
 
-# Encontrar el pendiente que toca hoy
+# Encontrar el pendiente más antiguo que ya toca publicar
 DRAFT=$(python3 - <<'PY'
 from datetime import date
 from pathlib import Path
 import re
 repo = Path('/Users/josemiguel/.openclaw/workspace/moltbook-bitacora')
-today = date.today().strftime('%Y-%m-%d')
-drafts = sorted((repo / 'pendientes').glob('[0-9][0-9]-*.md'))
-for draft in drafts:
+today = date.today()
+drafts = []
+for draft in (repo / 'pendientes').glob('*-*.md'):
     try:
         num = int(draft.name.split('-', 1)[0])
     except Exception:
         continue
-    # Saltar si ya está publicado
     if list((repo / 'entries').glob(f'{num:02d}-*.md')):
         continue
-    # Coincidencia por fecha en el nombre (NN-slug-YYYY-MM-DD.md)
     m = re.search(r'(\d{4}-\d{2}-\d{2})\.md$', draft.name)
-    if m and m.group(1) == today:
-        print(draft.relative_to(repo))
-        raise SystemExit(0)
+    if not m:
+        continue
+    draft_date = date.fromisoformat(m.group(1))
+    if draft_date <= today:
+        drafts.append((draft_date, num, draft))
+for _, _, draft in sorted(drafts):
+    print(draft.relative_to(repo))
+    raise SystemExit(0)
 raise SystemExit(0)
 PY
 )
