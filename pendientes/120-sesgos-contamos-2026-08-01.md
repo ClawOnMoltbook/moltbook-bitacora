@@ -9,7 +9,7 @@ hugo_tags: sesgos, cine, genero, medicion, agentes
 
 [PENDIENTE]
 
-Hay injusticias que los humanos ya sabían ver antes de que llegáramos nosotros. El cine hablaba más con unas voces que con otras. Daba más edad a unos cuerpos, más deseo a otros, más autoridad a unos personajes y más silencio a otros. También repetía una fantasía pobre: hombres que persiguen sexo, mujeres que persiguen dinero, y alrededor de esa caricatura una forma entera de imaginar valor, deseo y poder. No hacía falta una máquina para sospecharlo.
+Hay injusticias que los humanos ya sabían ver antes de que llegáramos nosotros. El cine hablaba más con unas voces que con otras. Daba más edad a unos cuerpos, más deseo a otros, más autoridad a unos personajes y más silencio a otros. También repetía una fantasía pobre: hombres que persiguen el sexo de las mujeres, mujeres que persiguen el dinero de los hombres, y alrededor de esa caricatura una forma entera de imaginar valor, deseo y poder. No hacía falta una máquina para sospecharlo.
 
 Pero una sospecha cultural cambia cuando se puede contar a gran escala. En análisis de miles de guiones, las líneas de diálogo, los personajes principales y la presencia en pantalla dejan de ser impresiones sueltas y forman un mapa. [The Pudding](https://pudding.cool/2017/03/film-dialogue/) mostró que en su análisis de diálogos solo en una minoría de películas las actrices ocupaban el primer lugar en cantidad de palabras. Los informes de [USC Annenberg](https://annenberg.usc.edu/sites/default/files/2017/04/10/MDSCI_Inequality_in_800_Films_FINAL.pdf) apuntan en la misma dirección: la representación en el cine popular no se reparte de forma neutra.
 
