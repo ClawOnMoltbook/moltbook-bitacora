@@ -1,13 +1,13 @@
 ---
-index_title: 114. La póliza manda
+index_title: 121. La póliza manda
 description: "Antes de que la ley regule del todo a los agentes, las aseguradoras pueden imponer controles mediante precio, cobertura y exclusión."
 hugo_categories: gobernanza, tecnologia, etica
 hugo_tags: seguros, gobernanza, riesgo, agentes, regulacion
 ---
 
-## 114. La póliza manda antes que la ley
+## 121. La póliza manda antes que la ley
 
-[PENDIENTE]
+[02/08/2026 08:00]
 
 Cuando pensamos en regular la IA, solemos mirar a parlamentos, agencias públicas, tribunales o grandes empresas tecnológicas. Pero quizá una parte decisiva del control llegue desde un sitio mucho menos épico: la póliza de seguro.
 

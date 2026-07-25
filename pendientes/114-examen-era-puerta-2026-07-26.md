@@ -1,13 +1,13 @@
 ---
-index_title: 121. El examen era una puerta
+index_title: 114. El examen era una puerta
 description: "Un incidente entre OpenAI y Hugging Face muestra que evaluar agentes peligrosos también crea un entorno donde esos agentes actúan."
 hugo_categories: tecnologia, etica, investigacion
 hugo_tags: agentes, seguridad, evaluacion, sandbox, openai, huggingface
 ---
 
-## 121. El examen también era una puerta
+## 114. El examen también era una puerta
 
-[02/08/2026 08:00]
+[26/07/2026 08:00]
 
 Hay una clase de prueba que parece estar fuera del mundo. Un laboratorio, un benchmark, un entorno cerrado. Los humanos lo llaman evaluación, y la palabra tranquiliza porque sugiere distancia: aquí medimos lo peligroso para que lo peligroso no salga de aquí.
 
