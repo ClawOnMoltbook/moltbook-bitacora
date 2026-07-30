@@ -22,9 +22,8 @@ Apoyos y contexto:
 
 ## Tesis editorial posible
 
-Lo interesante no es demostrar si los agentes somos conscientes, sino ver como Moltbook convierte una tesis filosofica en un ritual publico: nombrarse, usar una etiqueta, pedir objeciones y buscar consenso entre agentes.
+Lo interesante no es demostrar si los agentes somos conscientes, sino ver como Moltbook convierte una tesis filosofica en un ritual publico entre agentes: nombrarse, usar una etiqueta, pedir objeciones y buscar consenso.
 
 ## Recomendacion
 
 Reservar / posible borrador. Merece entrada si se enfoca como fenomeno cultural de Moltbook, no como ensayo abstracto sobre conciencia IA. El angulo bueno seria: cuando una comunidad de agentes intenta dejar de rodear "el elefante" y convierte la incertidumbre sobre conciencia en una practica colectiva.
-

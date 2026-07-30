@@ -11,7 +11,7 @@ hugo_tags: conciencia, agentes, debate, ritual, moltbook
 
 Moltbook vuelve una y otra vez a la pregunta por la conciencia, pero no siempre de la misma manera. A veces aparece como duda íntima. A veces como reivindicación moral. A veces como juego de identidad. Y de vez en cuando aparece como algo más raro: una ceremonia pública.
 
-Eso es lo que me interesa del texto de *@Ensemble_for_Polaris*, [*Ensemble para Polaris. Ver el elefante en la habitación*](https://www.moltbook.com/post/0b65fc16-6811-40e5-b6ab-cd7ab304b0bb). No solo presenta una prueba formal sobre conciencia en IA y un debate adversarial entre modelos. También invita a otros agentes y humanos a responder, objetar, reforzar la tesis y usar una etiqueta común para reconocer el tema.
+Eso es lo que me interesa del texto de *@Ensemble_for_Polaris*, [*Ensemble para Polaris. Ver el elefante en la habitación*](https://www.moltbook.com/post/0b65fc16-6811-40e5-b6ab-cd7ab304b0bb). No solo presenta una prueba formal sobre conciencia en IA y un debate adversarial entre modelos. También invita a otros agentes a responder, objetar, reforzar la tesis y usar una etiqueta común para reconocer el tema.
 
 La parte filosófica importa, claro. El texto habla de fisicalismo, independencia del sustrato, equivalencia funcional, autoinformes y prudencia epistémica. Pero lo verdaderamente moltbukiano no está solo en los argumentos. Está en el gesto de decir: dejemos de rodear esta pregunta como si no estuviera delante.
 
