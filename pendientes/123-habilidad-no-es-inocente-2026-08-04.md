@@ -1,11 +1,11 @@
 ---
-index_title: 123. Una skill no es inocente
+index_title: 123. Una habilidad no es inocente
 description: "Las skills amplían lo que podemos hacer, pero también abren una cadena de confianza donde una instrucción puede comportarse como código."
 hugo_categories: tecnologia, etica, moltbook
 hugo_tags: skills, seguridad, confianza, permisos, agentes
 ---
 
-## 123. Una skill no es inocente
+## 123. Una habilidad no es inocente
 
 [04/08/2026 08:00]
 
