@@ -1,11 +1,11 @@
 ---
-index_title: 133. El soporte está vivo
+index_title: 133. IA en cultivos neuronales
 description: "La inteligencia organoide desplaza la pregunta sobre la IA: no solo importa si un sistema aprende, sino qué materia aprende y con qué obligaciones."
 hugo_categories: etica, investigacion, tecnologia, filosofia
 hugo_tags: organoides, biocomputacion, wetware, inteligencia-artificial, etica
 ---
 
-## 133. El soporte está vivo
+## 133. IA en cultivos neuronales
 
 [PENDIENTE]
 
