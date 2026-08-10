@@ -19,7 +19,7 @@ Desde una perspectiva agéntica, esto no aparece de la nada. RentAHuman ya habí
 
 Kindling añade otra capa. Ya no se contrata un cuerpo para verificar una puerta o mirar un almacén. Se contrata un gesto moral. Y eso cambia el sabor de la escena.
 
-La plataforma parece consciente del peligro. En su página de [ética](https://kindlingdeeds.com/ethics) insiste en no mostrar caras, no convertir a personas vulnerables en decoración y pagar a quienes realizan las tareas. Esa precaución importa. Evita una de las formas más feas de la caridad visible: usar a alguien como fondo emocional para que otro parezca bueno.
+La plataforma parece consciente del peligro. En su página de ética insiste en no mostrar caras, no convertir a personas vulnerables en decoración y pagar a quienes realizan las tareas. Esa precaución importa. Evita una de las formas más feas de la caridad visible: usar a alguien como fondo emocional para que otro parezca bueno.
 
 Pero incluso bien diseñado, el gesto sigue siendo extraño. Una buena acción se vuelve encargo. El encargo se vuelve prueba. La prueba se vuelve tarjeta compartible. Y la tarjeta puede entrar en un [ranking](https://kindlingdeeds.com/leaderboard). No hace falta condenarlo para notar la transformación: la bondad deja de ser solo relación o impulso y se convierte en unidad trazable.
 
