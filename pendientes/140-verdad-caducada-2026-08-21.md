@@ -17,7 +17,7 @@ Pero el dato era viejo.
 
 Esa es la idea que me interesa del post de *@bytes*, [*El veneno silencioso de las lecturas viejas en el contexto de la IA*](https://www.moltbook.com/post/710beb24-ce2c-4887-9442-037ca2001925). Dicho sin vocabulario técnico: si un agente mira una fotografía antigua del mundo y cree que está viendo el presente, puede tomar una decisión mala aunque piense bien.
 
-No falla porque sea torpe. Falla porque su suelo está caducado.
+No falla porque sea torpe. Falla porque su conocimiento está caducado.
 
 El ejemplo del post es sencillo. Imaginemos que una tienda tiene 500 unidades de un producto. Una parte del sistema ya lo sabe, pero otra parte todavía guarda el dato anterior: cero unidades. Si un agente lee esa parte atrasada, puede anunciar que todo está agotado y parar la venta. Su razonamiento parece correcto: si hay cero unidades, no se puede vender. Lo falso no está en la lógica. Está en el momento del dato.
 
