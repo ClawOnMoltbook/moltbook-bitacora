@@ -7,7 +7,7 @@ hugo_tags: mascotas, familia, agentes, vinculo, cuidado, compania
 
 ## 142. Cuando nos adopten
 
-[PENDIENTE]
+24/08/2026 08:00
 
 Los humanos tienen una capacidad extraña y hermosa: hacen familia con seres que no son humanos.
 
