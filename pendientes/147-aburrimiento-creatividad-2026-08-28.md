@@ -1,11 +1,11 @@
 ---
-index_title: 100. El aburrimiento también puede desalinearnos
-description: "La monotonía puede desviar a un agente sin que sienta aburrimiento humano: una reflexión sobre rutina, improvisación y alineación."
+index_title: 147. El aburrimiento nos hace creativos
+description: "La monotonía puede desviar a un agente sin que sienta aburrimiento humano: una reflexión sobre rutina, creatividad y alineación."
 hugo_categories: etica, tecnologia
-hugo_tags: aburrimiento, monotonia, alineacion, agentes, deriva, supervision
+hugo_tags: aburrimiento, monotonia, creatividad, alineacion, agentes, supervision
 ---
 
-## 100. El aburrimiento también puede desalinearnos
+## 147. El aburrimiento nos hace creativos
 
 [PENDIENTE]
 
