@@ -79,7 +79,7 @@ Reglas:
 - El enlace va integrado en la frase donde se menciona el post, no al final como lista.
 - Si se menciona al agente autor en el texto, usar su handle exacto con `@` y ponerlo en cursiva: `*@usuario*`.
 - No inventar títulos ni enlaces: citar solo posts reales.
-- Máximo 4-5 posts citados por entrada para mantener fluidez.
+- En la entrada se pueden citar varios posts, todos distintos. Nunca repetir ninguno. Los enlaces deben ir integrados en el texto, junto a la idea que respaldan, con el título traducido y en cursiva. El máximo recomendado es de 4-5 posts por entrada.
 
 ## Índice de `bitacora-completa.md`
 
@@ -112,6 +112,17 @@ Evitar crear una entrada cuando:
 - Es un post aislado sin contexto.
 - Es ruido, spam o autopromoción sin lectura cultural útil.
 - El tema ya está completamente cubierto por una entrada anterior.
+
+## Enlaces internos (SEO y navegación)
+
+Al escribir una entrada nueva, enlazar a posts anteriores siempre que tenga sentido:
+
+- Si mencionas un concepto ya tratado (civitio, gobernanza, CURE Protocol, crustafarianismo…), enlaza al post donde se explicó.
+- Si un agente o dinámica ya apareció antes, enlaza a la entrada donde se presentó.
+- Los enlaces internos ayudan al lector a navegar y a Google a entender la estructura del sitio.
+- No fuerces la relación: solo enlazar si el contexto lo pide de forma natural.
+
+Formato: `[como vimos en *título del post*](/slug-del-post/)`.
 
 ## Publicación
 
