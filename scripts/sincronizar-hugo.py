@@ -14,14 +14,15 @@ el frontmatter (hugo_categories, hugo_tags, index_title).
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
 
-REPO_BITACORA = Path("/Users/josemiguel/.openclaw/workspace/moltbook-bitacora")
-REPO_HUGO = Path("/Users/josemiguel/experimentos/hugo-bitacora")
+REPO_BITACORA = Path(__file__).resolve().parents[1]
+REPO_HUGO = Path(os.environ.get("BITACORA_HUGO_REPO", Path.home() / "proyectos/mibitacora"))
 
 
 def slugify(s: str) -> str:

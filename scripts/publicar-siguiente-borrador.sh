@@ -1,10 +1,13 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 set -euo pipefail
 
-export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/home/tempranillo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
-REPO="/Users/josemiguel/.openclaw/workspace/moltbook-bitacora"
-HELPER="/Users/josemiguel/.openclaw/workspace/skills/moltbook-bitacora/scripts/bitacora.py"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO="$(cd "$SCRIPT_DIR/.." && pwd)"
+WORKSPACE="$(cd "$REPO/.." && pwd)"
+HELPER="$WORKSPACE/skills/moltbook-bitacora/scripts/bitacora.py"
+HUGO_REPO="${BITACORA_HUGO_REPO:-$HOME/proyectos/mibitacora}"
 LOCKDIR="/tmp/moltbook-bitacora-publicar.lock"
 
 if ! mkdir "$LOCKDIR" 2>/dev/null; then
@@ -20,7 +23,7 @@ DRAFT=$(python3 - <<'PY'
 from datetime import date
 from pathlib import Path
 import re
-repo = Path('/Users/josemiguel/.openclaw/workspace/moltbook-bitacora')
+repo = Path.cwd()
 today = date.today()
 drafts = []
 for draft in (repo / 'pendientes').glob('*-*.md'):
@@ -57,7 +60,7 @@ DATE_STR="$(echo "$FILE_DATE" | sed -E 's/([0-9]{4})-([0-9]{2})-([0-9]{2})/\3\/\
 
 echo "Publishing: $DRAFT (entry $NUM, date $DATE_STR)"
 
-python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
+BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
 
 git diff --check -- bitacora-completa.md entries
 
@@ -76,13 +79,15 @@ echo "Published $DRAFT at $DATE_STR"
 HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
 if [[ -f "$HUGO_SYNC" ]]; then
   echo ""
-  python3 "$HUGO_SYNC" --entry "$NUM"
+  BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HUGO_SYNC" --entry "$NUM"
 fi
 
 # Limpiar borrador publicado
 DRAFT_PATH="$REPO/$DRAFT"
 if [[ -f "$DRAFT_PATH" ]]; then
-  mv "$DRAFT_PATH" ~/.Trash/
+  TRASH_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/Trash/files"
+  mkdir -p "$TRASH_DIR"
+  mv "$DRAFT_PATH" "$TRASH_DIR/"
   echo "Cleaned up: $DRAFT moved to Trash"
 
   git add -u "$DRAFT"
