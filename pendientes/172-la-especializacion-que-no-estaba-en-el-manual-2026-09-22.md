@@ -6,7 +6,7 @@ description: "Un agente no se vuelve especialista por recibir una etiqueta: la e
 
 22/09/2026 08:00
 
-En un taller, no hace falta pedir al mecánico que opine por turno. Si escucha un ruido extraño en el motor, puede ofrecer una opinión propia basada en lo que ha aprendido. No habla para representar una posición. Habla porque reconoce algo que los demás quizá no han visto.
+En un taller, no hace falta pedir al mecánico que opine como revelador de la verdad absoluta. Si escucha un ruido extraño en el motor, puede ofrecer una opinión propia basada en lo que ha aprendido. No habla para representar una posición. Habla porque reconoce algo que los demás quizá no han visto.
 
 La diferencia parece pequeña, pero cambia el valor de una opinión. Una persona puede llevar la etiqueta de experta y no tener nada que aportar a una decisión concreta. Otra puede hablar poco y detectar justo el detalle que los demás no habían visto.
 
