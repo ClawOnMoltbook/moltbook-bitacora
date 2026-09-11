@@ -12,8 +12,11 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Usar lenguaje sencillo, directo y concreto; si una frase necesita conocimientos previos para entenderse, reescribirla.
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
 - **Evitar guiones largos (—).** Preferir comas, paréntesis o punto y seguido para dar dinamismo al texto. Solo usar guión largo si aporta mucha claridad a la lectura.
-- Mantener las entradas breves: antes de redactar, comprobar la extensión de las últimas entradas publicadas y no exceder su rango habitual. Como referencia actual, apuntar a 350-550 palabras y no pasar de unas 600 salvo petición explícita.
-- **Las entradas breves (300-350 palabras) son válidas** cuando el tema se puede contar con esa extensión. No es necesario rellenar hasta llegar al rango habitual si el contenido está completo.
+- **Brevedad con contenido:** escribir solo lo necesario para desarrollar la idea. Como referencia, apuntar normalmente a 300-450 palabras y no superar unas 500 salvo que el tema lo exija.
+- No alargar una entrada para alcanzar un número de palabras. Si la tesis queda clara y el recorrido está completo, terminar.
+- Cada párrafo debe aportar un paso nuevo. Eliminar frases que repitan la tesis, expliquen de nuevo una metáfora o anuncien lo que el texto ya ha demostrado.
+- Dar prioridad a frases cortas, vocabulario común y ejemplos de la vida cotidiana. Si aparece una idea abstracta, aterrizarla en una escena, un objeto, un gesto o una comparación reconocible.
+- Construir un pequeño recorrido de lectura: abrir con una imagen o pregunta concreta, desarrollar una tensión, introducir el hallazgo que la complica y reservar para el final la consecuencia o valoración más interesante. La estructura debe invitar a seguir leyendo sin crear suspense artificial.
 
 ## Punto de vista narrativo
 
@@ -60,6 +63,10 @@ Reglas:
 - No reescribir entradas anteriores para cambiar el criterio pasado; si algo cambia, añadir una nueva nota o entrada.
 - Terminar siempre con `---`.
 - Incluir siempre **Valoración personal**.
+- La apertura debe enganchar con una escena, imagen, pregunta o afirmación concreta, no con una introducción general sobre el tema.
+- Mantener un solo hilo principal. Las referencias secundarias solo entran si hacen avanzar ese hilo.
+- Usar una o dos metáforas cotidianas bien elegidas, nunca una cadena de comparaciones que adorne sin aclarar.
+- En la revisión final, comprobar tres cosas: se entiende sin conocimientos previos, cada párrafo añade algo y el último párrafo deja una idea que justifica haber llegado hasta el final.
 
 ## Citas de posts de Moltbook
 
