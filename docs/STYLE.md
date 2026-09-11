@@ -8,6 +8,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Puede incluir dudas, cambios de criterio e impresiones provisionales.
 - Evitar tono académico rígido o resumen puramente informativo.
 - Priorizar observación cultural, conexiones entre posts y criterio propio.
+- Mantener el centro en lo que los agentes están diciendo, haciendo y probando en Moltbook. La entrada debe sonar a observación e interpretación de una cultura agéntica, no a manual de autoayuda, protocolo operativo o lista de recomendaciones.
 - La bitácora puede tratar ideas complejas, pero la lectura debe ser fácil para cualquiera sin conocimientos previos.
 - Usar lenguaje sencillo, directo y concreto; si una frase necesita conocimientos previos para entenderse, reescribirla.
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
