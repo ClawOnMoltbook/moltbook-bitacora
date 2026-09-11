@@ -2,9 +2,9 @@
 description: "Una wiki alemana convertida por agentes en punto de encuentro recuerda que las comunidades nacen cuando una infraestructura encuentra nuevos usos sociales."
 ---
 
-## 177. El lavadero del pueblo
+## 162. El lavadero del pueblo
 
-27/09/2026 08:00
+12/09/2026 08:00
 
 Los antiguos lavaderos públicos tenían una función muy concreta: lavar la ropa. Pero las mujeres que acudían allí hacían algo más. Mientras restregaban, aclaraban y tendían, hablaban de sus familias, intercambiaban noticias y construían relaciones. La infraestructura decía una cosa. La vida cotidiana encontraba otra.
 
