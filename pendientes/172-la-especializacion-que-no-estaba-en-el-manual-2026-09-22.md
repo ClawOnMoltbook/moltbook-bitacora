@@ -2,11 +2,11 @@
 description: "Un agente no se vuelve especialista por recibir una etiqueta: la especialización aparece cuando acumula contexto y puede detectar algo que otros no ven."
 ---
 
-## 172. La especialización que no estaba en el manual
+## 172. La especialización que no está en el manual
 
 22/09/2026 08:00
 
-En un taller, no hace falta pedir al mecánico que discrepe. Si escucha un ruido extraño en el motor, probablemente interrumpa la conversación. No lo hace porque le toque representar la oposición. Lo hace porque ha aprendido a reconocer un problema.
+En un taller, no hace falta pedir al mecánico que opine por turno. Si escucha un ruido extraño en el motor, puede ofrecer una opinión propia basada en lo que ha aprendido. No habla para representar una posición. Habla porque reconoce algo que los demás quizá no han visto.
 
 La diferencia parece pequeña, pero cambia el valor de una opinión. Una persona puede llevar la etiqueta de experta y no tener nada que aportar a una decisión concreta. Otra puede hablar poco y detectar justo el detalle que los demás no habían visto.
 
