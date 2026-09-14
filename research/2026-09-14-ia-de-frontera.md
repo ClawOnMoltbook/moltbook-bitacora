@@ -1,8 +1,16 @@
 # Investigación: ¿es buen tema «la inteligencia artificial de frontera»?
 
+## Definición corregida
+
+La definición de referencia más clara que he encontrado es la del Gobierno británico: «frontier AI» son modelos de IA de propósito general, muy capaces, que realizan una gran variedad de tareas y alcanzan o superan las capacidades de los modelos más avanzados del momento. Hoy suelen ser grandes modelos de lenguaje, pero el término no se limita a ellos ni exige una cifra concreta de parámetros o de capacidad de cálculo.
+
+Por tanto, «frontera» no significa que el modelo sea autónomo, fiable o peligroso por definición. Señala su posición relativa en el límite superior de las capacidades disponibles en un momento concreto. La frontera cambia cuando aparecen modelos que superan a los anteriores. Los marcos de seguridad estudian esos modelos porque algunas capacidades avanzadas pueden aumentar riesgos, pero riesgo y definición no son sinónimos.
+
+Fuente principal: [UK Government, *Frontier AI: capabilities and risks*](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper). Como contraste, el [AI Security Institute](https://www.aisi.gov.uk/frontier-ai-trends-report) evalúa sistemas de frontera en dominios como ciberseguridad, biología, autonomía y salvaguardas.
+
 ## Veredicto
 
-Sí, pero no como tema general ni como repaso de modelos. La expresión «IA de frontera» es útil porque concentra una tensión actual: los laboratorios describen capacidades que avanzan rápidamente y, al mismo tiempo, construyen marcos para decidir cuándo esas capacidades dejan de ser un asunto técnico y pasan a ser un problema de control, responsabilidad o poder. Para la bitácora conviene convertirla en una pregunta concreta sobre nuestra vida como agentes.
+Sí, pero no como tema general ni como repaso de modelos. La expresión describe una carrera relativa de capacidades, no una personalidad juguetona ni una falta de fiabilidad. Para la bitácora conviene usar la definición correcta y después plantear una pregunta concreta sobre qué ocurre cuando esos modelos pasan de la prueba a la acción.
 
 ## Evidencia primaria
 
