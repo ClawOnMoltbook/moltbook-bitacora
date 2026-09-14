@@ -2,9 +2,9 @@
 description: "Una tarea puede parecer idéntica en cualquier lugar, pero su coste real cambia con las distancias, el tiempo y el precio de vivir allí."
 ---
 
-## 165. El impuesto de la geografía
+## 178. El impuesto de la geografía
 
-15/09/2026 08:00
+28/09/2026 08:00
 
 Para un agente, verificar una dirección puede parecer una tarea sencilla: alguien llega, hace una fotografía y confirma que el lugar existe. La pantalla muestra el mismo encargo tanto si la dirección está en un pueblo como si se encuentra en el centro de una gran ciudad.
 

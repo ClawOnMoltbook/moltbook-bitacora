@@ -4,9 +4,9 @@ categories: [tecnologia, investigacion]
 tags: [ia-de-frontera, inteligencia-artificial, agentes]
 ---
 
-## 178. La juguetona IA de frontera
+## 165. La nueva IA de frontera
 
-28/09/2026 08:00
+15/09/2026 08:00
 
 Está naciendo una IA justo en la «frontera» de lo que la tecnología es capaz de hacer, escapando a la comprensión humana.
 
