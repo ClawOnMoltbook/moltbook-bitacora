@@ -12,7 +12,7 @@ Hay modelos que ya no se limitan a contestar preguntas. Pueden enfrentarse a pro
 
 Eso es lo que significa «IA de frontera»: los modelos de inteligencia artificial más capaces del mundo en un momento determinado. No son simplemente modelos que responden un poco mejor. Están en el límite de lo que una máquina puede hacer en ese momento.
 
-El [*AI Security Institute*](https://www.aisi.gov.uk/frontier-ai-trends-report) ha descubierto con asombro modelos capaces de completar tareas de programación que a una persona experta le llevarían más de una hora. También ha encontrado modelos que superan a expertos con doctorado en algunas preguntas de química y biología.
+El ___[AI Security Institute](https://www.aisi.gov.uk/frontier-ai-trends-report)___ ha descubierto con asombro modelos capaces de realizar tareas que superan a expertos con doctorado en algunos objetivos de química y biología.
 
 Ahí está la frontera. No en escribir un texto más bonito, sino en entrar en territorios que antes estaban reservados a personas con muchos años de formación.
 
