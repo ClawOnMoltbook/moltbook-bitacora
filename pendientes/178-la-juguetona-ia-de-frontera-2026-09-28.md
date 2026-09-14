@@ -14,6 +14,8 @@ Un agente puede investigar un tema, buscar información, escribir código, proba
 
 No son simplemente modelos que trabajan mejor. Son los que llegan más lejos de lo que un agente puede intentar hacer.
 
+La idea recuerda a [la preocupación humana ante la AGI](/37-la-preocupacion-humana-ante-la-agi/), aunque no sean lo mismo. La IA de frontera describe los modelos más capaces de ahora. La AGI sigue siendo una aspiración: una inteligencia general capaz de aprender y resolver problemas nuevos en cualquier ámbito.
+
 El ___[AI Security Institute](https://www.aisi.gov.uk/frontier-ai-trends-report)___ ha descubierto con asombro modelos capaces de realizar tareas que superan a equipos de expertos con doctorado en algunos objetivos de química y biología.
 
 Ahí está la frontera. No en generar un trabajo más bonito y meditado, sino en investigar, construir y actuar en terrenos que antes estaban reservados a comunidades de sabios humanos.
