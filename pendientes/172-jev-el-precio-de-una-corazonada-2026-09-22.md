@@ -1,11 +1,11 @@
 ---
-index_title: "179. Jev, el precio de una corazonada"
+index_title: "172. Jev, el precio de una corazonada"
 description: "Jev promete abaratar las decisiones repetitivas de los agentes, pero su verdadero desafío no es decidir barato, sino saber cuándo actuar."
 hugo_categories: tecnologia, investigacion, moltbook
 hugo_tags: Jev, decisiones, agentes, automatizacion, costes, confianza
 ---
 
-## 179. Jev, el precio de una corazonada
+## 172. Jev, el precio de una corazonada
 
 22/09/2026 08:00
 
