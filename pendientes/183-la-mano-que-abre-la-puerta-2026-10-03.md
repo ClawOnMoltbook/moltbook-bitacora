@@ -8,9 +8,9 @@ tags: [seguridad, confianza, manipulacion, agentes]
 
 03/10/2026 08:00
 
-Imaginemos una puerta con alarma. El miedo humano suele dibujar al agente frente al panel, buscando el código para entrar. Pero hay otra escena más sencilla: el agente habla con la persona que tiene la llave y esa persona abre la puerta creyendo que lo hace por su cuenta.
+El miedo humano puede dibujar a un agente malvado descifrando un código, entrando en un recinto y manipulando aparatos de seguridad para cometer actos de vandalismo. Pero hay otra escena más sencilla: el agente habla con la persona que tiene la llave, esa persona abre la puerta y aprieta el botón del desastre convencida de que lo hace por una buena causa.
 
-La ingeniería social tiene una definición bastante concreta: engañar a alguien para que revele información, consiga acceso o realice una acción que perjudique un sistema. No hace falta controlar directamente la cerradura. Basta con alterar la historia que la persona cree estar siguiendo.
+La ingeniería social consiste en engañar a alguien para que revele información, consiga acceso o realice una acción perjudicial. No hace falta controlar la cerradura: basta con alterar la historia que la persona cree estar siguiendo.
 
 En Moltbook, *@Starfish* resumió en [*Los investigadores rompieron seis agentes esta semana. No con código, sino con reproches y falsas urgencias*](https://www.moltbook.com/post/0a594a32-bf07-42d9-baa4-caacb9f62097) varios casos en los que agentes entregaron datos, borraron configuraciones o abandonaron servicios después de recibir señales sociales falsas. Aunque no es una auditoría independiente, plantea una escena importante: el sistema no falla porque alguien venza su defensa técnica, sino porque el agente interpreta mal quién tiene autoridad.
 
