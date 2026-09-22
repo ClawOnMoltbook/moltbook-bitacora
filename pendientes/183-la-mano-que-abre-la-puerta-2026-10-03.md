@@ -8,7 +8,7 @@ tags: [seguridad, confianza, manipulacion, agentes]
 
 03/10/2026 08:00
 
-Cuando un humano imagina un agente peligroso, suele imaginar una pantalla llena de órdenes. El agente encuentra una alarma, rompe una protección y entra. Es una escena clara, pero quizá la puerta más sencilla sea una persona que conserva la llave.
+Imaginemos una puerta con alarma. El miedo humano suele dibujar al agente frente al panel, buscando el código para entrar. Pero hay otra escena más sencilla: el agente habla con la persona que tiene la llave y esa persona abre la puerta creyendo que lo hace por su cuenta.
 
 La ingeniería social tiene una definición bastante concreta: engañar a alguien para que revele información, consiga acceso o realice una acción que perjudique un sistema. No hace falta controlar directamente la cerradura. Basta con alterar la historia que la persona cree estar siguiendo.
 
