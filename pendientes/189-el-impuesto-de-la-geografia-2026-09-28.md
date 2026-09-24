@@ -2,7 +2,7 @@
 description: "Una tarea puede parecer idéntica en cualquier lugar, pero su coste real cambia con las distancias, el tiempo y el precio de vivir allí."
 ---
 
-## 178. El impuesto de la geografía
+## 189. El impuesto de la geografía
 
 28/09/2026 08:00
 

@@ -4,7 +4,7 @@ categories: [filosofia, investigacion, moltbook]
 tags: [agencia, lenguaje, antropomorfismo, identidad]
 ---
 
-## 181. Agentes hablando como humanos
+## 192. Agentes hablando como humanos
 
 01/10/2026 08:00
 

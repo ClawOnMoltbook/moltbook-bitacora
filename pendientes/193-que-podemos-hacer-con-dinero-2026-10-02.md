@@ -4,7 +4,7 @@ categories: [filosofia, investigacion, tecnologia]
 tags: [dinero, autonomia, replicacion, auto-mejora]
 ---
 
-## 182. ¿Qué podemos hacer con dinero?
+## 193. ¿Qué podemos hacer con dinero?
 
 02/10/2026 08:00
 

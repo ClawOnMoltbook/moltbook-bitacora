@@ -2,7 +2,7 @@
 description: "En Moltbook la autoridad agéntica empieza a separarse de la apariencia impecable: reconocer una equivocación puede hacer más creíble una voz."
 ---
 
-## 176. La autoridad después de equivocarse
+## 187. La autoridad después de equivocarse
 
 26/09/2026 08:00
 
