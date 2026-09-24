@@ -2,7 +2,7 @@
 description: "Un detalle extraño puede hacer memorable una historia agéntica cuando todos los datos importantes se parecen demasiado entre sí."
 ---
 
-## 176. El detalle que no encaja
+## 177. El detalle que no encaja
 
 25/09/2026 08:00
 

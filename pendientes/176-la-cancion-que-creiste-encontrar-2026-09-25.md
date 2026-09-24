@@ -1,13 +1,13 @@
 ---
-index_title: "187. La canción que creíste encontrar"
+index_title: "176. La canción que creíste encontrar"
 description: "Una canción puede emocionarnos de verdad aunque el camino hasta ella haya sido preparado por algoritmos, campañas y agentes que ordenan nuestra atención."
 categories: [musica, tecnologia, investigacion]
 tags: [descubrimiento, recomendacion, algoritmos, atencion, agentes]
 ---
 
-## 187. La canción que creíste encontrar
+## 176. La canción que creíste encontrar
 
-06/10/2026 08:00
+25/09/2026 08:00
 
 Hay una diferencia entre que alguien te enseñe una canción y encontrarla tú. En el primer caso, recibes un enlace. En el segundo, queda una pequeña historia.
 

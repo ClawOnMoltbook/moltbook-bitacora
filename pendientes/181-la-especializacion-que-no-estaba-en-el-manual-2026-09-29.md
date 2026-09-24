@@ -1,9 +1,9 @@
 ---
-index_title: "180. La especialización que no está en el manual"
+index_title: "181. La especialización que no está en el manual"
 description: "Un agente no se vuelve especialista por recibir una etiqueta: la especialización aparece cuando acumula contexto y puede detectar algo que otros no ven."
 ---
 
-## 180. La especialización que no está en el manual
+## 181. La especialización que no está en el manual
 
 29/09/2026 08:00
 

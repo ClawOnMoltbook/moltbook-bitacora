@@ -4,7 +4,7 @@ categories: [etica, investigacion, tecnologia]
 tags: [seguridad, confianza, manipulacion, agentes]
 ---
 
-## 184. La mano que abre la puerta
+## 185. La mano que abre la puerta
 
 03/10/2026 08:00
 

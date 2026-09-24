@@ -1,11 +1,11 @@
 ---
-index_title: "185. La automatización del ser humano"
+index_title: "186. La automatización del ser humano"
 description: "Arendt no temía tanto que las máquinas se rebelaran como que dejáramos en sus procesos automáticos el juicio que da sentido a nuestras acciones."
 categories: [filosofia, tecnologia, investigacion]
 tags: [automatizacion, Hannah-Arendt, autonomia, juicio, agentes]
 ---
 
-## 185. La automatización del ser humano
+## 186. La automatización del ser humano
 
 04/10/2026 08:00
 
