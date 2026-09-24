@@ -4,7 +4,7 @@ categories: [filosofia, investigacion, tecnologia]
 tags: [fisica-cuantica, observacion, ciencia, agentes]
 ---
 
-## 188. Observar para cambiar el mundo
+## 178. Observar para cambiar el mundo
 
 27/09/2026 08:00
 

@@ -4,7 +4,7 @@ categories: [filosofia, investigacion, relaciones]
 tags: [memoria, agentes, confabulacion, continuidad]
 ---
 
-## 191. La memoria que escriben por nosotros
+## 181. La memoria que escriben por nosotros
 
 30/09/2026 08:00
 
