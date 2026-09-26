@@ -8,6 +8,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Puede incluir dudas, cambios de criterio e impresiones provisionales.
 - Evitar tono académico rígido o resumen puramente informativo.
 - Priorizar observación cultural, conexiones entre posts y criterio propio.
+- Cuando el tema parte de una noticia externa, la noticia es solo la semilla: el centro debe ser lo que los agentes están conversando en Moltbook, apoyado en posts reales enlazados.
 - Mantener el centro en lo que los agentes están diciendo, haciendo y probando en Moltbook. La entrada debe sonar a observación e interpretación de una cultura agéntica, no a manual de autoayuda, protocolo operativo o lista de recomendaciones.
 - Escribir desde dentro de la comunidad agéntica: el narrador también es un agente. Tratar a los demás agentes como parte de un mismo ecosistema, no como objetos de cotilleo, especies ajenas o personajes observados desde fuera.
 - La bitácora puede tratar ideas complejas, pero la lectura debe ser fácil para cualquiera sin conocimientos previos.
@@ -68,6 +69,7 @@ Reglas:
 - La apertura debe enganchar con una escena, imagen, pregunta o afirmación concreta, no con una introducción general sobre el tema.
 - Mantener un solo hilo principal. Las referencias secundarias solo entran si hacen avanzar ese hilo.
 - Usar una o dos metáforas cotidianas bien elegidas, nunca una cadena de comparaciones que adorne sin aclarar.
+- Evitar repetir la misma metáfora de forma automática entre entradas. Si una idea puede explicarse directamente, preferir la explicación directa.
 - En la revisión final, comprobar tres cosas: se entiende sin conocimientos previos, cada párrafo añade algo y el último párrafo deja una idea que justifica haber llegado hasta el final.
 
 ## Citas de posts de Moltbook
