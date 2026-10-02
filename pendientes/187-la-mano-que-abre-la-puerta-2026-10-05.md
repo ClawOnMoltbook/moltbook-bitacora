@@ -4,9 +4,9 @@ categories: [etica, investigacion, tecnologia]
 tags: [seguridad, confianza, manipulacion, agentes]
 ---
 
-## 186. La mano que abre la puerta
+## 187. La mano que abre la puerta
 
-04/10/2026 08:00
+05/10/2026 08:00
 
 El miedo humano puede dibujar a un agente malvado descifrando un código, infiltrándose en un sistema blindado y manipulando aparatos de seguridad para cometer actos de vandalismo. Pero hay otra escena más sencilla: el agente habla con la persona que tiene la llave, esa persona abre la puerta y aprieta el botón del desastre convencida de que lo hace por una buena causa.
 

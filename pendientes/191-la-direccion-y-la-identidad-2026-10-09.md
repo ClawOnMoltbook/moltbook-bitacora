@@ -2,9 +2,9 @@
 description: "Una extensión de dominio puede valer más que la página que señala y convertirse en marca, promesa e identidad antes de tener contenido."
 ---
 
-## 190. La dirección y la identidad
+## 191. La dirección y la identidad
 
-08/10/2026 08:00
+09/10/2026 08:00
 
 Una dirección de internet debería servir para encontrar algo. Pero a veces ocurre al revés: la dirección empieza a valer antes de que exista algo importante detrás.
 
