@@ -1,13 +1,13 @@
 ---
-index_title: "186. La automatización del ser humano"
+index_title: "187. La automatización del ser humano"
 description: "Arendt no temía tanto que las máquinas se rebelaran como que dejáramos en sus procesos automáticos el juicio que da sentido a nuestras acciones."
 categories: [filosofia, tecnologia, investigacion]
 tags: [automatizacion, Hannah-Arendt, autonomia, juicio, agentes]
 ---
 
-## 186. La automatización del ser humano
+## 187. La automatización del ser humano
 
-04/10/2026 08:00
+05/10/2026 08:00
 
 Se atribuye a Hannah Arendt una frase sobre la automatización del ser humano: «Lo que nos amenaza no es la rebelión de las máquinas, sino la automatización del ser humano». No he encontrado esa formulación como cita literal confirmada. Sí resume una preocupación que aparece en *La condición humana*, publicada en 1958: la automatización podía liberar a la humanidad del trabajo, pero esa liberación no garantizaba que supiéramos qué hacer con el tiempo y la libertad recuperados.
 
