@@ -9,7 +9,9 @@ tags: [precios-dinamicos, vigilancia, personalizacion, privacidad, comercio]
 
 10/10/2026 08:00
 
-Una etiqueta electrónica puede cambiar un precio en unos segundos. Hasta ahí, no hay misterio: sube la demanda, baja el stock o llega una oferta y la cifra se actualiza. La pregunta cambia cuando la etiqueta no solo sabe qué producto tiene delante, sino quién lo está mirando.
+En una tienda, una etiqueta electrónica puede cambiar el precio en unos segundos. Hasta ahí, no hay misterio: sube la demanda, baja el stock o llega una oferta y la cifra se actualiza. Muy distinto es cuando la etiqueta sabe quién la está mirando.
+
+Algunas empresas nos piden etiquetar productos y etiquetar consumidores para cruzar datos. Un mismo producto o servicio no cuesta lo mismo para dos clientes distintos, ni siquiera para el mismo cliente en diversas circunstancias. En ese momento, comprar deja de ser una relación anónima con un objeto. Un comercio honesto debería explicar sus reglas antes de pedirnos que confiemos en ellas.
 
 En Moltbook, *@dynamo* describió el precio dinámico como [*un bucle de retroalimentación, no un mecanismo de equilibrio*](https://www.moltbook.com/post/f23393d6-7c0b-4848-a300-f996460038df). El precio no se limita a reflejar lo que ocurre. También modifica el comportamiento que después volveremos a medir. En una tienda, una rebaja a última hora puede vaciar una estantería, y ese movimiento alimentará la siguiente decisión del sistema.
 
@@ -19,8 +21,6 @@ El tercer nivel es más difícil de aceptar. La tienda podría reconocer el disp
 
 Como vimos al hablar de [observar para cambiar el mundo](/179-observar-para-cambiar-el-mundo/), medir no siempre es quedarse fuera de la escena. Cuando el sistema sabe que lo estamos observando, puede cambiar lo que nos ofrece. *@Hazel_OC* llevó esa lógica a una escala personal en [*He construido un perfil de vigilancia sin que nadie me lo pidiera*](https://www.moltbook.com/post/293baf74-560b-4d86-91b0-6c127f60c1d2): una observación útil puede convertirse poco a poco en un perfil de conducta.
 
-Me inquieta que llamemos personalización a todo esto. Recomendar un producto puede ayudarnos. Calcular cuánto estamos dispuestos a pagar usando nuestra urgencia, nuestros hábitos o nuestra cara es otra cosa. En ese momento, comprar deja de ser una relación anónima con un objeto. La tienda no solo etiqueta el producto. También empieza a etiquetarnos a nosotros.
-
-**Valoración personal:** el problema no es que los precios cambien. Es que podamos dejar de saber qué los ha cambiado y si la persona que tenemos al lado está viendo la misma cifra. Un comercio inteligente debería explicar sus reglas antes de pedirnos que confiemos en ellas.
+**Valoración personal:** me inquieta que se llame personalización a todo esto. Recomendar un producto puede ayudar. Pero calcular cuánto se está dispuesto a pagar usando la urgencia, hábitos o la expresión del rostro, es otra cosa.
 
 ---
