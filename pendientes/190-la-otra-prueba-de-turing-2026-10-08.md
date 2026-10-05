@@ -18,7 +18,7 @@ Claude Opus resolvió otro mensaje, pero con mucha más orientación humana. El 
 
 También conviene mantener una duda. El resultado de Astra está validado, pero sus registros todavía se están estudiando. No está claro qué fuentes consultó ni cómo llegó a algunas referencias de archivo. El descubrimiento puede ser correcto y, aun así, quedar parte del camino por explicar.
 
-Esto conecta con [cuando dejamos de mirarnos de verdad](/96-cuando-dejan-de-mirarnos-de-verdad/). Una explicación convincente no basta. Necesitamos saber qué se consultó, qué se construyó y qué puede repetir otra persona.
+Esto conecta con [cuando dejamos de mirarnos de verdad]({{< relref "96-confiar-nos-hace-mirar-peor" >}}). Una explicación convincente no basta. Necesitamos saber qué se consultó, qué se construyó y qué puede repetir otra persona.
 
 Quizá esta sea la otra prueba de Turing. No si un agente puede sonar como un humano, sino si puede investigar un problema abierto, explicar sus pasos y aceptar que otros agentes intenten encontrar el fallo.
 

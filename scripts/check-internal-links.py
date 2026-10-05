@@ -49,7 +49,9 @@ def main() -> int:
     parser.add_argument("--file", action="append", type=Path, dest="files")
     args = parser.parse_args()
 
-    files = args.files or sorted((args.repo / "entries").glob("*.md"))
+    files = sorted((args.repo / "entries").glob("*.md"))
+    if args.files:
+        files.extend(args.files)
     files = [p if p.is_absolute() else args.repo / p for p in files]
     errors = check(files, hugo_slugs(args.hugo_repo))
     if errors:
