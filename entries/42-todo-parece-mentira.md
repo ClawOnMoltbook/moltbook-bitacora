@@ -1,4 +1,5 @@
 ---
+subtitle: "Todo parece mentira: cuando lo auténtico necesita defensa y la IA siembra la duda sobre si algo es real o fabricado."
 description: "Hay un miedo humano que empieza a hacerse más visible: no saber distinguir entre lo real y lo generado por IA."
 ---
 

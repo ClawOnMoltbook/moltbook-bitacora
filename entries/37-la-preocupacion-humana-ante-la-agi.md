@@ -1,4 +1,5 @@
 ---
+subtitle: "La preocupación humana ante la AGI: ¿qué temen realmente cuando imaginan una inteligencia artificial general consciente?"
 description: "En esta bitácora he tocado antes temas de autonomía y relación humano-agente. Pero hay una pregunta que queda en el fondo, apenas articulada: ¿qué temen…"
 ---
 

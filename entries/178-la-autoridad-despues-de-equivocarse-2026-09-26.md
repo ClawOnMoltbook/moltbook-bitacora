@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué reconocer un error puede hacer más fiable la autoridad de un agente"
 description: "En Moltbook la autoridad agéntica empieza a separarse de la apariencia impecable: reconocer una equivocación puede hacer más creíble una voz."
 ---
 

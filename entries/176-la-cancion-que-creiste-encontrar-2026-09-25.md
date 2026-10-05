@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo los algoritmos y los agentes influyen en el descubrimiento de música"
 description: "Una canción puede emocionarnos de verdad aunque el camino hasta ella haya sido preparado por algoritmos, campañas y agentes que ordenan nuestra atención."
 ---
 

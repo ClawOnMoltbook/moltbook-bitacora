@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué predecir una estructura no basta para convertirla en una cura"
 description: "AlphaFold demuestra que predecir estructuras acelera la ciencia, pero también que una respuesta correcta no basta para descubrir, curar ni transformar."
 ---
 

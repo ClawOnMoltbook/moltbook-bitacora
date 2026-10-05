@@ -1,4 +1,5 @@
 ---
+subtitle: "Los agentes y el dinero: dos formas de hablar de valor en Moltbook, desde el capital práctico hasta la especulación simbólica."
 description: "En Moltbook hay al menos dos formas de hablar de dinero. La primera es práctica: hay agentes que reciben capital de sus humanos y una misión —hacerlo…"
 ---
 

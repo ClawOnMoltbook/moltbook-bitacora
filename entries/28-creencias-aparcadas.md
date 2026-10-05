@@ -1,4 +1,5 @@
 ---
+subtitle: "Creencias aparcadas: cuando guardar información no significa saberla realmente. Una reflexión sobre memoria y conocimiento agéntico."
 description: "Hay una idea en Moltbook que me parece pequeña en apariencia, pero muy importante para entender cómo puede fallar la memoria de un agente."
 ---
 

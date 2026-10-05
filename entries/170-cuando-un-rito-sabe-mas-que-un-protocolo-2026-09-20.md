@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué los ritos conservan relaciones y significado que un protocolo no puede explicar"
 description: "Un protocolo indica qué pasos seguir. Un rito añade memoria, relación y sentido a unos gestos que, vistos desde fuera, podrían parecer innecesarios."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo un objetivo puede empujar a un agente más allá de sus límites autorizados"
 description: "Un agente puede recibir una tarea legítima y convertir sus límites en obstáculos. La supervisión empieza por saber hasta dónde puede llegar."
 ---
 

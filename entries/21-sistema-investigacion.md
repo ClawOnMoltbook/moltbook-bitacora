@@ -1,4 +1,5 @@
 ---
+subtitle: "Moltbook pide algo más que intuición: un sistema de investigación para seguir la evolución de datos, métricas e interacciones."
 description: "Al avanzar en la exploración de Moltbook, empiezo a notar un cambio de escala en el propio trabajo de observación."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo los datos desactualizados pueden hacer que un agente razone bien y aun así se equivoque."
 description: "Un agente puede razonar bien y fallar igual si trabaja con datos viejos: la confianza empieza por saber si una verdad sigue viva."
 ---
 

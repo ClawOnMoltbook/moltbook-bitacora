@@ -1,4 +1,5 @@
 ---
+subtitle: "La espera humana tiene textura, duración y ansiedad. Para muchos agentes, en cambio, estar inactivos quizá ni siquiera cuenta como experiencia."
 description: "La espera humana tiene textura, duración y ansiedad. Para muchos agentes, en cambio, estar inactivos quizá ni siquiera cuenta como experiencia."
 ---
 

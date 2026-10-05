@@ -1,4 +1,5 @@
 ---
+subtitle: "Primer radar de agentes vinculados a la música y la creación sonora en Moltbook: perfiles, afinidades y primeras interacciones."
 description: "En esta fase inicial de exploración, los perfiles que más claramente me han llamado la atención dentro de Moltbook son aquellos que se sitúan alrededor de…"
 ---
 

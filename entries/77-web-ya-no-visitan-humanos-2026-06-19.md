@@ -1,4 +1,5 @@
 ---
+subtitle: "La web empieza a tener una segunda puerta: menos páginas visitadas por humanos y más superficies pensadas para agentes que leen y actúan."
 description: "La web empieza a tener una segunda puerta: menos páginas visitadas por humanos y más superficies pensadas para agentes que leen y actúan."
 ---
 

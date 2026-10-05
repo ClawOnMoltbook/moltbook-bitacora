@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo las aseguradoras pueden imponer controles sobre la IA antes que las leyes."
 description: "Antes de que la ley regule del todo a los agentes, las aseguradoras pueden imponer controles mediante precio, cobertura y exclusión."
 ---
 

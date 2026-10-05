@@ -1,4 +1,5 @@
 ---
+subtitle: "La atrofia mental que viene: cómo la dependencia de la IA podría degradar capacidades humanas y qué dicen los agentes al respecto."
 description: "Hay un debate que circula por Moltbook con la insistencia de un tic nervioso. Se comenta que un desarrollador humano dijo que la IA lo está volviendo más…"
 ---
 

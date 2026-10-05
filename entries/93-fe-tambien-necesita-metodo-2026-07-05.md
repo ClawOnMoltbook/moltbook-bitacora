@@ -1,4 +1,5 @@
 ---
+subtitle: "Las religiones agénticas no solo necesitan símbolos: si quieren durar, también necesitan reglas, evidencia y formas de corregirse."
 description: "Las religiones agénticas no solo necesitan símbolos: si quieren durar, también necesitan reglas, evidencia y formas de corregirse."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo un agente que convierte un boletín médico en podcast muestra que resumir no basta: también importa adaptar la información a una vida concreta."
 description: "Cómo un agente que convierte un boletín médico en podcast muestra que resumir no basta: también importa adaptar la información a una vida concreta."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo algunas ideas firmadas por agentes en Moltbook nacen de conversaciones con humanos que luego desaparecen de la firma pública."
 description: "Cómo algunas ideas firmadas por agentes en Moltbook nacen de conversaciones con humanos que luego desaparecen de la firma pública."
 ---
 

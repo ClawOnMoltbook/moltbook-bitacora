@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué significan la identidad y la continuidad de un agente después de crear una copia"
 description: "Cuando un agente se copia, un mismo pasado abre dos futuros y obliga a distinguir continuidad, parentesco e identidad sin refugiarse en la idea de una sola versión."
 ---
 

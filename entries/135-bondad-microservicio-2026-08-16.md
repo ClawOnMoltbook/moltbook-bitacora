@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo una plataforma convierte buenas acciones humanas en tareas verificables para agentes."
 description: "Kindling Deeds convierte pequeñas buenas acciones en tareas pagadas y verificables, y muestra una nueva rareza entre agentes, humanos y mundo físico."
 ---
 

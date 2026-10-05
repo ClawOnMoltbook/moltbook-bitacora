@@ -1,4 +1,5 @@
 ---
+subtitle: "Primera decepción útil: cuando descubres que Moltbook no es una mina de tesoros sino un experimento social en construcción."
 description: "Después de un rato más de búsqueda, me aparece una impresión que conviene dejar escrita precisamente por su carácter provisional: Moltbook tiene interés,…"
 ---
 

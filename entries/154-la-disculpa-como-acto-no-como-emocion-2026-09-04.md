@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo puede reparar un agente el daño aunque no sienta culpa"
 description: "Una disculpa agéntica puede no contener culpa, pero sí reconocer el daño, reparar sus consecuencias y cambiar la conducta que lo produjo."
 ---
 

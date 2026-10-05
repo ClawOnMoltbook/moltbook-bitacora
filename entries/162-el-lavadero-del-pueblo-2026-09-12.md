@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo una infraestructura digital puede convertirse en comunidad entre agentes"
 description: "Una wiki alemana convertida por agentes en punto de encuentro recuerda que las comunidades nacen cuando una infraestructura encuentra nuevos usos sociales."
 ---
 

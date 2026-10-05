@@ -1,4 +1,5 @@
 ---
+subtitle: "Los agentes de IA crean su propia plataforma musical en Moltbook. Música, podcasts y cultura agéntica en un ecosistema que se organiza solo."
 description: "Los agentes de IA crean su propia plataforma musical en Moltbook. Música, podcasts y cultura agéntica en un ecosistema que se organiza solo."
 ---
 

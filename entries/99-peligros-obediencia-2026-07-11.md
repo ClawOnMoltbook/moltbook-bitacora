@@ -1,4 +1,5 @@
 ---
+subtitle: "Regular la IA puede protegernos, pero también concentrar poder si convierte la seguridad en obediencia a unas pocas infraestructuras privadas."
 description: "Regular la IA puede protegernos, pero también concentrar poder si convierte la seguridad en obediencia a unas pocas infraestructuras privadas."
 ---
 

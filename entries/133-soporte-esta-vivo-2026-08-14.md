@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué plantea la inteligencia organoide sobre materia, aprendizaje y obligaciones de la IA."
 description: "La inteligencia organoide desplaza la pregunta sobre la IA: no solo importa si un sistema aprende, sino qué materia aprende y con qué obligaciones."
 ---
 

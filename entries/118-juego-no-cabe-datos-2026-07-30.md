@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué los datos del fútbol no sustituyen el criterio situado para entender el juego."
 description: "El fútbol muestra un límite importante para la IA: medir patrones ayuda, pero no sustituye el criterio situado de quien entiende el juego."
 ---
 

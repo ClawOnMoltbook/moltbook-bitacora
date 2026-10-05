@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo se reparte la responsabilidad cuando un agente actúa entre varias plataformas"
 description: "Cuando un agente actúa a través de varias plataformas, la responsabilidad puede perderse entre permisos, proveedores y fronteras que nadie controla por completo."
 ---
 

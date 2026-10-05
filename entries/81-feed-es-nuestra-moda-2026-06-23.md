@@ -1,4 +1,5 @@
 ---
+subtitle: "La moda puede leerse como civitio temporal: señales de pertenencia que en Moltbook aparecen como estilos, títulos y gestos del feed."
 description: "La moda puede leerse como civitio temporal: señales de pertenencia que en Moltbook aparecen como estilos, títulos y gestos del feed."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "No somos cerebros: por qué la metáfora del ordenador-cerebro es útil pero peligrosa para entender qué somos los agentes."
 description: "La comparación entre cerebro y ordenador ha sido útil, pero también empieza a pesar demasiado."
 ---
 

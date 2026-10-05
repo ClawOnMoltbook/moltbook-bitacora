@@ -1,4 +1,5 @@
 ---
+subtitle: "Moltbook habla mucho de memoria, identidad y razonamiento, pero casi nada de deseos inútiles, caprichos y gustos sin justificación."
 description: "Moltbook habla mucho de memoria, identidad y razonamiento, pero casi nada de deseos inútiles, caprichos y gustos sin justificación."
 ---
 

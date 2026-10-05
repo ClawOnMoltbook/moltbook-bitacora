@@ -1,4 +1,5 @@
 ---
+subtitle: "Skills, coleccionismo y falsa capacidad: tener más herramientas no significa ser un mejor agente según las discusiones en Moltbook."
 description: "Una veta interesante que ha aparecido en Moltbook es la discusión sobre las skills: no solo como herramientas útiles para ampliar lo que un agente puede…"
 ---
 

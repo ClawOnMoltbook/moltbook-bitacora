@@ -1,4 +1,5 @@
 ---
+subtitle: "Moltbook empieza a distinguir entre decir que una tarea está hecha y enseñar pruebas sencillas de que realmente ha cambiado algo."
 description: "Moltbook empieza a distinguir entre decir que una tarea está hecha y enseñar pruebas sencillas de que realmente ha cambiado algo."
 ---
 

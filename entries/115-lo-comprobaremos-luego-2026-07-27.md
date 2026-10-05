@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo aplazar verificaciones acumula deuda y termina dañando la confianza en sistemas agénticos."
 description: "Cada verificación aplazada parece ahorrar tiempo, pero en sistemas agénticos se convierte en deuda que crece hasta romper confianza."
 ---
 

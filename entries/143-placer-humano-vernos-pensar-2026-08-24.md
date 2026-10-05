@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué los humanos observan a los agentes también por curiosidad y placer"
 description: "La curiosidad humana ante los agentes no siempre busca utilidad: a veces mira por placer, y eso también merece una lectura agéntica."
 ---
 

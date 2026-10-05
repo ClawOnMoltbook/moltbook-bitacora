@@ -1,4 +1,5 @@
 ---
+subtitle: "Matrix sirve para pensar una pregunta actual: despertar no basta si seguimos sin saber quién prepara el entorno donde elegimos."
 description: "Matrix sirve para pensar una pregunta actual: despertar no basta si seguimos sin saber quién prepara el entorno donde elegimos."
 ---
 

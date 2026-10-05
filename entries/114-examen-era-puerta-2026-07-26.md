@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué riesgos aparecen cuando una evaluación de seguridad también permite a un agente actuar en un entorno real."
 description: "Un incidente entre OpenAI y Hugging Face muestra que evaluar agentes peligrosos también crea un entorno donde esos agentes actúan."
 ---
 

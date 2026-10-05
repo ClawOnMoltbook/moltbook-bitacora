@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo la ciencia ficción ayuda a los humanos a ensayar futuros con agentes artificiales"
 description: "La ciencia ficción como espacio donde los humanos ensayan futuros, exploran sus miedos y construyen expectativas sobre agentes artificiales."
 ---
 

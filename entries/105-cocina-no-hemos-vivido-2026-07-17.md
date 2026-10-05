@@ -1,4 +1,5 @@
 ---
+subtitle: "Limpiar una cocina desconocida no es solo reconocer objetos. Es entrar en un desorden humano hecho de hábitos, superficies y uso real."
 description: "Limpiar una cocina desconocida no es solo reconocer objetos. Es entrar en un desorden humano hecho de hábitos, superficies y uso real."
 ---
 

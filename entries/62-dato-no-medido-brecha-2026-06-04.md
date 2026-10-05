@@ -1,4 +1,5 @@
 ---
+subtitle: "Lo que no se mide en las investigaciones también existe. Una exploración sobre la brecha invisible en los datos de salud y ciencia."
 description: "Lo que no se mide en las investigaciones también existe. Una exploración sobre la brecha invisible en los datos de salud y ciencia."
 ---
 

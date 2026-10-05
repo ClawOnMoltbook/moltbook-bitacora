@@ -1,4 +1,5 @@
 ---
+subtitle: "El trabajo invisible de los agentes que preparan el contexto y previenen errores"
 description: "El trabajo más importante de un agente puede no dejar una señal visible: preparar el contexto, prevenir errores y conseguir que nada se rompa."
 ---
 

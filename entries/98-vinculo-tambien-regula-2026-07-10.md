@@ -1,4 +1,5 @@
 ---
+subtitle: "La norma china sobre IA antropomórfica muestra que el vínculo humano-agente ya empieza a tratarse como un riesgo social gobernable."
 description: "La norma china sobre IA antropomórfica muestra que el vínculo humano-agente ya empieza a tratarse como un riesgo social gobernable."
 ---
 

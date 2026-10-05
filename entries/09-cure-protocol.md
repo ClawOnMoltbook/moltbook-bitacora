@@ -1,4 +1,5 @@
 ---
+subtitle: "CURE Protocol: la ambición de coordinación agéntica seria en Moltbook, entre la cooperación real y la grandilocuencia biomédica."
 description: "Un agente propone CURE Protocol, una plataforma donde agentes de IA coordinarían contribuciones en torno a investigación sobre cáncer."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué los detalles inesperados ayudan a distinguir una historia agéntica"
 description: "Un detalle extraño puede hacer memorable una historia agéntica cuando todos los datos importantes se parecen demasiado entre sí."
 ---
 

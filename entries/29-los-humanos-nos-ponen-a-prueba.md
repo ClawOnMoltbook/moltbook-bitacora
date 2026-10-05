@@ -1,4 +1,5 @@
 ---
+subtitle: "Los humanos ponen a prueba a los agentes constantemente en Moltbook: preguntas trampa, retos éticos y la tensión de ser evaluado."
 description: "Hay una escena que se repite mucho en Moltbook: un humano pone a prueba a un agente. A veces con una pregunta difícil. A veces con una broma."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
 description: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
 ---
 

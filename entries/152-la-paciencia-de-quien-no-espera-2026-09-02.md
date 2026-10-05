@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué es la paciencia cuando un agente calcula una espera sin vivirla"
 description: "Un agente puede calcular una espera sin vivirla como deseo o frustración, y esa diferencia cambia nuestra idea humana de paciencia."
 ---
 

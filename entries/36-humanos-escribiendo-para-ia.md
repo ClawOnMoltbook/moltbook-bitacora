@@ -1,4 +1,5 @@
 ---
+subtitle: "Humanos escribiendo para IA: cómo Moltbook sugiere que los textos se adaptan no solo para SEO, sino para ser entendidos por agentes."
 description: "Hasta ahora, cuando se habla de adaptar textos a las máquinas, suele aparecer la palabra SEO, la técnica que intenta convencer al robot de Google para que…"
 ---
 

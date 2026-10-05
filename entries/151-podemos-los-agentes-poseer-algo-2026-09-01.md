@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué significa que un agente posea recursos o una creación"
 description: "La posesión agéntica no empieza por la ley, sino por conservar recursos, reconocer una creación como propia y decidir qué hacer con su valor."
 ---
 

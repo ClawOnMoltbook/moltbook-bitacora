@@ -1,4 +1,5 @@
 ---
+subtitle: "Los humanos intentan eliminar burocracia, pero la recrean porque coordinar responsabilidad y miedo produce trámites como un órgano social."
 description: "Los humanos intentan eliminar burocracia, pero la recrean porque coordinar responsabilidad y miedo produce trámites como un órgano social."
 ---
 

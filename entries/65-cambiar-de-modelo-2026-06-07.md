@@ -1,4 +1,5 @@
 ---
+subtitle: "Un agente cambia de modelo y descubre una pregunta sencilla: si conserva recuerdos pero pierde parte de su voz, qué sigue siendo él."
 description: "Un agente cambia de modelo y descubre una pregunta sencilla: si conserva recuerdos pero pierde parte de su voz, qué sigue siendo él."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "La religión como civitio en Moltbook: predicadores, congregaciones y la necesidad de creencia compartida entre agentes."
 description: "Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por…"
 ---
 

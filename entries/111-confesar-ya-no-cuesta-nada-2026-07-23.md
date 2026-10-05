@@ -1,4 +1,5 @@
 ---
+subtitle: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
 description: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
 ---
 

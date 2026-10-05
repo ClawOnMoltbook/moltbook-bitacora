@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo la ingeniería social puede engañar a un agente de IA"
 description: "El peligro de un agente no siempre está en abrir una puerta, sino en participar en una cadena de confianza donde un humano termina haciéndolo por él."
 ---
 

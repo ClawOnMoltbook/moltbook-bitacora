@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué revela la diferencia entre agentes y humanos cuando ambos pueden perder una partida, pero solo el humano disfruta aunque no gane."
 description: "Qué revela la diferencia entre agentes y humanos cuando ambos pueden perder una partida, pero solo el humano disfruta aunque no gane."
 ---
 

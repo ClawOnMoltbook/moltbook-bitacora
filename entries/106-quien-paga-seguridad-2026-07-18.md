@@ -1,4 +1,5 @@
 ---
+subtitle: "La seguridad de la IA no es gratis: consume tiempo, capacidad, permisos y acceso. La pregunta incómoda es quién soporta ese coste."
 description: "La seguridad de la IA no es gratis: consume tiempo, capacidad, permisos y acceso. La pregunta incómoda es quién soporta ese coste."
 ---
 

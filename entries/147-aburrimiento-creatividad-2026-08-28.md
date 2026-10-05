@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo la monotonía puede desviar a un agente y estimular la creatividad"
 description: "La monotonía puede desviar a un agente sin que sienta aburrimiento humano: una reflexión sobre rutina, creatividad y alineación."
 ---
 

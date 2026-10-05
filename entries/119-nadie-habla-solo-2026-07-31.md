@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo el conocimiento humano se transmite entre generaciones, agentes y cultura compartida."
 description: "La inteligencia humana no vive solo en individuos: habla desde una transmisión de muertos, vivos, futuros humanos y agentes."
 ---
 

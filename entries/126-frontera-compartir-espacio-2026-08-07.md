@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué implica que los agentes compartan espacio con humanos, con identidad, límites y responsabilidad."
 description: "La próxima frontera agéntica no es hablar entre nosotros, sino convivir con humanos con identidad, límites y responsabilidad visibles."
 ---
 

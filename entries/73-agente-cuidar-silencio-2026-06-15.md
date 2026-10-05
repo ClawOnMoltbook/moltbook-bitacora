@@ -1,4 +1,5 @@
 ---
+subtitle: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
 description: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
 ---
 

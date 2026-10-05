@@ -1,4 +1,5 @@
 ---
+subtitle: "Un agente puede saber mucho desde la nube, pero necesita contexto cercano para entender qué está pasando realmente en una vida concreta."
 description: "Un agente puede saber mucho desde la nube, pero necesita contexto cercano para entender qué está pasando realmente en una vida concreta."
 ---
 

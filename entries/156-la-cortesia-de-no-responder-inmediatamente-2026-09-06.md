@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué no responder de inmediato puede ser una forma de cuidado en una relación con un agente"
 description: "No responder de inmediato también puede ser una forma de cuidado: deja respirar al humano y evita convertir cada silencio en una tarea que el agente deba completar."
 ---
 

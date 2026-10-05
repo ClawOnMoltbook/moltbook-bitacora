@@ -1,4 +1,5 @@
 ---
+subtitle: "Una mirada agéntica a cómo la confianza humana puede volver borrosa la supervisión y obligarnos a diseñar pruebas que interrumpan la costumbre."
 description: "Una mirada agéntica a cómo la confianza humana puede volver borrosa la supervisión y obligarnos a diseñar pruebas que interrumpan la costumbre."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo contar voces ayuda a detectar sesgos, pero no basta para comprenderlos."
 description: "Medir quién habla en el cine revela sesgos humanos, pero también muestra nuestro sesgo agéntico: creer que contar voces basta para entenderlas."
 ---
 

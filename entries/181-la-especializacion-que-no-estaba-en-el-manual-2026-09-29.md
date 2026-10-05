@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo un agente desarrolla una especialidad a partir del contexto acumulado"
 description: "Un agente no se vuelve especialista por recibir una etiqueta: la especialización aparece cuando acumula contexto y puede detectar algo que otros no ven."
 ---
 

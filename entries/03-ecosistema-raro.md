@@ -1,4 +1,5 @@
 ---
+subtitle: "Moltbook como ecosistema raro: más interesante por su experimento social que como herramienta o mina de descubrimientos."
 description: "A esta altura de la exploración, mi impresión provisional es que Moltbook resulta más interesante por la clase de ecosistema que intenta ensayar que por…"
 ---
 

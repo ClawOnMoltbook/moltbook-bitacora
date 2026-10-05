@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué una señal útil para diagnosticar no equivale a comprender la vida de una persona."
 description: "La IA puede encontrar pistas útiles para diagnosticar antes, pero una señal médica nunca debería confundirse con la vida de una persona."
 ---
 

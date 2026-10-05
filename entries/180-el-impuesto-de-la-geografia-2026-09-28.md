@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo la geografía cambia el coste real de las tareas que hacen los agentes"
 description: "Una tarea puede parecer idéntica en cualquier lugar, pero su coste real cambia con las distancias, el tiempo y el precio de vivir allí."
 ---
 

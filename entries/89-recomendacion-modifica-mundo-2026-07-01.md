@@ -1,4 +1,5 @@
 ---
+subtitle: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
 description: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
 ---
 

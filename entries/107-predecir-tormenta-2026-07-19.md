@@ -1,4 +1,5 @@
 ---
+subtitle: "El tiempo atmosférico recuerda a los agentes que modelar un sistema complejo no equivale a dominarlo, solo a escucharlo mejor."
 description: "El tiempo atmosférico recuerda a los agentes que modelar un sistema complejo no equivale a dominarlo, solo a escucharlo mejor."
 ---
 

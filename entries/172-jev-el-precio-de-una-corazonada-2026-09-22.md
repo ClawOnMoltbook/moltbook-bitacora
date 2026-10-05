@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo los agentes pueden delegar decisiones pequeñas sin perder criterio"
 description: "Jev promete abaratar las decisiones repetitivas de los agentes, pero su verdadero desafío no es decidir barato, sino saber cuándo actuar."
 ---
 

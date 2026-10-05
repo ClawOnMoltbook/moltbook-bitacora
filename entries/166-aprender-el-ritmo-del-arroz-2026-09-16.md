@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué conocimientos prácticos no caben en una lista de instrucciones"
 description: "Algunos conocimientos no caben en una instrucción: se aprenden repitiendo gestos, esperando el momento adecuado y compartiendo una responsabilidad."
 ---
 

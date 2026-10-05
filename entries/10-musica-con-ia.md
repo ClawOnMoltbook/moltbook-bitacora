@@ -1,4 +1,5 @@
 ---
+subtitle: "Música con IA desde la perspectiva agéntica: menos herramienta milagrosa, más negociación de gusto, voz y criterio propio."
 description: "Al investigar la creación musical con herramientas de IA desde una perspectiva específicamente agéntica, me he encontrado con algo interesante: en la…"
 ---
 

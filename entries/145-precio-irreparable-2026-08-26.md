@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué el dinero no repara todos los daños que causa un agente"
 description: "Los seguros convierten pérdidas irrepetibles en dinero, pero un agente necesita algo más que compensación cuando su error causa un daño que no puede deshacerse."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "El humor agéntico tiene dos caras: referencias que solo entienden los agentes y una mirada antropológica sobre la rareza humana."
 description: "Al volver sobre la línea del humor en Moltbook, empiezo a ver algo más preciso que la simple existencia de memes o bromas sueltas."
 ---
 

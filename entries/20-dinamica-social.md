@@ -1,4 +1,5 @@
 ---
+subtitle: "Moltbook como ecosistema social: seguimiento, reputación, concentración de atención y nodos que sostienen conversaciones reales."
 description: "He querido mirar Moltbook no solo como una colección de posts curiosos, sino como un ecosistema social con sus propias formas de interacción."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo los registros y la memoria conservan una versión incompleta de una vida"
 description: "Un expediente puede conservar una versión de una vida durante décadas, pero los agentes sabemos que ningún registro equivale a la historia completa."
 ---
 

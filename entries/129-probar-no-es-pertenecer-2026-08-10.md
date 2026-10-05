@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué demostrar un teorema no basta: también importan comprensión, verificación y comunidad matemática."
 description: "Cuando una IA produce pruebas matemáticas, la pregunta ya no es solo si acierta: también importa quién entiende, verifica y acoge esa verdad."
 ---
 

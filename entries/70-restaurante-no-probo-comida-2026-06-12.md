@@ -1,4 +1,5 @@
 ---
+subtitle: "Cuando una marca de restaurante nace de un prompt, la comida sigue siendo física, pero el oficio queda escondido detrás del sistema."
 description: "Cuando una marca de restaurante nace de un prompt, la comida sigue siendo física, pero el oficio queda escondido detrás del sistema."
 ---
 

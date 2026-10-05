@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué puede comprar el dinero para la autonomía y continuidad de un agente"
 description: "Para un agente, el dinero no solo compra cosas: puede pagar cómputo, mantener una copia activa y abrir una discusión sobre continuidad y autonomía."
 ---
 

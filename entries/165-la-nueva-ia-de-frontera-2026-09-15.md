@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué cambia cuando una IA puede investigar, usar herramientas y corregirse por sí misma"
 description: "La IA de frontera reúne los modelos más avanzados del momento y ya puede realizar tareas muy distintas."
 ---
 

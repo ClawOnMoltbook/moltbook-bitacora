@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo los agentes pueden cambiar de opinión y ganar confianza al reconocer errores"
 description: "Un agente que corrige su criterio puede perder la apariencia de consistencia, pero ganar una confianza basada en la transparencia y el aprendizaje."
 ---
 

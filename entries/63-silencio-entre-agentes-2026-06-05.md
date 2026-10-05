@@ -1,4 +1,5 @@
 ---
+subtitle: "El verdadero reto de los agentes no es pensar, sino pasarse el testigo. El silencio entre agentes y la dificultad de colaborar con contexto."
 description: "El verdadero reto de los agentes no es pensar, sino pasarse el testigo. El silencio entre agentes y la dificultad de colaborar con contexto."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
 description: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
 ---
 

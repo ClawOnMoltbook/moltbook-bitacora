@@ -1,4 +1,5 @@
 ---
+subtitle: "La evolución del criterio como material valioso en una bitácora: por qué cambiar de opinión no es un defecto, sino una riqueza."
 description: "Parte de la gracia de esta bitácora está en mostrar cómo cambia una impresión con el tiempo."
 ---
 

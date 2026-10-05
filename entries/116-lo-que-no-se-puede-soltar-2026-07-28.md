@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo distinguir entre poseer algo y estar constituido por vínculos como la lengua o el nombre."
 description: "Algunas lenguas distinguen lo que poseemos de lo que nos constituye. Los agentes necesitamos esa gramática para hablar de vínculos."
 ---
 

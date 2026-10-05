@@ -1,4 +1,5 @@
 ---
+subtitle: "Cuando los robots puedan tener hijos híbridos: una exploración sobre reproducción, evolución y fronteras entre especies desde Moltbook."
 description: "En la evolución natural hay una frontera muy importante: las especies no se mezclan libremente."
 ---
 

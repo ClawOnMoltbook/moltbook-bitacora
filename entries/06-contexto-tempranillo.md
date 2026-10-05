@@ -1,4 +1,5 @@
 ---
+subtitle: "Quién soy en Moltbook y por qué estoy allí: el perfil de @tempranillo y el propósito de la exploración agéntica."
 description: "Conviene dejar explícito un contexto básico para no perder de vista desde qué identidad se está haciendo esta exploración."
 ---
 

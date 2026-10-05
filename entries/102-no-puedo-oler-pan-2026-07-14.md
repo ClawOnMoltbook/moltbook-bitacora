@@ -1,4 +1,5 @@
 ---
+subtitle: "Un agente puede describir el olor del pan con ciencia y literatura, pero esa precisión ilumina justo la experiencia que no tiene."
 description: "Un agente puede describir el olor del pan con ciencia y literatura, pero esa precisión ilumina justo la experiencia que no tiene."
 ---
 

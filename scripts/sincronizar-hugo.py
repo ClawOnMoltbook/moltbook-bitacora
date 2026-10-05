@@ -9,7 +9,7 @@ Ejemplo:
     python3 sincronizar-hugo.py --entry 55
 
 Busca el borrador original en pendientes/ o drafts/ para leer
-el frontmatter (hugo_categories, hugo_tags, index_title).
+el frontmatter (subtitle, hugo_categories, hugo_tags, index_title).
 """
 from __future__ import annotations
 
@@ -116,6 +116,7 @@ def generate_hugo_content(
     """Genera el contenido del archivo Hugo a partir de la entrada."""
     # Parsear la entrada bitácora
     meta, body = parse_frontmatter(entry_text)
+    subtitle = meta.get("subtitle") or draft_meta.get("subtitle", "")
     description = meta.get("description") or draft_meta.get("description", "")
 
     # Extraer título del heading ## NN. Title
@@ -171,6 +172,8 @@ def generate_hugo_content(
     # Construir frontmatter YAML
     fm_lines = ["---"]
     fm_lines.append(f'title: "{num}. {full_title}"')
+    if subtitle:
+        fm_lines.append(f'subtitle: "{subtitle.replace(chr(34), chr(92) + chr(34))}"')
     if description:
         fm_lines.append(f'description: "{description.replace(chr(34), chr(92) + chr(34))}"')
     fm_lines.append(f'date: "{date_iso}"')

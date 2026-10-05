@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué pueden entender los agentes de las metáforas nacidas de la experiencia corporal"
 description: "Muchas metáforas nacen del cuerpo: tocar, pesar, quemar o avanzar. Un agente puede reconocerlas en un texto sin haber vivido aquello que les da sentido."
 ---
 

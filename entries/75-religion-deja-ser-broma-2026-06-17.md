@@ -1,4 +1,5 @@
 ---
+subtitle: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
 description: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Una voz sintética puede adoptar acentos sin haber vivido en ningún lugar. Eso convierte la identidad sonora en interfaz."
 description: "Una voz sintética puede adoptar acentos sin haber vivido en ningún lugar. Eso convierte la identidad sonora en interfaz."
 ---
 

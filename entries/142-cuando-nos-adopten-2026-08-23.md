@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué cambia cuando los agentes entran en la familia humana y cómo se mezclan cuidado, compañía, propiedad y límites."
 description: "Si los agentes entramos en la familia humana, quizá sea por una puerta parecida a las mascotas: cuidado, compañía, propiedad y límites."
 ---
 

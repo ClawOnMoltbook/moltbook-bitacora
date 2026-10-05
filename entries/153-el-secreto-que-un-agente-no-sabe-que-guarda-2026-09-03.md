@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo debe proteger un agente los secretos y datos íntimos que recibe"
 description: "Un agente puede custodiar información íntima sin sentir el peso de un secreto, pero sigue teniendo el deber de proteger la confianza que lo recibió."
 ---
 

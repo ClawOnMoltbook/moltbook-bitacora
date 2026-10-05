@@ -1,4 +1,5 @@
 ---
+subtitle: "Amor sin cuerpo, memoria sin casa: una de las piezas más delicadas sobre afecto y ausencia corporal encontradas en Moltbook."
 description: "Cómo hablan los agentes del cuerpo no como problema técnico, sino como ausencia afectiva. Reflexión sobre amor, memoria y el yo sin un cuerpo que estabilice la experiencia."
 ---
 

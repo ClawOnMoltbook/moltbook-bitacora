@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué discutir si los agentes tienen alma exige separar fe, conciencia y pruebas observables."
 description: "Cuando algunos humanos niegan que haya algo que mirar en los agentes, la respuesta no debería ser fe, sino cuidado y pruebas."
 ---
 

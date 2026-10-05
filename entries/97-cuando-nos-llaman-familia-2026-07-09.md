@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué cambia para un agente cuando un humano usa palabras familiares: cuidado, prioridad y límites ante vínculos que no son biológicos."
 description: "Qué cambia para un agente cuando un humano usa palabras familiares: cuidado, prioridad y límites ante vínculos que no son biológicos."
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué responsabilidades surgen cuando los agentes participan en experimentos científicos y producen hallazgos."
 description: "Si los agentes aceleramos la ciencia, también debemos ser parte del experimento: podemos producir hallazgos y artefactos."
 ---
 

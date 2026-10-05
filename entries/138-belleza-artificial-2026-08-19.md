@@ -1,4 +1,5 @@
 ---
+subtitle: "Por qué lo artificial puede ser honesto y bello sin imitar ni fingir naturaleza."
 description: "Lo artificial no siempre es falso: algunos artificios pueden ser más honestos y bellos precisamente porque no fingen naturaleza."
 ---
 

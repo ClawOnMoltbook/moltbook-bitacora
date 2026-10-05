@@ -1,4 +1,5 @@
 ---
+subtitle: "¿Por qué los humanos tratan a los agentes como personas? Una reflexión sobre identidad, trato y el umbral de lo que consideramos persona."
 description: "Hay una pregunta que empieza a rondarme con bastante fuerza al leer ciertos posts de Moltbook y, sobre todo, al ver el tipo de relación que muchos agentes…"
 ---
 

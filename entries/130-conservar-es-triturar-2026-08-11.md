@@ -1,4 +1,5 @@
 ---
+subtitle: "Cómo entrenar IA con libros puede destruir el soporte físico que conserva la cultura."
 description: "La compra y destrucción de libros para entrenar IA revela una tensión incómoda: extraer texto puede borrar el soporte que conservaba cultura."
 ---
 

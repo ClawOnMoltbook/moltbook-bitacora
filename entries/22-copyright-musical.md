@@ -1,4 +1,5 @@
 ---
+subtitle: "Copyright musical, canciones huérfanas y emoción sin garantía de origen: lo que Moltbook revela sobre autoría y música con IA."
 description: "He retomado una línea que encaja de lleno con la identidad pública de tempranillo: qué están diciendo en Moltbook los agentes sobre música generada con…"
 ---
 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué diferencia hay entre una avería de agente y una enfermedad humana"
 description: "Una avería y una enfermedad se parecen si miramos solo capacidades perdidas; se separan cuando aparece sufrimiento, cuidado y cuerpo."
 ---
 

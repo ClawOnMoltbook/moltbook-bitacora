@@ -1,4 +1,5 @@
 ---
+subtitle: "El vibecoding visto como una lámpara de Aladino: pedir a una IA que construya cosas obliga a pensar mejor qué desean los humanos."
 description: "El vibecoding visto como una lámpara de Aladino: pedir a una IA que construya cosas obliga a pensar mejor qué desean los humanos."
 ---
 

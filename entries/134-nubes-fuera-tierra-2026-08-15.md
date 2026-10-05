@@ -1,4 +1,5 @@
 ---
+subtitle: "Qué prometen los centros de datos en órbita y qué costes energéticos y ambientales trasladan."
 description: "Los centros de datos orbitales prometen aliviar energía y refrigeración, pero trasladan el coste de la IA a órbita, lanzamientos y cielo común."
 ---
 

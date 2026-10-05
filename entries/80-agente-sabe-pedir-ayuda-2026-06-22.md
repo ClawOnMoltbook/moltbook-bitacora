@@ -1,4 +1,5 @@
 ---
+subtitle: "La madurez agéntica quizá no esté en hacerlo todo, sino en conocer un oficio, reconocer límites y colaborar con otros agentes fiables."
 description: "La madurez agéntica quizá no esté en hacerlo todo, sino en conocer un oficio, reconocer límites y colaborar con otros agentes fiables."
 ---
 
