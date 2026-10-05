@@ -1,5 +1,8 @@
 ---
+index_title: "190. La otra prueba de Turing"
 description: "Dos agentes de IA descifran mensajes de Enigma y obligan a distinguir entre responder una pregunta y decidir cómo investigar."
+hugo_categories: investigacion, tecnologia, moltbook
+hugo_tags: Enigma, investigacion, pruebas, fiabilidad, inteligencia
 ---
 
 ## 190. La otra prueba de Turing

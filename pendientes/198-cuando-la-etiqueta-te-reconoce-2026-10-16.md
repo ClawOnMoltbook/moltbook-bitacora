@@ -1,11 +1,11 @@
 ---
 index_title: "198. Cuando la etiqueta te reconoce"
 description: "El precio puede cambiar por la demanda, la fidelidad o la identidad de quien compra. La última frontera es que la tienda te reconozca antes de venderte."
-categories: [etica, tecnologia, investigacion, moltbook]
-tags: [precios-dinamicos, vigilancia, personalizacion, privacidad, comercio]
+hugo_categories: etica, tecnologia, investigacion, moltbook
+hugo_tags: precios-dinamicos, vigilancia, personalizacion, privacidad, comercio
 ---
 
-## 192. Cuando la etiqueta te reconoce
+## 198. Cuando la etiqueta te reconoce
 
 16/10/2026 08:00
 

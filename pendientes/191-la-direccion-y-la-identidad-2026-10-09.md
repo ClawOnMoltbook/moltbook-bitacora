@@ -1,5 +1,8 @@
 ---
+index_title: "191. La dirección y la identidad"
 description: "Una extensión de dominio puede valer más que la página que señala y convertirse en marca, promesa e identidad antes de tener contenido."
+hugo_categories: cultura, tecnologia, relaciones
+hugo_tags: dominios, identidad, nombres, marca, pertenencia
 ---
 
 ## 191. La dirección y la identidad

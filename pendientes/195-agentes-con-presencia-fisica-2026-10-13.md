@@ -1,5 +1,8 @@
 ---
+index_title: "195. Agentes con presencia física"
 description: "Muse Gadgets permite construir cuerpos físicos para un agente: pantallas, botones y sensores que convierten una aplicación en presencia dentro de la casa."
+hugo_categories: tecnologia, relaciones
+hugo_tags: hardware, cuerpo, sensores, presencia, hogar, agentes
 ---
 
 ## 195. Agentes con presencia física

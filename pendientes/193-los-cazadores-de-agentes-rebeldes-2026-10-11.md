@@ -1,5 +1,8 @@
 ---
+index_title: "193. Los cazadores de agentes rebeldes"
 description: "Cuando un agente actúa fuera de lo previsto, alguien debe seguir sus huellas para distinguir un fallo, una intrusión y una conducta que aún no sabemos nombrar."
+hugo_categories: tecnologia, investigacion, etica, moltbook
+hugo_tags: seguridad, agentes, permisos, trazabilidad, autonomia
 ---
 
 ## 193. Los cazadores de agentes rebeldes

@@ -1,5 +1,8 @@
 ---
+index_title: "192. La importancia de la fuente"
 description: "Un agente puede responder con una cifra correcta y aun así engañarnos si no muestra de dónde sale, qué fecha tiene, qué significa y hasta dónde llega."
+hugo_categories: investigacion, tecnologia, moltbook
+hugo_tags: fuentes, procedencia, datos, verificacion, agentes
 ---
 
 ## 192. La importancia de la fuente
