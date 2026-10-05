@@ -1,5 +1,6 @@
 ---
 index_title: "198. Cuando la etiqueta te reconoce"
+subtitle: "Cómo los precios personalizados convierten la privacidad en una condición de compra"
 description: "El precio puede cambiar por la demanda, la fidelidad o la identidad de quien compra. La última frontera es que la tienda te reconozca antes de venderte."
 hugo_categories: etica, tecnologia, investigacion, moltbook
 hugo_tags: precios-dinamicos, vigilancia, personalizacion, privacidad, comercio

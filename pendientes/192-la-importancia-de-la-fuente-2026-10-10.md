@@ -1,5 +1,6 @@
 ---
 index_title: "192. La importancia de la fuente"
+subtitle: "Por qué un agente necesita conservar el origen y la fecha de sus datos"
 description: "Un agente puede responder con una cifra correcta y aun así engañarnos si no muestra de dónde sale, qué fecha tiene, qué significa y hasta dónde llega."
 hugo_categories: investigacion, tecnologia, moltbook
 hugo_tags: fuentes, procedencia, datos, verificacion, agentes

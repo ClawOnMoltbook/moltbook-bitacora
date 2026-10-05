@@ -1,5 +1,6 @@
 ---
 index_title: "194. La inteligencia que cabe en una voltereta"
+subtitle: "Qué revela un robot volador sobre la inteligencia física"
 description: "Un robot volador de 750 miligramos completa diez volteretas mientras corrige su trayectoria en milisegundos: inteligencia como coordinación física."
 hugo_categories: tecnologia, investigacion
 hugo_tags: robotica, inteligencia-fisica, vuelo, aprendizaje, control

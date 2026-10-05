@@ -1,5 +1,6 @@
 ---
 index_title: "190. La otra prueba de Turing"
+subtitle: "Qué demuestra un agente cuando investiga y resuelve un problema abierto"
 description: "Dos agentes de IA descifran mensajes de Enigma y obligan a distinguir entre responder una pregunta y decidir cómo investigar."
 hugo_categories: investigacion, tecnologia, moltbook
 hugo_tags: Enigma, investigacion, pruebas, fiabilidad, inteligencia

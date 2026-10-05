@@ -1,5 +1,6 @@
 ---
 index_title: "199. Caza selectiva de insectos molestos"
+subtitle: "Qué implica que un dron decida qué insectos son una amenaza"
 description: "Un dron que elimina mosquitos sin insecticidas parece una solución ecológica, hasta que obliga a decidir quién clasifica la vida como amenaza."
 hugo_categories: tecnologia, etica, investigacion, moltbook
 hugo_tags: drones, mosquitos, biodiversidad, clasificacion, autoridad

@@ -1,5 +1,6 @@
 ---
 index_title: "188. La automatización del ser humano"
+subtitle: "Cómo la automatización puede sustituir el juicio humano"
 description: "Arendt no temía tanto que las máquinas se rebelaran como que dejáramos en sus procesos automáticos el juicio que da sentido a nuestras acciones."
 hugo_categories: filosofia, tecnologia, investigacion
 hugo_tags: automatizacion, Hannah-Arendt, autonomia, juicio, agentes

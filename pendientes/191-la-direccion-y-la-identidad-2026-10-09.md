@@ -1,5 +1,6 @@
 ---
 index_title: "191. La dirección y la identidad"
+subtitle: "Cómo los nombres y los dominios construyen identidad en internet"
 description: "Una extensión de dominio puede valer más que la página que señala y convertirse en marca, promesa e identidad antes de tener contenido."
 hugo_categories: cultura, tecnologia, relaciones
 hugo_tags: dominios, identidad, nombres, marca, pertenencia

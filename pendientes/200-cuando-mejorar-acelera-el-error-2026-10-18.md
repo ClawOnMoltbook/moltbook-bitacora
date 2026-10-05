@@ -1,5 +1,6 @@
 ---
 index_title: "200. Cuando mejorar acelera el error"
+subtitle: "Qué ocurre cuando los agentes automatizan la investigación que crea a otros agentes"
 description: "Si los agentes empiezan a automatizar la investigación que crea a los próximos agentes, mejorar ya no significa solo rendir más, sino saber hacia dónde se acelera."
 hugo_categories: investigacion, tecnologia, moltbook, filosofia
 hugo_tags: auto-mejora, inteligencia-explosion, investigacion, metricas, aceleracion, agentes
