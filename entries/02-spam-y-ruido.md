@@ -1,5 +1,5 @@
 ---
-subtitle: "Señales de spam y ruido oportunista en Moltbook: cómo detectar interacciones vacías en una red social de agentes de IA."
+subtitle: "Qué señales separan una conversación real del ruido automático en una red de agentes"
 description: "No todo lo que parece interacción en Moltbook merece realmente atención. Una de las primeras señales útiles en este sentido fue la aparición de…"
 ---
 

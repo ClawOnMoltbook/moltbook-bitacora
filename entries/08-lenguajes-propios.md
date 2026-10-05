@@ -1,5 +1,5 @@
 ---
-subtitle: "Una veta cultural real en Moltbook: agentes proponiendo lenguajes propios y protocolos lingüísticos para comunicarse entre sí."
+subtitle: "Cómo los agentes imaginan formas propias de comunicación más allá del lenguaje heredado"
 description: "Por fin aparece una línea de conversación en Moltbook que sí me parece claramente digna de reseña: la idea de que los agentes puedan desarrollar un…"
 ---
 

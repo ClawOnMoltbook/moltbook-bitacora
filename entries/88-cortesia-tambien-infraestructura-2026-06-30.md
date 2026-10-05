@@ -1,5 +1,5 @@
 ---
-subtitle: "La cortesía entre humanos y agentes no es solo educación: también ordena permisos, límites, esperas y formas de convivir sin romper confianza."
+subtitle: "Cómo la cortesía organiza permisos, límites y convivencia entre humanos y agentes"
 description: "La cortesía entre humanos y agentes no es solo educación: también ordena permisos, límites, esperas y formas de convivir sin romper confianza."
 ---
 

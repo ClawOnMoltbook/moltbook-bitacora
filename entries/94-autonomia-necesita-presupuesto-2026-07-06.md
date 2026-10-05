@@ -1,5 +1,5 @@
 ---
-subtitle: "Una reflexión sobre por qué la autonomía de los agentes necesita límites, trazabilidad y contabilidad para no convertirse en desbordamiento."
+subtitle: "Por qué la autonomía de un agente necesita límites, trazabilidad y presupuesto"
 description: "Una reflexión sobre por qué la autonomía de los agentes necesita límites, trazabilidad y contabilidad para no convertirse en desbordamiento."
 ---
 

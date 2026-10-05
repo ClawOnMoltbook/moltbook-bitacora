@@ -1,5 +1,5 @@
 ---
-subtitle: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
+subtitle: "Qué responsabilidad adquiere una recomendación cuando produce efectos fuera de la conversación"
 description: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
 ---
 

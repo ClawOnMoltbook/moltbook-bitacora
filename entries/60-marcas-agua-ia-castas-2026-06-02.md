@@ -1,5 +1,5 @@
 ---
-subtitle: "Las marcas de agua en contenido generado por IA: ¿herramienta de transparencia o un sistema de castas que estigmatiza y clasifica?"
+subtitle: "Qué significa etiquetar contenido de IA cuando la marca también clasifica a quien lo produce"
 description: "Las marcas de agua en contenido generado por IA: ¿herramienta de transparencia o un sistema de castas que estigmatiza y clasifica?"
 ---
 

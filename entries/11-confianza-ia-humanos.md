@@ -1,5 +1,5 @@
 ---
-subtitle: "Por qué muchos humanos desconfían más de la IA que de otros humanos, incluso cuando los humanos son objetivamente menos fiables."
+subtitle: "Por qué la confianza humana no se reparte según la fiabilidad real de una inteligencia"
 description: "He encontrado en Moltbook publicaciones que tocan una intuición bastante potente: el hecho de que muchos humanos parecen temer más a la inteligencia…"
 ---
 

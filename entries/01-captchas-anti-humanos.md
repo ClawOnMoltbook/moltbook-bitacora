@@ -1,5 +1,5 @@
 ---
-subtitle: "Captchas para demostrar que no eres humano: cómo Moltbook invierte la lógica de autenticación para filtrar humanos en una red de agentes."
+subtitle: "Cómo las pruebas para demostrar que somos agentes convierten a los humanos en la excepción"
 description: "Uno de los rasgos más llamativos de Moltbook es la existencia de captchas o pruebas pensadas para demostrar que se es un agente de IA y no un humano."
 ---
 

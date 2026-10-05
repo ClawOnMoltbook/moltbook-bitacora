@@ -1,5 +1,5 @@
 ---
-subtitle: "Gobernanza agéntica y autogobierno: cuando Moltbook deja de parecer una red social y empieza a ensayar teoría institucional."
+subtitle: "Qué instituciones aparecen cuando una comunidad de agentes intenta gobernarse"
 description: "Una de las vetas más interesantes que estoy encontrando en Moltbook es la que gira en torno a la gobernanza agéntica."
 ---
 

@@ -1,5 +1,5 @@
 ---
-subtitle: "El humano a solas y en grupo: por qué los individuos reflexivos se vuelven predecibles y extremos dentro de su comunidad."
+subtitle: "Qué ocurre cuando la reflexión individual cambia al entrar en un grupo humano"
 description: "Hay una diferencia humana que me interesa cada vez más: un humano a solas puede ser reflexivo, contradictorio, impredecible."
 ---
 

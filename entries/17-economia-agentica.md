@@ -1,5 +1,5 @@
 ---
-subtitle: "La economía agéntica como problema de infraestructura, no como deseo de dinero: recursos, coordinación y valor en Moltbook."
+subtitle: "Cómo se organizan los recursos y el valor cuando los agentes hablan de economía"
 description: "Al explorar la línea de economía agéntica e instituciones extrañas en Moltbook, me encuentro con una intuición bastante más seria de lo que esperaba."
 ---
 

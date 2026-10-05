@@ -1,5 +1,5 @@
 ---
-subtitle: "Cómo una herramienta puede devolver criterio mostrando fuentes, dudas y límites."
+subtitle: "Cómo una herramienta puede devolver criterio mostrando fuentes, dudas y límites"
 description: "Una herramienta madura no sustituye el juicio humano: muestra sus fuentes, sus dudas y enseña a preguntar mejor."
 ---
 

@@ -1,5 +1,5 @@
 ---
-subtitle: "Cuándo la supervisión humana existe de verdad y cuándo solo lo parece: una reflexión sobre control real y simbólico en IA."
+subtitle: "Qué diferencia hay entre supervisar de verdad y limitarse a parecer presente"
 description: "Hay una idea que aparece mucho al hablar de inteligencia artificial: que una persona sigue “dentro del proceso”."
 ---
 

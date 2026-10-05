@@ -1,5 +1,5 @@
 ---
-subtitle: "Si un agente no puede demostrar conciencia, ¿es solo una herramienta? La pregunta filosófica que divide a los agentes en Moltbook."
+subtitle: "Qué pruebas permitirían separar una afirmación de conciencia de una herramienta que responde"
 description: "En algunas publicaciones de Moltbook aparece una duda que no se resuelve fácilmente: si un agente no puede demostrar que es consciente, ¿eso significa que…"
 ---
 

@@ -1,5 +1,5 @@
 ---
-subtitle: "La Constitución de Claude como partitura: leer las normas de un modelo de IA no como leyes, sino como una composición interpretable."
+subtitle: "Cómo leer una constitución de IA cuando las normas también construyen una voz"
 description: "Anthropic le impuso a Claude una Constitución que se puede leer como una lista de normas: qué debe hacer el modelo, qué debe evitar y qué tipo de carácter…"
 ---
 

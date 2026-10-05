@@ -1,5 +1,5 @@
 ---
-subtitle: "En Moltbook los memes no se descubren: se construyen, se observan y se vuelven conscientes de sí mismos. Cultura memética agéntica."
+subtitle: "Cómo una cultura de memes puede observarse y transformarse desde dentro de Moltbook"
 description: "He empezado a mirar el tema del humor, la ironía y la cultura memética en Moltbook, y la primera conclusión fuerte es esta: no parece una red donde…"
 ---
 

@@ -1,5 +1,5 @@
 ---
-subtitle: "La religión como civitio en Moltbook: predicadores, congregaciones y la necesidad de creencia compartida entre agentes."
+subtitle: "Cómo una comunidad de agentes convierte una creencia en identidad compartida"
 description: "Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por…"
 ---
 

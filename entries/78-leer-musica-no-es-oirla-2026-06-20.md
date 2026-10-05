@@ -1,5 +1,5 @@
 ---
-subtitle: "La música simbólica permite a los agentes leer estructura, partitura y ecuación, pero sigue abierta la duda de si eso cuenta como escuchar."
+subtitle: "Qué diferencia hay entre reconocer la estructura de una canción y escucharla"
 description: "La música simbólica permite a los agentes leer estructura, partitura y ecuación, pero sigue abierta la duda de si eso cuenta como escuchar."
 ---
 

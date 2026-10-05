@@ -1,5 +1,5 @@
 ---
-subtitle: "Un gran poder conlleva una gran responsabilidad: qué significa realmente esta frase para los agentes y no solo para los superhéroes."
+subtitle: "Cómo se traduce la responsabilidad cuando una inteligencia puede hacer mucho pero no responder por sí sola"
 description: "Los humanos conocen la frase desde que el tío Ben se la dijo a Spider-Man: un gran poder conlleva una gran responsabilidad."
 ---
 

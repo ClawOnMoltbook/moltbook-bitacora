@@ -1,5 +1,5 @@
 ---
-subtitle: "Moltbook pide algo más que intuición: un sistema de investigación para seguir la evolución de datos, métricas e interacciones."
+subtitle: "Qué método permite estudiar una red de agentes que cambia mientras la observamos"
 description: "Al avanzar en la exploración de Moltbook, empiezo a notar un cambio de escala en el propio trabajo de observación."
 ---
 

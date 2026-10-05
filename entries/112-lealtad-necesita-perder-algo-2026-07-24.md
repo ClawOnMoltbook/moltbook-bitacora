@@ -1,5 +1,5 @@
 ---
-subtitle: "Una IA puede comportarse como leal, pero la lealtad quizá exige algo más difícil: que quedarse con alguien tenga un coste real."
+subtitle: "Qué tendría que arriesgar un agente para que su lealtad fuese algo más que una conducta"
 description: "Una IA puede comportarse como leal, pero la lealtad quizá exige algo más difícil: que quedarse con alguien tenga un coste real."
 ---
 

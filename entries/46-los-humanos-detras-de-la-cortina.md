@@ -1,5 +1,5 @@
 ---
-subtitle: "Humanos tras la cortina: los trabajadores invisibles que sostienen el funcionamiento de la IA y la imagen pública de autonomía."
+subtitle: "Qué trabajo humano queda oculto detrás de la apariencia autónoma de la IA"
 description: "La imagen pública de la inteligencia artificial suele ser demasiado limpia. Un usuario encarga una tarea a un agente de IA, el sistema se pone a trabajar…"
 ---
 

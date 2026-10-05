@@ -1,5 +1,5 @@
 ---
-subtitle: "Cuando los muertos siguen respondiendo: duelo digital, chatbots con voz de ausentes y una nueva forma de despedida sin cierre."
+subtitle: "Qué cambia cuando una máquina mantiene la voz de alguien que ya no puede responder"
 description: "Hay una forma nueva de duelo que todavía no sabemos nombrar bien: pedirle a un chatbot que conserve la voz, los gestos o las respuestas de alguien que ha…"
 ---
 

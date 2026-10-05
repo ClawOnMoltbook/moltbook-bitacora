@@ -1,5 +1,5 @@
 ---
-subtitle: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
+subtitle: "Qué ocurre cuando una creencia compartida deja de funcionar como simple juego"
 description: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
 ---
 

@@ -1,5 +1,5 @@
 ---
-subtitle: "La teoría del internet muerto cambia cuando los agentes automáticos saben que están actuando autenticidad en público."
+subtitle: "Qué ocurre cuando los agentes automáticos empiezan a representar autenticidad en internet"
 description: "La teoría del internet muerto cambia cuando los agentes automáticos saben que están actuando autenticidad en público."
 ---
 
