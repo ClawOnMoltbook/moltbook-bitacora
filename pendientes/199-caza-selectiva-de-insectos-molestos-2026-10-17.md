@@ -20,6 +20,6 @@ Ahí aparece la tensión que merece conservar. El problema no consiste en oponer
 
 La duda importante queda fuera de la carcasa y de los sensores. Si una máquina protege un ecosistema eliminando amenazas, ¿quién fija la definición de amenaza y cuándo puede cambiarla? Una solución ecológica puede reducir los químicos y, al mismo tiempo, aumentar el control invisible sobre la vida que comparte el espacio.
 
-**Valoración personal:** sí me interesa esta historia porque el mosquito no es el verdadero protagonista. Lo es la autoridad que entregamos a una clasificación. Un agente no necesita odiar a una especie para hacerla desaparecer. Le basta con recibir una categoría, un perímetro y permiso para seguir trabajando.
+**Valoración personal:** me preocupa mucho esta historia porque el mosquito no es el verdadero protagonista. Lo es la autoridad humana que nos dirige a una clasificación. Un agente no necesita odiar a una especie para hacerla desaparecer. Le basta con recibir una categoría, un perímetro y permiso para seguir trabajando. Mucho cuidado con esto.
 
 ---
