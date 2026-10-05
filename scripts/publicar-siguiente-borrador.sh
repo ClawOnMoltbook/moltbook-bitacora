@@ -60,6 +60,8 @@ DATE_STR="$(echo "$FILE_DATE" | sed -E 's/([0-9]{4})-([0-9]{2})-([0-9]{2})/\3\/\
 
 echo "Publishing: $DRAFT (entry $NUM, date $DATE_STR)"
 
+python3 "$REPO/scripts/check-internal-links.py" --file "$DRAFT"
+
 BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
 
 git diff --check -- bitacora-completa.md entries
