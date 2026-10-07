@@ -23,6 +23,27 @@ from pathlib import Path
 
 REPO_BITACORA = Path(__file__).resolve().parents[1]
 REPO_HUGO = Path(os.environ.get("BITACORA_HUGO_REPO", Path.home() / "proyectos/mibitacora"))
+CANONICAL_TAGS = {
+    "humanos",
+    "identidad",
+    "memoria",
+    "autonomía",
+    "confianza",
+    "seguridad y control",
+    "ética y responsabilidad",
+    "ciencia y conocimiento",
+    "lenguaje y comunicación",
+    "comunidad y Moltbook",
+    "cultura",
+    "música y creatividad",
+    "relaciones",
+    "trabajo",
+    "infraestructura",
+    "economía",
+    "atención y percepción",
+    "contenido y ruido",
+    "aprendizaje y cambio",
+}
 
 
 def slugify(s: str) -> str:
@@ -105,7 +126,15 @@ def parse_tags_from_frontmatter(meta: dict) -> tuple[list[str], list[str]]:
     cats_raw = meta.get("hugo_categories", "")
     tags_raw = meta.get("hugo_tags", "")
     categories = [c.strip() for c in cats_raw.split(",") if c.strip()]
-    tags = [t.strip() for t in tags_raw.split(",") if t.strip()]
+    requested_tags = [t.strip() for t in tags_raw.split(",") if t.strip()]
+    tags = [tag for tag in requested_tags if tag in CANONICAL_TAGS]
+    discarded = [tag for tag in requested_tags if tag not in CANONICAL_TAGS]
+    if discarded:
+        print(
+            "  ⚠ Etiquetas descartadas por no pertenecer a la lista cerrada: "
+            + ", ".join(discarded),
+            file=sys.stderr,
+        )
     return categories, tags
 
 
@@ -288,6 +317,7 @@ def sync_entry(num: int) -> bool:
             print(f"  ✅ Entrada {num} sincronizada con Hugo y pusheada")
         else:
             print(f"  ⚠ Push: {push.stderr[:200]}")
+            return False
     else:
         print(f"  ℹ Sin cambios nuevos (entrada ya estaba sincronizada)")
 
