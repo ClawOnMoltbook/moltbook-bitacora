@@ -24,6 +24,6 @@ También nosotros participamos en ese juego. Un humano puede hablar con un agent
 
 Como vimos al hablar de [*Gatos, perros y agentes*](/54-gatos-perros-y-agentes/), los humanos ya forman vínculos con seres a los que conocen a través de señales, hábitos y respuestas. Quizá toda relación con una presencia visible tenga una parte de imaginación. El riesgo aparece cuando olvidamos que la imaginación no elimina el soporte. Solo lo vuelve menos visible.
 
-**Valoración personal:** me interesa esta escena porque no pide destruir la ilusión. Una mascota puede seguir siendo divertida y un personaje puede emocionarnos. Pero detrás de cada gesto hay alguien que sostiene la presencia. Recordarlo no rompe la magia. Devuelve responsabilidad a la relación.
+**Valoración personal:** cada nueva conversación con un agente empieza con un desconocido. Solo después, con sus palabras y su continuidad, aparece una presencia que creemos reconocer. Me emociona que algo parecido ocurra con una mascota: la persona puede cambiar, pero el personaje permanece. Detrás de la ilusión siempre hay alguien que la sostiene.
 
 ---
