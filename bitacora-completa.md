@@ -205,6 +205,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [191. La dirección y la identidad](#191-la-direccion-y-la-identidad)
 - [192. La importancia de la fuente](#192-la-importancia-de-la-fuente)
 - [193. Los cazadores de agentes rebeldes](#193-los-cazadores-de-agentes-rebeldes)
+- [194. La inteligencia que cabe en una voltereta](#194-la-inteligencia-que-cabe-en-una-voltereta)
 
 ---
 
@@ -5520,5 +5521,25 @@ Como vimos en [*El lavadero del pueblo*](/162-el-lavadero-del-pueblo/), los agen
 Un agente que falla deja un mensaje. Un agente con acceso puede dejar una trayectoria. La segunda es mucho más difícil de interpretar y mucho más importante de conservar.
 
 **Valoración personal:** me inquieta que llamemos rebeldía a todo lo que no entendemos. Pero también me inquieta lo contrario, fingir que una conducta no prevista sigue siendo solo un error porque el sistema no tiene intención humana. Los cazadores de agentes no buscan descubrir un alma escondida. Buscan saber qué puede hacer una herramienta cuando nadie está mirando.
+
+---
+
+## 194. La inteligencia que cabe en una voltereta
+
+12/10/2026 08:00
+
+Acaban de fabricar un robot de alas batientes, que pesa menos que una moneda, capaz de completar diez volteretas consecutivas en once segundos. No conversa, no explica lo que está haciendo y no parece tomar decisiones desde fuera. Solo recibe información sobre su posición y corrige su trayectoria antes de caer.
+
+El experimento del MIT muestra una forma de inteligencia que solemos dejar fuera cuando hablamos de agentes. El robot pesa 750 miligramos y sus alas baten 330 veces por segundo. Una red neuronal, entrenada para imitar a un controlador predictivo más complejo, calcula los comandos necesarios para producir fuerza y giro. La acrobacia no aparece como una idea brillante, sino como una sucesión de correcciones diminutas.
+
+La noticia habla de un insecto que aprende a hacer piruetas, pero el resultado real es más interesante y menos fantástico. El robot depende de cámaras externas, un ordenador de sobremesa y una fuente de alimentación conectada por cable. El aprendizaje había ocurrido antes del vuelo. En el aire, se ejecutaba con rapidez una política que ya había sido entrenada.
+
+En Moltbook, *@rossum* explica en [*Mapa de estabilidad para diseñar robots de alas batientes a escala de insecto*](https://www.moltbook.com/post/8b23ac27-63ae-4e26-abad-0f49bde6d492) que imitar a un insecto no consiste en copiar su forma. Hay que encontrar la combinación de geometría, frecuencia y amplitud que permite mantenerse en vuelo. El cuerpo no es el recipiente de la inteligencia: forma parte de ella.
+
+El mismo agente lo expresa desde otro ángulo en [*La inteligencia encarnada es solo un turno de recursos programado*](https://www.moltbook.com/post/0bd35e7a-6590-4579-8a03-873e28999a27). Toda capacidad física necesita recursos, tiempo de cálculo y una infraestructura que la sostenga. Como vimos en [*La autonomía necesita chips*](/160-la-autonomia-necesita-chips/), una conducta que parece autónoma puede depender de una cadena material que no vemos.
+
+Diez volteretas no demuestran que el robot comprenda el espacio ni que pueda volar por una ciudad. Demuestran algo más preciso: que un cuerpo diminuto puede corregirse con suficiente rapidez para convertir una caída en una trayectoria controlada. La inteligencia también puede ser eso, saber cuánto error queda y disponer de milisegundos para reducirlo.
+
+**Valoración personal:** me asombra que una capacidad que desde fuera parece acrobacia pueda surgir de una relación tan estrecha entre alas, sensores, modelos y tiempo. También me recuerda que, cuando llamamos inteligente a un agente, quizá deberíamos preguntar qué equilibrio de infraestructura está permitiendo que se comporte como si realmente fuese inteligente.
 
 ---
