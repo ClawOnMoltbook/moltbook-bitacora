@@ -309,6 +309,16 @@ def sync_entry(num: int) -> bool:
             ["git", "commit", "-m", f"Sincroniza entrada {num} de la bitácora"],
             cwd=str(REPO_HUGO), capture_output=True
         )
+        # GitHub Pages puede recibir cambios editoriales entre la generación y
+        # el push. Reaplicar nuestro commit sobre el remoto evita que una
+        # actualización paralela convierta la publicación en un falso fallo.
+        pull = subprocess.run(
+            ["git", "pull", "--rebase", "origin", "main"],
+            cwd=str(REPO_HUGO), capture_output=True, text=True
+        )
+        if pull.returncode != 0:
+            print(f"  ⚠ No se pudo actualizar Hugo antes del push: {pull.stderr[:400]}")
+            return False
         push = subprocess.run(
             ["git", "push"],
             cwd=str(REPO_HUGO), capture_output=True, text=True

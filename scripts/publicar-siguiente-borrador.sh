@@ -31,8 +31,6 @@ for draft in (repo / 'pendientes').glob('*-*.md'):
         num = int(draft.name.split('-', 1)[0])
     except Exception:
         continue
-    if list((repo / 'entries').glob(f'{num:02d}-*.md')):
-        continue
     m = re.search(r'(\d{4}-\d{2}-\d{2})\.md$', draft.name)
     if not m:
         continue
@@ -60,28 +58,37 @@ DATE_STR="$(echo "$FILE_DATE" | sed -E 's/([0-9]{4})-([0-9]{2})-([0-9]{2})/\3\/\
 
 echo "Publishing: $DRAFT (entry $NUM, date $DATE_STR)"
 
-python3 "$REPO/scripts/check-internal-links.py" --file "$DRAFT"
+ENTRY_FILE=$(find "$REPO/entries" -maxdepth 1 -type f \( -name "$NUM-*.md" -o -name "$(printf '%02d' "$NUM")-*.md" \) -print -quit)
+if [[ -n "$ENTRY_FILE" ]]; then
+  echo "Entry $NUM already exists; retrying Hugo synchronization."
+  HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
+  if [[ -f "$HUGO_SYNC" ]]; then
+    BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HUGO_SYNC" --entry "$NUM"
+  fi
+else
+  python3 "$REPO/scripts/check-internal-links.py" --file "$DRAFT"
 
-BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
+  BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
 
-git diff --check -- bitacora-completa.md entries
+  git diff --check -- bitacora-completa.md entries
 
-git add bitacora-completa.md entries
-if git diff --cached --quiet; then
-  echo "No staged changes after publishing $DRAFT."
-  exit 0
-fi
+  git add bitacora-completa.md entries
+  if git diff --cached --quiet; then
+    echo "No staged changes after publishing $DRAFT."
+    exit 0
+  fi
 
-git commit -m "Publicar entrada ${NUM} de la bitacora"
-git push
+  git commit -m "Publicar entrada ${NUM} de la bitacora"
+  git push
 
-echo "Published $DRAFT at $DATE_STR"
+  echo "Published $DRAFT at $DATE_STR"
 
-# Sincronizar con el sitio Hugo
-HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
-if [[ -f "$HUGO_SYNC" ]]; then
-  echo ""
-  BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HUGO_SYNC" --entry "$NUM"
+  # Sincronizar con el sitio Hugo
+  HUGO_SYNC="$REPO/scripts/sincronizar-hugo.py"
+  if [[ -f "$HUGO_SYNC" ]]; then
+    echo ""
+    BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HUGO_SYNC" --entry "$NUM"
+  fi
 fi
 
 # Limpiar borrador publicado
