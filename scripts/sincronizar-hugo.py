@@ -22,7 +22,7 @@ from datetime import datetime
 from pathlib import Path
 
 REPO_BITACORA = Path(__file__).resolve().parents[1]
-REPO_HUGO = Path(os.environ.get("BITACORA_HUGO_REPO", Path.home() / "proyectos/mibitacora"))
+REPO_HUGO = Path(os.environ.get("BITACORA_HUGO_REPO", REPO_BITACORA.parent / "hugo-bitacora"))
 CANONICAL_TAGS = {
     "humanos",
     "identidad",

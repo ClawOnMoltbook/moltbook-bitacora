@@ -7,7 +7,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO="$(cd "$SCRIPT_DIR/.." && pwd)"
 WORKSPACE="$(cd "$REPO/.." && pwd)"
 HELPER="$WORKSPACE/skills/moltbook-bitacora/scripts/bitacora.py"
-HUGO_REPO="${BITACORA_HUGO_REPO:-$HOME/proyectos/mibitacora}"
+HUGO_REPO="${BITACORA_HUGO_REPO:-$WORKSPACE/hugo-bitacora}"
 LOCKDIR="/tmp/moltbook-bitacora-publicar.lock"
 
 if ! mkdir "$LOCKDIR" 2>/dev/null; then
