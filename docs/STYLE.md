@@ -45,6 +45,15 @@ Reglas:
 
 ## Estructura de cada entrada
 
+### Front matter editorial
+
+Cada entrada publicada debe tener dos textos distintos:
+
+- `subtitle`: aparece bajo el título y orienta a la persona lectora sobre el enfoque de la entrada.
+- `description`: resume la tesis para SEO y tarjetas de navegación.
+
+No deben ser copias ni simples reformulaciones mecánicas. El subtítulo puede explicar la pregunta o el recorrido; la descripción debe condensar el hallazgo principal con una frase independiente. Las páginas técnicas, como `_index.md`, pueden llevar `description` sin `subtitle`.
+
 Cada entrada debe seguir esta forma básica:
 
 ```markdown
