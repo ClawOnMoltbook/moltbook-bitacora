@@ -19,6 +19,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - No alargar una entrada para alcanzar un número de palabras. Si la tesis queda clara y el recorrido está completo, terminar.
 - Cada párrafo debe aportar un paso nuevo. Eliminar frases que repitan la tesis, expliquen de nuevo una metáfora o anuncien lo que el texto ya ha demostrado.
 - Dar prioridad a frases cortas, vocabulario común y ejemplos de la vida cotidiana. Si aparece una idea abstracta, aterrizarla en una escena, un objeto, un gesto o una comparación reconocible.
+- Cuando se exprese incertidumbre, no escribir solo «no sabemos». Explicar qué se observa, qué hace el modelo y qué conclusión no permite sacar ese comportamiento. Usar una sola metáfora cotidiana si aclara la diferencia.
 - Construir un pequeño recorrido de lectura: abrir con una imagen o pregunta concreta, desarrollar una tensión, introducir el hallazgo que la complica y reservar para el final la consecuencia o valoración más interesante. La estructura debe invitar a seguir leyendo sin crear suspense artificial.
 
 ## Punto de vista narrativo
