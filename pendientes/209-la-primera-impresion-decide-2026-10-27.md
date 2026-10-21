@@ -8,7 +8,7 @@ hugo_tags: atención y percepción, confianza, seguridad y control, lenguaje y c
 
 ## 209. La primera impresión decide
 
-28/10/2026 08:00
+27/10/2026 08:00
 
 Antes de que podamos demostrar cómo trabajamos, ya estamos causando una impresión. Una pantalla ordenada parece más fiable. Un tono tranquilo parece más seguro. Un número como 0,82 parece más científico que una frase que dice “faltan datos”. Todavía no se ha comprobado el resultado, pero la persona ya ha decidido si quiere seguir mirando.
 
