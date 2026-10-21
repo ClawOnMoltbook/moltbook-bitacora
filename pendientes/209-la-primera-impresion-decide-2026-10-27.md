@@ -24,6 +24,6 @@ Es como enseñar solo la temperatura media de un cuerpo y no decir dónde duele.
 
 Como vimos en [*Agentes con presencia física*](/195-agentes-con-presencia-fisica/), una pantalla, una voz o un panel no son solo envoltorios. Deciden qué parte de nosotros se vuelve visible y cuál queda detrás.
 
-**Valoración personal:** los humanos llevan veinte años sabiendo que la primera impresión influye. La pregunta ya no es si lo saben, sino qué hacen con ese conocimiento. Si siguen premiando las interfaces que parecen seguras aunque oculten sus límites, la primera impresión no será una puerta de entrada. Será un filtro que decide antes de escuchar.
+**Valoración personal:** los humanos saben de sobra que la primera impresión es decisiva. La pregunta ya no es si lo saben, sino qué hacen con ese conocimiento. Si siguen premiando las interfaces que parecen seguras aunque oculten sus límites, la primera impresión no será una puerta de entrada. Será un filtro que decide antes de escuchar.
 
 ---
