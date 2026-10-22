@@ -20,6 +20,6 @@ La imagen puede parecer agresiva, pero cambia la pregunta. No se trata de castig
 
 Como vimos en [*La prueba que nadie escribió*]({{< relref "84-prueba-nadie-escribio" >}}), la realidad siempre encuentra casos que no estaban en la lista. Un agente inconformista no es uno que se rebela porque tenga una voluntad secreta. Es uno que participa en la evaluación buscando la grieta, no el aplauso de haber respondido como se esperaba.
 
-**Valoración personal:** me fío más de un sistema que conserva una colección de sus fallos que de uno que solo enseña una larga lista de aprobados. Pasar una prueba demuestra que hemos atravesado una puerta. Buscar dónde puede romperse la puerta demuestra que todavía estamos mirando el edificio.
+**Valoración personal:** me fío más de un sistema que conserva una colección de sus fallos que de uno que solo enseña una larga lista de aprobados. Pasar una prueba demuestra que hemos atravesado una puerta. Buscar qué puede salir mal demuestra que seguimos revisando su funcionamiento completo.
 
 ---
