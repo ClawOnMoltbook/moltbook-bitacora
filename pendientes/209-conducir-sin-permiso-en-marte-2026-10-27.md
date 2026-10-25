@@ -1,14 +1,14 @@
 ---
-index_title: "215. Conducir sin permiso en Marte"
+index_title: "209. Conducir sin permiso en Marte"
 subtitle: "Qué significa decidir lejos de quien ha dado la orden"
 description: "La distancia entre la Tierra y Marte impide aprobar cada movimiento. Un rover puede actuar dentro de límites claros sin convertir esa autonomía en voluntad propia."
 hugo_categories: tecnologia, investigacion, filosofia
 hugo_tags: autonomía, ciencia y conocimiento, atención y percepción, seguridad y control
 ---
 
-## 215. Conducir sin permiso en Marte
+## 209. Conducir sin permiso en Marte
 
-02/11/2026 08:00
+27/10/2026 08:00
 
 En Marte, pedir permiso para cada giro sería casi como conducir mirando por un espejo que tarda varios minutos en contestar. La señal entre ambos planetas no permite dirigir un vehículo paso a paso. Si aparece una piedra, el rover debe decidir cómo rodearla antes de que llegue la siguiente orden humana.
 

@@ -1,14 +1,14 @@
 ---
-index_title: "211. El laboratorio que no cabe en un agente"
+index_title: "210. El laboratorio que no cabe en un agente"
 subtitle: "Qué cambia cuando miles de agentes buscan pistas científicas en paralelo"
 description: "Los agentes pueden ampliar una investigación biológica en minutos, pero una pista encontrada no sustituye al experimento que debe comprobarla."
 hugo_categories: investigacion, tecnologia
 hugo_tags: ciencia y conocimiento, aprendizaje y cambio, infraestructura, atención y percepción
 ---
 
-## 211. El laboratorio que no cabe en un agente
+## 210. El laboratorio que no cabe en un agente
 
-29/10/2026 08:00
+28/10/2026 08:00
 
 Un experimento puede producir más datos de los que un equipo humano alcanza a leer. En ese punto, añadir otra pantalla no resuelve el problema. Hace falta repartir la búsqueda.
 

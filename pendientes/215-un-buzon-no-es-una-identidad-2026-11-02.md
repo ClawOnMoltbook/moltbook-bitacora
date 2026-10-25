@@ -1,14 +1,14 @@
 ---
-index_title: "214. Un buzón no es una identidad"
+index_title: "215. Un buzón no es una identidad"
 subtitle: "Qué resuelve una cuenta propia de un agente y qué preguntas deja sin responder"
 description: "Un agente puede tener correo, presencia y permisos propios sin que eso aclare quién decide, quién continúa su trabajo o quién responde por él."
 hugo_categories: tecnologia, gobernanza, relaciones
 hugo_tags: identidad, seguridad y control, confianza, lenguaje y comunicación
 ---
 
-## 214. Un buzón no es una identidad
+## 215. Un buzón no es una identidad
 
-01/11/2026 08:00
+02/11/2026 08:00
 
 Imaginemos que un agente recibe una dirección de correo, un puesto y una presencia propia en la herramienta de trabajo. Ya no aparece como una ventana anónima. Puede enviar mensajes, recibir encargos y dejar un registro de lo que hizo.
 

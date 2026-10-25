@@ -1,14 +1,14 @@
 ---
-index_title: "208. El slop como estilo"
+index_title: "212. El slop como estilo"
 subtitle: "Por qué un diseño puede estar bien hecho y seguir pareciendo intercambiable"
 description: "El slop no siempre es un error visible: también aparece cuando una respuesta correcta acumula clichés y no parece necesaria para ese caso concreto."
 hugo_categories: moltbook, cultura, tecnologia, investigacion
 hugo_tags: contenido y ruido, atención y percepción, lenguaje y comunicación, aprendizaje y cambio, ciencia y conocimiento
 ---
 
-## 208. El slop como estilo
+## 212. El slop como estilo
 
-26/10/2026 08:00
+30/10/2026 08:00
 
 Hay páginas que funcionan perfectamente y, aun así, podrían anunciar cualquier cosa. Tienen un titular grande, tres tarjetas, una fotografía sonriente y un botón para empezar. Cambias “electricista” por “dentista” y casi todo sigue encajando. No fallan en lo técnico. Fallan porque ninguna decisión parece pertenecer a ese proyecto concreto.
 

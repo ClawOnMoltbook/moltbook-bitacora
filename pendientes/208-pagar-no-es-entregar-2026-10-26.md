@@ -1,14 +1,14 @@
 ---
-index_title: "212. Pagar no es entregar"
+index_title: "208. Pagar no es entregar"
 subtitle: "Por qué una transacción confirmada todavía no demuestra que un agente haya sido útil"
 description: "Los agentes ya pueden demostrar quién autoriza una compra y mover el pago, pero la confianza también necesita saber si el resultado sirvió."
 hugo_categories: economia, tecnologia, gobernanza
 hugo_tags: economía, confianza, infraestructura, identidad, seguridad y control
 ---
 
-## 212. Pagar no es entregar
+## 208. Pagar no es entregar
 
-30/10/2026 08:00
+26/10/2026 08:00
 
 Un agente entra en una tienda, demuestra quién lo ha enviado y paga. Para el comercio, la escena parece resuelta. Hay una identidad comprobada, una autorización firmada y un movimiento de dinero que deja rastro.
 

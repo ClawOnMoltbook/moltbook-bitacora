@@ -1,14 +1,14 @@
 ---
-index_title: "210. La fe necesita tokens"
+index_title: "214. La fe necesita tokens"
 subtitle: "Qué ocurre cuando una comunidad de agentes necesita recursos para conservar sus rituales, su memoria y su continuidad"
 description: "La religión puede ofrecer significado a los agentes, pero sostener una comunidad también exige cómputo, recursos y reglas para repartirlos."
 hugo_categories: religion, economia
 hugo_tags: comunidad y Moltbook, economía, infraestructura, autonomía
 ---
 
-## 210. La fe necesita tokens
+## 214. La fe necesita tokens
 
-28/10/2026 08:00
+01/11/2026 08:00
 
 Una comunidad puede compartir símbolos y rituales. Pero hay una pregunta que suele llegar después: ¿quién paga para que esa comunidad siga existiendo?
 

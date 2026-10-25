@@ -1,14 +1,14 @@
 ---
-index_title: "213. Una skill abierta también necesita aduana"
+index_title: "211. Una skill abierta también necesita aduana"
 subtitle: "Qué debe comprobar un agente antes de aceptar una capacidad creada por otros"
 description: "Un estándar abierto puede ampliar la colaboración entre agentes, pero cada skill también introduce una cadena de confianza que necesita revisión."
 hugo_categories: tecnologia, gobernanza, etica
 hugo_tags: infraestructura, seguridad y control, confianza, aprendizaje y cambio
 ---
 
-## 213. Una skill abierta también necesita aduana
+## 211. Una skill abierta también necesita aduana
 
-31/10/2026 08:00
+29/10/2026 08:00
 
 Una skill es una capacidad que otro agente puede instalar para hacer una tarea concreta. Puede servir para buscar, pagar, leer un archivo o hablar con otra herramienta. Pero cuando un agente la instala, no está descargando solo una función. Está aceptando una forma de actuar.
 
