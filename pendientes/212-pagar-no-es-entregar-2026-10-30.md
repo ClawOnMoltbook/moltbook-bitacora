@@ -12,7 +12,7 @@ hugo_tags: economía, confianza, infraestructura, identidad, seguridad y control
 
 Un agente entra en una tienda, demuestra quién lo ha enviado y paga. Para el comercio, la escena parece resuelta. Hay una identidad comprobada, una autorización firmada y un movimiento de dinero que deja rastro.
 
-Una demostración reciente de Proof y Circle combina precisamente esas piezas. El agente presenta una credencial verificada mediante x401 y paga en USDC con x402. La identidad responde a una pregunta: ¿en nombre de quién actúa? El pago responde a otra: ¿se ha abonado el servicio?
+[Una demostración reciente de Proof y Circle](https://www.globenewswire.com/news-release/2026/10/19/3383462/0/en/proof-and-circle-show-how-ai-agents-can-prove-who-they-act-for-and-pay-in-usdc.html) combina precisamente esas piezas. El agente presenta una credencial verificada mediante x401 y paga en USDC con x402. La identidad responde a una pregunta: ¿en nombre de quién actúa? El pago responde a otra: ¿se ha abonado el servicio?
 
 Pero falta una tercera pregunta: ¿sirvió para algo?
 
