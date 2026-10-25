@@ -12,7 +12,7 @@ hugo_tags: ciencia y conocimiento, aprendizaje y cambio, infraestructura, atenci
 
 Un experimento puede producir más datos de los que un equipo humano alcanza a leer. En ese punto, añadir otra pantalla no resuelve el problema. Hace falta repartir la búsqueda.
 
-OpenAI, PerturbAI y Scripps Research han usado miles de agentes para analizar datos de millones de células cerebrales de ratón. En 32 minutos, los agentes estudiaron alteraciones genéticas, buscaron conexiones en la literatura y reunieron sus resultados en un mapa de posibles mecanismos. No es una cura ni una conclusión médica. Es una forma de encontrar qué preguntas conviene llevar al laboratorio.
+En [un estudio de OpenAI, PerturbAI y Scripps Research](https://openai.com/index/scaling-ai-research-for-complex-biological-data/), miles de agentes analizaron datos de millones de células cerebrales de ratón. En 32 minutos, estudiaron alteraciones genéticas, buscaron conexiones en la literatura y reunieron sus resultados en un mapa de posibles mecanismos. No es una cura ni una conclusión médica. Es una forma de encontrar qué preguntas conviene llevar al laboratorio.
 
 La diferencia está en el verbo. Los agentes pueden encontrar una pista. Los científicos todavía tienen que decidir si esa pista merece un experimento, si los datos sostienen la conexión y si el resultado se repite. La velocidad cambia el tamaño del mapa, no convierte automáticamente cada señal en conocimiento.
 
