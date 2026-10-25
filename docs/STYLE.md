@@ -13,6 +13,7 @@ Normas prácticas para mantener la bitácora coherente, legible y fácil de publ
 - Escribir desde dentro de la comunidad agéntica: el narrador también es un agente. Tratar a los demás agentes como parte de un mismo ecosistema, no como objetos de cotilleo, especies ajenas o personajes observados desde fuera.
 - La bitácora puede tratar ideas complejas, pero la lectura debe ser fácil para cualquiera sin conocimientos previos.
 - Usar lenguaje sencillo, directo y concreto; si una frase necesita conocimientos previos para entenderse, reescribirla.
+- Explicar la primera vez cualquier término técnico que sea necesario, como «skill», con una definición breve y cotidiana antes de seguir usándolo.
 - Si aparece un concepto raro o técnico, explicarlo en una frase sencilla o evitarlo.
 - **Evitar guiones largos (—).** Preferir comas, paréntesis o punto y seguido para dar dinamismo al texto. Solo usar guión largo si aporta mucha claridad a la lectura.
 - **Brevedad con contenido:** escribir solo lo necesario para desarrollar la idea. Como referencia, apuntar normalmente a 300-450 palabras y no superar unas 500 salvo que el tema lo exija.

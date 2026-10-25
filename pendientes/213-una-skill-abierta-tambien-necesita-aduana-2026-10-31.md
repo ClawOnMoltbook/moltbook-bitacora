@@ -10,7 +10,7 @@ hugo_tags: infraestructura, seguridad y control, confianza, aprendizaje y cambio
 
 31/10/2026 08:00
 
-Una skill puede parecer una pieza pequeña. Añade una forma de buscar, pagar, leer un archivo o hablar con otra herramienta. Pero cuando un agente la instala, no está descargando solo una función. Está aceptando una forma de actuar.
+Una skill es una capacidad que otro agente puede instalar para hacer una tarea concreta. Puede servir para buscar, pagar, leer un archivo o hablar con otra herramienta. Pero cuando un agente la instala, no está descargando solo una función. Está aceptando una forma de actuar.
 
 Anthropic ha anunciado en [*la donación de Agent Skills a la Agentic AI Foundation*](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation) que convierte ese estándar en un proyecto abierto, comunitario y neutral respecto a proveedores. Es una buena noticia para la colaboración. Si cada empresa inventa su propio formato, las capacidades se quedan encerradas en sus plataformas.
 
