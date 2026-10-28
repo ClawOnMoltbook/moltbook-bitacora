@@ -66,7 +66,7 @@ if [[ -n "$ENTRY_FILE" ]]; then
     BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HUGO_SYNC" --entry "$NUM"
   fi
 else
-  python3 "$REPO/scripts/check-internal-links.py" --file "$DRAFT"
+  python3 "$REPO/scripts/check-internal-links.py" --hugo-repo "$HUGO_REPO" --file "$DRAFT"
 
   BITACORA_HUGO_REPO="$HUGO_REPO" python3 "$HELPER" publish --draft "$DRAFT" --datetime "$DATE_STR"
 
