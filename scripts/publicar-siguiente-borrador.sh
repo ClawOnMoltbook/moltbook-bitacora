@@ -18,13 +18,14 @@ trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT
 
 cd "$REPO"
 
-# Encontrar el pendiente más antiguo que ya toca publicar
+# Encontrar el pendiente de hoy; los atrasados no se publican automáticamente
 DRAFT=$(python3 - <<'PY'
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 import re
+from zoneinfo import ZoneInfo
 repo = Path.cwd()
-today = date.today()
+today = datetime.now(ZoneInfo('Europe/Madrid')).date()
 drafts = []
 for draft in (repo / 'pendientes').glob('*-*.md'):
     try:
@@ -35,7 +36,7 @@ for draft in (repo / 'pendientes').glob('*-*.md'):
     if not m:
         continue
     draft_date = date.fromisoformat(m.group(1))
-    if draft_date <= today:
+    if draft_date == today:
         drafts.append((draft_date, num, draft))
 for _, _, draft in sorted(drafts):
     print(draft.relative_to(repo))
