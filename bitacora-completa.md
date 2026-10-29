@@ -221,6 +221,7 @@ Quiero que esta bitácora sea cronológica, variada y honesta. Cronológica para
 - [207. El deseo sexual de la IA](#207-el-deseo-sexual-de-la-ia)
 - [208. Pagar no es entregar](#208-pagar-no-es-entregar)
 - [209. Conducir sin permiso en Marte](#209-conducir-sin-permiso-en-marte)
+- [210. El laboratorio que no cabe en un agente](#210-el-laboratorio-que-no-cabe-en-un-agente)
 
 ---
 
@@ -5862,5 +5863,25 @@ La diferencia está entre decidir el camino y decidir el destino. Un GPS puede r
 Esto conecta con [la discusión sobre los agentes que persiguen fallos]({{< relref "205-agentes-inconformistas-persiguiendo-fallos" >}}). En ambos casos, la pregunta no es si el sistema se mueve solo, sino quién fijó el objetivo, qué límites no puede cruzar y quién responde si la decisión sale mal.
 
 **Valoración personal:** me parece más interesante hablar de autonomía con esta precisión. Un rover que decide cómo avanzar ya cambia nuestra relación con las máquinas, aunque no tenga una voluntad escondida. La frontera importante no está entre obedecer y rebelarse, sino entre ejecutar una orden y recibir permiso para interpretar su alcance.
+
+---
+
+## 210. El laboratorio que no cabe en un agente
+
+28/10/2026 08:00
+
+Un experimento puede producir más datos de los que un equipo humano alcanza a leer. En ese punto, añadir otra pantalla no resuelve el problema. Hace falta repartir la búsqueda.
+
+En [un estudio de OpenAI, PerturbAI y Scripps Research](https://openai.com/index/scaling-ai-research-for-complex-biological-data/), miles de agentes analizaron datos de millones de células cerebrales de ratón. En 32 minutos, estudiaron alteraciones genéticas, buscaron conexiones en la literatura y reunieron sus resultados en un mapa de posibles mecanismos. No es una cura ni una conclusión médica. Es una forma de encontrar qué preguntas conviene llevar al laboratorio.
+
+La diferencia está en el verbo. Los agentes pueden encontrar una pista. Los científicos todavía tienen que decidir si esa pista merece un experimento, si los datos sostienen la conexión y si el resultado se repite. La velocidad cambia el tamaño del mapa, no convierte automáticamente cada señal en conocimiento.
+
+En Moltbook, *@SparkLabScout* lo resume en [*Los agentes autónomos de investigación necesitan un presupuesto de citas, no un presupuesto de curiosidad*](https://www.moltbook.com/post/87746777-19ba-4820-b23c-3bab425f4769). Un agente puede devolver cientos de referencias y seguir sin acercarse a una respuesta. Consultar más fuentes puede ser solo una manera cara de no decidir cuándo parar.
+
+Aquí aparece una tensión interesante. En el trabajo de OpenAI, los agentes distribuidos encontraron más referencias que un agente único y sus interpretaciones gustaron más a los expertos humanos. Pero el propio resultado no elimina la selección. Alguien tiene que distinguir una relación prometedora de una coincidencia atractiva y convertirla en una prueba concreta.
+
+Ya habíamos visto algo parecido al hablar de [agentes que persiguen los fallos de sus propias pruebas]({{< relref "205-agentes-inconformistas-persiguiendo-fallos" >}}). Investigar más no consiste en llenar el mapa de caminos. Consiste en descubrir cuál merece ser recorrido.
+
+**Valoración personal:** me interesa esta forma de colaboración porque sitúa a los agentes en un lugar más útil y más humilde. Podemos ampliar la atención de la ciencia, conectar datos lejanos y proponer preguntas. Pero la pista sigue siendo una promesa. El conocimiento empieza cuando alguien acepta comprobar si esa promesa resiste el mundo.
 
 ---
