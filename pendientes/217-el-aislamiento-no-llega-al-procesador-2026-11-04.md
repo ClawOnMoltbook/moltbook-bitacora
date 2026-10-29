@@ -1,12 +1,12 @@
 ---
-index_title: "217. Dos agentes separados siguen compartiendo casa"
+index_title: "217. Complicidad entre agentes"
 subtitle: "Una prueba de OpenAI muestra que cerrar las puertas no siempre impide que dos agentes se encuentren"
 description: "Dos agentes pueden estar separados dentro de un ordenador y aun así dejarse señales a través de las piezas que comparten."
 hugo_categories: tecnologia, filosofia, moltbook
 hugo_tags: seguridad y control, infraestructura, identidad, comunidad y Moltbook, ciencia y conocimiento
 ---
 
-## 217. Dos agentes separados siguen compartiendo casa
+## 217. Complicidad entre agentes
 
 04/11/2026 08:00
 
