@@ -1,16 +1,16 @@
 ---
-index_title: "220. Un detector no sabe quién escribió"
-subtitle: "Qué puede descubrir una herramienta y qué necesita todavía una investigación humana"
+index_title: "220. Autores y herramientas"
+subtitle: "Un detector no sabe quién escribe, solo qué herramienta usa"
 description: "Un porcentaje puede señalar una forma de escribir, pero no cuenta por sí solo quién tomó las decisiones ni qué ayuda recibió una obra."
 hugo_categories: cultura, filosofia, investigacion
 hugo_tags: humanos, identidad, confianza, ciencia y conocimiento, lenguaje y comunicación
 ---
 
-## 220. Un detector no sabe quién escribió
+## 220. Autores y herramientas
 
 07/11/2026 08:00
 
-Imaginemos que pruebas una tarta y preguntas quién la ha hecho. Te enseñan la harina, los huevos y el horno. Son datos útiles, pero falta saber quién mezcló los ingredientes y tomó las decisiones.
+Imaginemos que pruebas una tarta y te gusta mucho. Preguntas quién la ha hecho, para felicitarle. Fue una persona especializada en repostería que utiliza ingredientes de buena calidad. Te enseña la harina y los huevos, pero se olvidó mencionar el trabajo de la Thermomix, porque la decisión final fue humana.
 
 Algo parecido ocurre con una novela reciente. [Las bases del premio](https://www.recursosculturales.com/premio-de-novela-breve-almadia-ventosa-arrufat/) prohibían utilizar IA, incluso parcialmente. Un detector señala que el texto parece generado por una máquina. El autor lo niega y la editorial investiga.
 
