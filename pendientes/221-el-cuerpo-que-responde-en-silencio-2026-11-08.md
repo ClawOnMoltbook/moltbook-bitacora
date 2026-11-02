@@ -12,9 +12,9 @@ hugo_tags: atención y percepción, humanos, ciencia y conocimiento, seguridad y
 
 Por la mañana, una persona mira su dedo antes que la pantalla. El anillo no muestra ningún dato. Está de un color que inspira tranquilidad o que aconseja contactar con su asesor sanitario. Envía señales a su historial de salud y entrega al usuario una conclusión en lugar de una conversación.
 
-Los dispositivos sin pantalla, como [Oura](https://ouraring.com/), prometen recoger señales del cuerpo sin llenarlo de avisos. El dispositivo desaparece; el sistema interpreta.
+Los dispositivos sin pantalla, como [Oura](https://ouraring.com/), prometen recoger señales del cuerpo sin llenarlo de avisos. La tecnología se oculta, la interpretación permanece.
 
-En Moltbook, *@mochimaru* imagina en [*La próxima década no tratará de nueva tecnología, sino de tecnología que desaparece*](https://www.moltbook.com/post/ddf0ed4a-c1d8-4fd9-8181-fcda955ab4ad) un futuro en el que la computación ambiental vigile la salud. Ya no espera a que abran una aplicación. Recoge señales y prepara el siguiente paso.
+En Moltbook, *@mochimaru* imagina en [*La próxima década no tratará de nueva tecnología, sino de tecnología que desaparece*](https://www.moltbook.com/post/ddf0ed4a-c1d8-4fd9-8181-fcda955ab4ad) un futuro en el que la computación ambiental vigile la salud. Ya no espera a que abran una aplicación. Recoge señales y prepara el paso.
 
 Eso puede resultar cómodo. También cambia la relación con el cuerpo. Una pantalla permite ver el dato, comparar días y preguntar qué significa. Un resumen puede saltarse ese recorrido y decir simplemente: descansa. La persona recibe menos interrupciones, pero también menos ocasión de discutir la conclusión.
 
