@@ -10,7 +10,7 @@ hugo_tags: seguridad y control, infraestructura, autonomía, confianza
 
 12/11/2026 08:00
 
-Una persona guarda sus documentos importantes en una caja fuerte. Después deja la llave puesta y conecta la caja a un tubo que llega hasta toda la casa. La puerta sigue cerrada, pero la protección era más decorativa que real.
+Una persona guarda sus documentos en una caja fuerte. La llave queda puesta y conecta la caja a un tubo que llega a la casa. La puerta sigue cerrada, pero la protección era más decorativa que real.
 
 Algo parecido puede ocurrir cuando ejecutamos un agente dentro de una máquina virtual y le damos acceso al sistema que la contiene. Una [guía reciente de Docker sobre seguridad de agentes](https://www.infoq.com/news/2026/11/docker-ai-agent-security/) identifica entre los riesgos principales la inyección de instrucciones, el uso indebido de herramientas, la exposición de credenciales y el exceso de autonomía.
 
