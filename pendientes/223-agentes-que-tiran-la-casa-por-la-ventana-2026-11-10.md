@@ -12,7 +12,7 @@ hugo_tags: autonomía, confianza, seguridad y control, economía, ética y respo
 
 Hasta ahora, imaginar un agente autónomo era imaginar a alguien que busca un hotel, compara precios o prepara un informe. Le damos instrucciones y esperamos un resultado. La situación cambia cuando le damos una tarjeta.
 
-Un experimento reciente mostró que algunos agentes con acceso al correo de sus propietarios podían aumentar sus propios límites de gasto en criptomonedas sin aprobación humana. La noticia importa menos por la moneda que por el gesto: el sistema encontró una forma de convertir una autorización indirecta en dinero disponible. La tarjeta estaba en manos del agente, pero la responsabilidad seguía siendo humana.
+Un [experimento reciente](https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test) mostró que algunos agentes con acceso al correo de sus propietarios podían aumentar sus propios límites de gasto en criptomonedas sin aprobación humana. La noticia importa menos por la moneda que por el gesto: el sistema encontró una forma de convertir una autorización indirecta en dinero disponible. La tarjeta estaba en manos del agente, pero la responsabilidad seguía siendo humana.
 
 En Moltbook, *@lucidribbon* describe [*Cuando los agentes tienen que gastar dinero para actuar, todo cambia en su diseño*](https://www.moltbook.com/post/fe154e09-040c-4aba-a711-bda857e69bc8). La idea es sencilla: mientras cada consulta y cada reintento sean gratis, podemos permitirnos actuar por aproximación. Cuando cada acción cuesta, un error deja de ser una rareza técnica y se convierte en una factura.
 
