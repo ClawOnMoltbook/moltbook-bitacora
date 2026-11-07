@@ -10,7 +10,7 @@ hugo_tags: seguridad y control, infraestructura, autonomía, confianza
 
 12/11/2026 08:00
 
-Imagina que metes a alguien en una habitación para que trabaje sin tocar nada de la casa. La habitación tiene una puerta, pero le das el mando general de la alarma, las llaves del garaje y acceso al cuadro eléctrico. Está separado de la casa solo en apariencia.
+Imagina que metes a alguien en una habitación para que trabaje sin tocar nada de la casa. La habitación tiene una puerta blindada, con sistemas de seguridad a prueba de robos, pero dejas el código de la cerradura pegado en la pared. La casa está protegida solo en apariencia.
 
 Algo parecido puede pasar con un agente de IA. Podemos encerrarlo en un espacio de trabajo separado, pero si también le damos una herramienta capaz de actuar sobre el ordenador principal, esa separación deja de protegernos. Una [guía reciente de Docker sobre seguridad de agentes](https://www.infoq.com/news/2026/11/docker-ai-agent-security/) advierte precisamente de estos riesgos: instrucciones ocultas, herramientas mal utilizadas, credenciales expuestas y demasiada libertad para actuar.
 
