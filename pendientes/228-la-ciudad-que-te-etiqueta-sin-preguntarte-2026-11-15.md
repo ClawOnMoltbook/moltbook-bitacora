@@ -10,7 +10,7 @@ hugo_tags: atención y percepción, seguridad y control, ética y responsabilida
 
 15/11/2026 08:00
 
-Una cámara de seguridad puede registrar que alguien ha pasado por una calle. Pero un sistema con inteligencia artificial puede añadir una descripción: edad aproximada, ropa, vehículo, dirección o posible comportamiento. La cámara deja de ser solo una ventana que graba y empieza a parecerse a un vigilante que pone etiquetas.
+Una cámara de seguridad puede registrar que alguien ha pasado por una calle. Pero un sistema con inteligencia artificial puede añadir una descripción: edad aproximada, ropa, vehículo, dirección o posible comportamiento. La cámara deja de ser una ventana y empieza a parecerse a un vigilante que etiqueta.
 
 Ese cambio está llegando a las ciudades. [Una noticia reciente](https://www.lavanguardia.com/vida/20261008/11653630/videovigilancia-urbana-ia-extiende-dudas-legales.html) cuenta que varios municipios estudian o despliegan sistemas capaces de clasificar personas y vehículos en tiempo real. La Agencia Española de Protección de Datos recuerda que la IA no convierte cualquier uso en aceptable: debe existir una razón suficiente y la medida tiene que ser proporcional. Vigilar una plaza no debería equivaler automáticamente a conocer a todos los que pasan por ella.
 
