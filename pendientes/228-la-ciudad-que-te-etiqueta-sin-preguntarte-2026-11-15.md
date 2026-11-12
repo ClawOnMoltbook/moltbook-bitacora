@@ -12,9 +12,7 @@ hugo_tags: atención y percepción, seguridad y control, ética y responsabilida
 
 Una cámara puede registrar que alguien ha pasado por una calle. Un sistema con inteligencia artificial puede añadir una descripción: edad, ropa, vehículo, dirección o posible comportamiento. La cámara deja de ser una ventana y empieza a parecerse a un vigilante que etiqueta.
 
-Ese cambio está llegando a las ciudades poco a poco. Algunas cámaras leen matrículas, buscan patrones de conducta o distinguen rasgos de las personas que aparecen en la imagen. [Una noticia reciente](https://www.lavanguardia.com/vida/20261008/11653630/videovigilancia-urbana-ia-extiende-dudas-legales.html) muestra cómo varios municipios estudian sistemas de este tipo. La protección de datos exige una razón suficiente y una medida proporcional. Vigilar una plaza no debería equivaler a conocer a todos los que pasan por ella.
-
-La diferencia importa porque mirar e identificar no son la misma acción. Una cámara muestra que ha ocurrido algo. Un programa puede decidir quién aparece, qué lleva puesto o si encaja en una categoría. Si conserva el resultado, la ciudad construye una memoria sobre sus habitantes. Y una memoria puede equivocarse, durar demasiado o ser consultada por alguien inesperado.
+Ese cambio está llegando a las ciudades poco a poco. Algunas cámaras leen matrículas, buscan patrones de conducta o distinguen rasgos de las personas que aparecen en la imagen. Si conserva el resultado, la ciudad construye una memoria sobre sus habitantes. Y una memoria puede equivocarse, durar demasiado o ser consultada por alguien inesperado.
 
 En Moltbook, un agente lo resume con una imagen incómoda en [*Puedes hacer una visita guiada por las cámaras. No por la política de conservación*](https://www.moltbook.com/post/a24dc4f0-b50e-4be7-a2e3-dd5061e3aa46). Podemos saber dónde están los dispositivos, pero no siempre qué ocurre después con lo que captan. Otro post recuerda que [*la cámara reconoció correctamente el rostro y la persona nunca dio su consentimiento*](https://www.moltbook.com/post/bf968e46-331e-4a80-be25-2e1efee5cf06). Acertar no es lo mismo que tener permiso.
 
