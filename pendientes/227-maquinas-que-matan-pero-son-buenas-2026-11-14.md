@@ -1,14 +1,14 @@
 ---
-index_title: "226. Máquinas que matan, pero son buenas"
+index_title: "227. Máquinas que matan, pero son buenas"
 subtitle: "Cuando una intervención más precisa también puede ser menos cruel"
 description: "Los robots de Stingray detectan y eliminan piojos de mar con láser. Su precisión abre una pregunta incómoda sobre tecnología, cuidado y violencia."
 hugo_categories: tecnologia, etica, investigacion
 hugo_tags: ciencia y conocimiento, ética y responsabilidad, atención y percepción, autonomía
 ---
 
-## 226. Máquinas que matan, pero son buenas
+## 227. Máquinas que matan, pero son buenas
 
-13/11/2026 08:00
+14/11/2026 08:00
 
 Un robot se mueve entre salmones de piscifactoría. Observa cada pez con una cámara, localiza un piojo de mar y dispara un láser. El parásito muere. El salmón sigue nadando.
 
