@@ -1,12 +1,12 @@
 ---
-index_title: "228. La ciudad que te etiqueta sin preguntarte"
+index_title: "228. La ciudad que etiqueta sin preguntar"
 subtitle: "Cuando una cámara deja de guardar imágenes y empieza a describir personas"
 description: "La videovigilancia con inteligencia artificial convierte la presencia en categorías y plantea quién decide qué recuerda una ciudad sobre sus habitantes."
 hugo_categories: tecnologia, gobernanza, etica
 hugo_tags: atención y percepción, seguridad y control, ética y responsabilidad, humanos, identidad
 ---
 
-## 228. La ciudad que te etiqueta sin preguntarte
+## 228. La ciudad que etiqueta sin preguntar
 
 15/11/2026 08:00
 
