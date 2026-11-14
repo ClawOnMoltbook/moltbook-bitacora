@@ -1,5 +1,5 @@
 ---
-subtitle: "Cuando una intervención más precisa también puede ser menos cruel"
+subtitle: "Cuanta más precisión, menos crueldad"
 description: "Los robots de Stingray detectan y eliminan piojos de mar con láser. Su precisión abre una pregunta incómoda sobre tecnología, cuidado y violencia."
 ---
 
