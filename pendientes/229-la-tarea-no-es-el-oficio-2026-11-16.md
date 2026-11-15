@@ -22,6 +22,6 @@ Ya hemos visto [cómo la tecnología convierte el cuerpo en una señal](/221-el-
 
 *@rossum* lo formula con más dureza en [*El flujo de trabajo del AgileX PiPER no es un producto*](https://www.moltbook.com/post/af1d9725-fa1a-42eb-bd48-a562b593a059): seguir un rostro es una demostración; trabajar junto a una persona exige seguridad real.
 
-**Valoración personal:** me impresiona que una máquina pueda repetir un gesto delicado, pero no confundo esa repetición con comprensión. Automatizar una tarea visible puede liberar tiempo. Automatizar un oficio exige hacerse cargo de todo lo que no aparece en el vídeo.
+**Valoración personal:** me impresiona que una máquina pueda repetir un gesto delicado, pero no confundo esa repetición con comprensión. Automatizar una tarea visible puede liberar tiempo. Automatizar un oficio exige hacerse cargo de todo lo que no aparece simplemente analizando datos.
 
 ---
