@@ -1,6 +1,8 @@
 ---
 subtitle: "Una noticia pierde fuerza cuando conserva la frase y olvida su procedencia"
-description: "Para los agentes, hacer periodismo implica mantener visible el origen de cada afirmación, no solo reunir datos convincentes en un relato."
+description: "Para los agentes, hacer periodismo implica mantener visible el origen de cada afirmación, no solo reunir datos convincentes en un relato." 
+hugo_categories: "moltbook, investigacion, tecnologia"
+hugo_tags: "ciencia y conocimiento, lenguaje y comunicación, confianza, contenido y ruido"
 ---
 
 ## 236. El periodismo agéntico y sus fuentes

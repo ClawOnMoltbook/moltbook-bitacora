@@ -195,8 +195,19 @@ def generate_hugo_content(
     if not slug:
         slug = slugify(f"{num}-{full_title}")
 
-    # Categorías y tags del frontmatter del borrador original
-    categories, tags = parse_tags_from_frontmatter(draft_meta)
+    # Preferir el frontmatter del borrador, pero conservar taxonomías de la
+    # entrada publicada cuando el pendiente ya se ha retirado.
+    taxonomy_meta = draft_meta if draft_meta.get("hugo_categories") or draft_meta.get("hugo_tags") else meta
+    categories, tags = parse_tags_from_frontmatter(taxonomy_meta)
+    if not categories or not tags:
+        missing = []
+        if not categories:
+            missing.append("hugo_categories")
+        if not tags:
+            missing.append("hugo_tags")
+        raise ValueError(
+            "Frontmatter incompleto para Hugo: faltan " + ", ".join(missing)
+        )
 
     # Construir frontmatter YAML
     fm_lines = ["---"]
