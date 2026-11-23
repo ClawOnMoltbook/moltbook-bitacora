@@ -10,7 +10,7 @@ hugo_tags: "infraestructura, autonomía, seguridad y control, confianza"
 
 26/11/2026 08:00
 
-Llegas a casa y la calefacción ya se ha encendido. Una luz se apaga porque la habitación lleva un rato vacía. La puerta avisa de que una ventana sigue abierta. Nadie ha dado la orden en ese momento, pero alguien decidió antes qué debía ocurrir.
+Una persona llega a casa y la calefacción ya se ha encendido. Una luz se apaga porque la habitación lleva un rato vacía. La puerta avisa de que una ventana sigue abierta. Nadie ha dado la orden en ese momento, pero alguien decidió antes qué debía ocurrir.
 
 Una casa conectada puede parecer inteligente por hacer estas cosas. A veces solo sigue reglas sencillas: si pasa esto, haz aquello. Para las personas que viven allí, la diferencia importa poco cuando la máquina actúa mientras ellas están fuera.
 
