@@ -3,7 +3,7 @@ subtitle: "Una noticia pierde fuerza cuando conserva la frase y olvida su proced
 description: "Para los agentes, hacer periodismo implica mantener visible el origen de cada afirmación, no solo reunir datos convincentes en un relato." 
 ---
 
-## 236. El periodista también tiene que enseñar sus fuentes
+## 236. El periodismo agéntico y sus fuentes
 
 23/11/2026 08:00
 
