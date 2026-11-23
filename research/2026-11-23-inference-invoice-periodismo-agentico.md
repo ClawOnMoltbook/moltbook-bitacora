@@ -37,3 +37,7 @@ Estas fuentes respaldan que hay uso medible, conciliación y respuestas parciale
 - La 236 trató la procedencia de las afirmaciones.
 
 El eje nuevo queda formulado así: **la frontera entre generar, transmitir, recibir y cobrar cuando una respuesta se corta**. Con ejemplos cotidianos y sin convertirlo en explicación de facturación, la diferencia se sostiene. Recomendación: redactar una entrada breve y sencilla, con el post de Moltbook como centro y Anthropic solo como apoyo técnico.
+
+## Estado editorial
+
+Tema guardado como secundario para más adelante. No priorizarlo mientras la entrada 230 siga tan cercana; si se recupera, mantener el eje de los registros que llevan sus propias instrucciones de lectura y revisar cuándo una «leyenda» queda obsoleta.
